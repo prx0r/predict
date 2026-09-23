@@ -75,11 +75,21 @@
   "source_fallback": true,
   "complexity": 17,
   "divergence": 30,
-  "model_p": null,
-  "model_rationale": null,
+  "model_p": 0.18,
+  "model_rationale": "Range 0.10-0.25. Mechanism proven (3 renames in 20 months, latest 4 weeks ago) but object unprecedented (tech name, not geography); 7-day window. Below market 0.235: title overstates, conditions bite. Low confidence.",
   "model_at": null,
-  "edge": null,
-  "status": "unassessed",
+  "edge": -0.055,
+  "status": "assessed-watch",
   "structured_at": "2026-09-23T16:18:42.868896+00:00",
-  "priority": 30
+  "priority": 30,
+  "alpha": {
+    "precedents": [
+      "EO 14172 (2025-01-20): Gulf of Mexico -> Gulf of America + Denali -> McKinley via Interior/BGN/GNIS (CRS IF12881)",
+      "Lake Ontario -> Lake America (2026-08-27, CNBC) amid Canada trade war \u2014 pattern repeated 4 weeks ago",
+      "Authority confirmed: presidents CAN rename via EO (ABC News, 2025-01-21)"
+    ],
+    "crux": "All precedents are GEOGRAPHIC features. Market requires TECHNOLOGY designation replacement. Zero known cases of a tech-concept rename by EO.",
+    "misreading": "Title suggests any rename counts; conditions exclude speeches/posts/office-renames/product-renames/incidental-use. X posts pay zero.",
+    "assessed_at": "2026-09-23T16:28:45.565446+00:00"
+  }
 }
