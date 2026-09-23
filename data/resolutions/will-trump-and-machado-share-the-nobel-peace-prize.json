@@ -1,0 +1,53 @@
+{
+  "question": "Will Trump and Machado share the Nobel Peace Prize?",
+  "slug": "will-trump-and-machado-share-the-nobel-peace-prize",
+  "conditionId": "0xc8d4e2c302e248cb5cd7179c589281e93b5c594baa57e04d3f0b934bd8df449d",
+  "market_p": 1.0,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "spread": 0.001,
+  "volume": 1918597.958291,
+  "liquidity": 0.0,
+  "endDate": "2026-12-31T00:00:00Z",
+  "umaResolutionStatus": "resolved",
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if any of the following conditions are met by December 31, 2026, 11:59 PM ET.",
+    "This does not require official confirmation from the Nobel Prize or the Norwegian Nobel Committee."
+  ],
+  "exclusions": [
+    "Statements that merely express a desire to share the prize or otherwise endorse the idea of sharing, without clearly demonstrating an agreement to share or an active sharing of the prize, will not count."
+  ],
+  "timing": [
+    "11:59 PM ET",
+    "by December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "1) Public statements from both Donald Trump and Maria Corina Machado announcing that they are sharing the 2025 Nobel Peace Prize or that the Nobel prize has been transferred to Trump.",
+    "Only statements from both Machado and Trump which demonstrate that they are currently sharing, will share, or have decided to share the 2025 Nobel Peace Prize will count.",
+    "2) A consensus of credible reporting or statements from both Machado and Trump confirm that the physical 2025 Nobel Peace Prize medal has been transferred to Trump for permanent ownership or joint ownership with Machado.",
+    "3) The Nobel Prize or the Norwegian Nobel Committee officially recognize Donald Trump as a co-recipient of the 2025 Nobel Peace Prize.",
+    "The resolution sources for this market will be official statements from Donald Trump and Maria Corina Machado, official information from the Nobel Peace Prize or the Norwegian Nobel Committee (https://www.nobelprize.org/), and a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "clearly",
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 13,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.382226+00:00",
+  "priority": 94.68,
+  "complexity_v2": 4,
+  "weasel_non_template": [
+    "clearly"
+  ]
+}

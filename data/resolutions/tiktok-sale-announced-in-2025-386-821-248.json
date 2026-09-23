@@ -1,0 +1,46 @@
+{
+  "question": "TikTok sale announced in 2025?",
+  "slug": "tiktok-sale-announced-in-2025-386-821-248",
+  "conditionId": "0xf005ddced69842c3943edea3b8fb24187240ac93becdc1532c5b9db34f9dd2c8",
+  "market_p": 1.0,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "spread": 0.001,
+  "volume": 9671895.18163,
+  "liquidity": 0.0,
+  "endDate": "2025-12-31T12:00:00Z",
+  "umaResolutionStatus": "resolved",
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if ByteDance announces their intention to sell TikTok by December 31, 2025, 11:59 PM ET."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "by December 31, 2025"
+  ],
+  "context": [
+    "Otherwise this market will resolve to \u201cNo\u201d.",
+    "A public announcement of the intention to sell TikTok will qualify even if a sale has not been finalized.",
+    "This includes any formal declaration made by ByteDance or its authorized representatives regarding their plans to sell or transfer ownership of TikTok.",
+    "The primary resolution source for this market will be official information from ByteDance.",
+    "However, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.600875+00:00",
+  "priority": 71.87,
+  "complexity_v2": 0,
+  "weasel_non_template": []
+}

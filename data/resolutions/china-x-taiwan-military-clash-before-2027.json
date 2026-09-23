@@ -1,0 +1,49 @@
+{
+  "question": "China x Taiwan military clash before 2027?",
+  "slug": "china-x-taiwan-military-clash-before-2027",
+  "conditionId": "0x4c80df6f557bb0b9de08c0301ebdce500dd9bdc58400d9269fb8fab1709ed584",
+  "market_p": 0.057,
+  "bestBid": 0.055,
+  "bestAsk": 0.058,
+  "spread": 0.003,
+  "volume": 3431659.8812109996,
+  "liquidity": 88861.8717,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if there is a military encounter between the military forces of China (People's Republic of China) and Taiwan (Republic of China) between November 11, 2025, and December 31, 2026, 11:59 PM ET."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \"No\".",
+    "A \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between Chinese and Taiwanese military forces.",
+    "Non-violent actions, such as warning shots, artillery fire into uninhabited areas, or missile launches that land in territorial waters or pass through airspace, will not qualify for a \"Yes\" resolution.",
+    "Intentional ship ramming that results in significant damage to (e.g., a hole in the hull) or the sinking of a military ship by another will count toward a \"Yes\" resolution, however minor damage (scrapes, dents) will not.",
+    "Note: the China Coast Guard (CCG) is part of the military, however Taiwan's Coast Guard Administration (CGA) is not.",
+    "The resolution source for this market will be a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "significant"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.695213+00:00",
+  "priority": 69.82,
+  "complexity_v2": 2,
+  "weasel_non_template": [
+    "significant"
+  ]
+}

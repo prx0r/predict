@@ -35,5 +35,7 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T15:43:54.818023+00:00"
+  "structured_at": "2026-09-23T15:43:54.818023+00:00",
+  "complexity_v2": 0,
+  "weasel_non_template": []
 }

@@ -1,0 +1,49 @@
+{
+  "swept_at": "2026-09-23T16:02:57.783108+00:00",
+  "queries": 33,
+  "unique": 1677,
+  "structured": 1677,
+  "saved_top": 50,
+  "top_scores": [
+    [
+      118.95,
+      "Russia x Ukraine ceasefire by May 31, 2026?"
+    ],
+    [
+      114.18,
+      "Russia x Ukraine ceasefire by June 30, 2026?"
+    ],
+    [
+      106.68,
+      "Trump renames AI by September 30?"
+    ],
+    [
+      100.22,
+      "Trump x Greenland deal signed by December 31?"
+    ],
+    [
+      98.27,
+      "Trump x Greenland deal signed by September 23?"
+    ],
+    [
+      97.55,
+      "Russia x Ukraine ceasefire in 2025?"
+    ],
+    [
+      96.1,
+      "Trump x Greenland deal signed by September 25?"
+    ],
+    [
+      94.68,
+      "Will Trump and Machado share the Nobel Peace Prize?"
+    ],
+    [
+      92.05,
+      "Will Trump create Bitcoin reserve in first 100 days?"
+    ],
+    [
+      90.68,
+      "Russia x Ukraine ceasefire by December 31, 2026?"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question": "Will the Milwaukee Brewers win the 2026 World Series?",
+  "slug": "will-the-milwaukee-brewers-win-the-2026-world-series",
+  "conditionId": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+  "market_p": 0.165,
+  "bestBid": 0.164,
+  "bestAsk": 0.165,
+  "spread": 0.001,
+  "volume": 1572318.0876679998,
+  "liquidity": 120402.96355,
+  "endDate": "2026-10-31T23:55:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "If the 2026 MLB season is cancelled, postponed after December 31, 2026 ET, or there is otherwise no winner declared within that timeframe, this market will resolve to \u201cOther\u201d."
+  ],
+  "exclusions": [],
+  "timing": [
+    "December 31, 2026"
+  ],
+  "context": [
+    "This market will resolve according to the team that wins the 2026 MLB World Series.",
+    "If at any point it becomes impossible for a listed team to win the 2026 MLB World Series per the rules of MLB (e.g., they are eliminated in the playoffs), the corresponding market will resolve to \u201cNo\u201d.",
+    "The primary resolution source will be official information from MLB (https://www.mlb.com/); however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.218112+00:00",
+  "priority": 66.77,
+  "complexity_v2": 0,
+  "weasel_non_template": []
+}

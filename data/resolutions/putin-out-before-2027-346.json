@@ -1,0 +1,42 @@
+{
+  "question": "Putin out as President of Russia by December 31, 2026?",
+  "slug": "putin-out-before-2027-346",
+  "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+  "market_p": 0.042,
+  "bestBid": 0.041,
+  "bestAsk": 0.042,
+  "spread": 0.001,
+  "volume": 22010134.810166974,
+  "liquidity": 807703.32486,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if Vladimir Putin ceases to be President of Russia for any period of time between market creation and the specified date (ET)."
+  ],
+  "exclusions": [],
+  "timing": [],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "An announcement of Vladimir Putin's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.",
+    "If the specified individual is detained, effectively removed from the specified position, or otherwise permanently prevented from fulfilling the duties of the specified position within this market\u2019s timeframe, it will qualify for a \u201cYes\u201d resolution.",
+    "The resolution source for this market will be official information from Vladimir Putin and the government of Russia; however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.011638+00:00",
+  "priority": 77.08,
+  "complexity_v2": 0,
+  "weasel_non_template": []
+}

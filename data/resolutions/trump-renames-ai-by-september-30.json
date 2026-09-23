@@ -6,8 +6,8 @@
   "bestBid": 0.23,
   "bestAsk": 0.24,
   "spread": 0.01,
-  "volume": "143391.634986",
-  "liquidity": "16734.5458",
+  "volume": 143763.44234599997,
+  "liquidity": 14428.8783,
   "endDate": "2026-10-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -44,5 +44,8 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T15:43:53.932947+00:00"
+  "structured_at": "2026-09-23T16:02:57.009307+00:00",
+  "priority": 106.68,
+  "complexity_v2": 8,
+  "weasel_non_template": []
 }

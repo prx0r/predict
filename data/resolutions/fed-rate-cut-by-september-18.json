@@ -1,0 +1,42 @@
+{
+  "question": "Fed rate cut by September 18?",
+  "slug": "fed-rate-cut-by-september-18",
+  "conditionId": "0xa0811c97f529d627b7774a5b188e605736b745a1f892c39e16c5a022fdb84b8b",
+  "market_p": 1.0,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "spread": 0.001,
+  "volume": 20345317.826273,
+  "liquidity": 0.0,
+  "endDate": "2024-09-18T00:00:00Z",
+  "umaResolutionStatus": "resolved",
+  "umaBond": "500.0",
+  "umaReward": "5.0",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if the upper bound of the target federal funds rate is decreased at any point between March 6, 2024 ET and September 18, 2024 ET.",
+    "Otherwise, this market will resolve to \u201cNo.\u201d\n\nThis market may not resolve to \"No\" until September 18, 2024, 11:59 PM ET has passed."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "The primary resolution source for this market will be the official website of the Federal Reserve (https://www.federalreserve.gov/monetarypolicy/openmarket.htm), however a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.041205+00:00",
+  "priority": 74.78,
+  "complexity_v2": 0,
+  "weasel_non_template": []
+}

@@ -1,0 +1,50 @@
+{
+  "question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "conditionId": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_p": 0.225,
+  "bestBid": 0.22,
+  "bestAsk": 0.23,
+  "spread": 0.01,
+  "volume": 2665402.4685310004,
+  "liquidity": 96496.4184,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "A ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.",
+    "A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date.",
+    "Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.",
+    "Any form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.",
+    "Only agreements which constitute a general pause in the conflict will qualify.",
+    "Agreements which only apply to specific conflict categories (e.g.",
+    "restrictions on certain target categories or certain locations) will not qualify.",
+    "If a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.",
+    "The primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.671619+00:00",
+  "priority": 68.83,
+  "complexity_v2": 0,
+  "weasel_non_template": []
+}

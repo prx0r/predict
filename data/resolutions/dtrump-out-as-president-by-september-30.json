@@ -1,0 +1,48 @@
+{
+  "question": "Trump out as President by September 30?",
+  "slug": "dtrump-out-as-president-by-september-30",
+  "conditionId": "0xc3794a8d3a34d04b9f39773e35c4cecdac89d32eab93e8589d9a6f03e04e9490",
+  "market_p": 0.003,
+  "bestBid": 0.002,
+  "bestAsk": 0.003,
+  "spread": 0.001,
+  "volume": 1713845.3327720005,
+  "liquidity": 355175.23518,
+  "endDate": "2026-10-01T03:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if Donald Trump resigns or is removed as President or otherwise ceases to be the President of the United States for any period of time between market creation and September 30, 2026, 11:59 PM ET."
+  ],
+  "exclusions": [
+    "temporary invocation of the 25th Amendment under Section 3 or a Section 4 invocation not sustained by both Houses of Congress) or impeachment without removal will not count."
+  ],
+  "timing": [
+    "11:59 PM ET",
+    "September 30"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "An announcement of Donald Trump's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.",
+    "Only permanent removal from office will qualify.",
+    "Temporary removal (e.g.",
+    "A sustained invocation of the Twenty-Fifth Amendment, Section 4 (i.e., if both Houses of Congress, by two-thirds vote, uphold the Vice President and Cabinet\u2019s determination of presidential inability) will qualify for a \"Yes\" resolution.",
+    "The resolution source for this market will be a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.009624+00:00",
+  "priority": 67.11,
+  "complexity_v2": 2,
+  "weasel_non_template": []
+}

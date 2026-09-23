@@ -1,0 +1,54 @@
+{
+  "question": "Will China blockade Taiwan in 2026?",
+  "slug": "will-china-blockade-taiwan-by-in-2026",
+  "conditionId": "0x96498c10c79ecaafa2bbb92ada36c7ff617913b03d9220f8c95ce7d6776a0b0c",
+  "market_p": 0.038,
+  "bestBid": 0.034,
+  "bestAsk": 0.042,
+  "spread": 0.008,
+  "volume": 370964.57035699993,
+  "liquidity": 43634.72599,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if China (People's Republic of China) announces it has established or otherwise de facto establishes an aerial or naval blockade for the territory of Taiwan (Republic of China) by December 31, 2026, 11:59 PM ET."
+  ],
+  "exclusions": [
+    "- Seizure or inspection of a single vessel/aircraft by itself, unless part of an enforced pattern that denies access as defined above."
+  ],
+  "timing": [
+    "11:59 PM ET",
+    "by December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \"No\".",
+    "A qualifying blockade is:\n- Prevents the normal ingress or egress of foreign commercial traffic to or from Taiwan Island\u2019s main ports or airports by threat or use of force for \u2265 24 hours.",
+    "- Covers part or whole of the main island of Taiwan (Formosa).",
+    "- Is declared and enforced, de facto (e.g., it is established that China is blocking a significant portion of foreign commercial traffic, as described above, by a wide consensus of credible reporting regardless of whether China has issued a statement or not), or China-issued navigation/airspace prohibitions covering Taiwan's main island's approach lanes that are actively enforced so that most foreign commercial access is denied.",
+    "A qualifying blockade is not:\n- Military or naval exercises or drills (established with warning areas or NOTAMs that do not actively stop third-country ships/aircraft and do not materially deny access).",
+    "- Purely economic or coercive measures (e.g., sanctions, customs delays, fishing bans, cyber/GPS jamming) without physical interdiction or enforced closure).",
+    "- Weather/accident-related closures or voluntary rerouting by operators absent PRC enforcement.",
+    "- Islet-only incidents that do not involve the main island of Taiwan.",
+    "The resolution source for this market will be a broad consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "significant"
+  ],
+  "complexity": 11,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.696218+00:00",
+  "priority": 74.26,
+  "complexity_v2": 4,
+  "weasel_non_template": [
+    "significant"
+  ]
+}

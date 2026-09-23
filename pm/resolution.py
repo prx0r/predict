@@ -57,6 +57,13 @@ def split_sentences(text: str) -> list:
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text or "") if s.strip()]
 
 
+def _num(v):
+    try:
+        return float(v)
+    except (ValueError, TypeError):
+        return 0.0
+
+
 def structure(m: dict) -> dict:
     desc = m.get("description") or ""
     reqs, excs, timing, other = [], [], [], []
@@ -84,7 +91,7 @@ def structure(m: dict) -> dict:
         "market_p": market_p,
         "bestBid": m.get("bestBid"), "bestAsk": m.get("bestAsk"),
         "spread": m.get("spread"),
-        "volume": m.get("volume"), "liquidity": m.get("liquidity"),
+        "volume": _num(m.get("volume")), "liquidity": _num(m.get("liquidity")),
         "endDate": m.get("endDate"),
         "umaResolutionStatus": m.get("umaResolutionStatus"),
         "umaBond": m.get("umaBond"), "umaReward": m.get("umaReward"),

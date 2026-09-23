@@ -1,0 +1,45 @@
+{
+  "question": "Will Ronaldo Cry at the World Cup?",
+  "slug": "will-ronaldo-cry-at-the-world-cup-20260604013616610",
+  "conditionId": "0x86f5b0f1934bb39421651ad2ba0f04494700ba9e95663a5c141a8674c4978c15",
+  "market_p": 1.0,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "spread": 0.001,
+  "volume": 89210513.79233912,
+  "liquidity": 0.0,
+  "endDate": null,
+  "umaResolutionStatus": "resolved",
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if Cristiano Ronaldo visibly sheds tears that can be clearly observed on his face in any photograph or video during a 2026 FIFA World Cup match for Portugal.",
+    "Otherwise, this market will resolve to \"No.\"\n\nThe images or video must be authentic."
+  ],
+  "exclusions": [
+    "Otherwise, this market will resolve to \"No.\"\n\nThe 'crying' must occur while Ronaldo is on the field or the bench area; crying in the locker room or other areas will not count."
+  ],
+  "timing": [],
+  "context": [
+    "This can occur before, during, or after the match.",
+    "Archival material, previously recorded footage, reused images, digitally altered content, AI-generated media, or staged reproductions will not qualify.",
+    "The primary resolution source for this market will be credible video or photographic evidence."
+  ],
+  "weasel_terms": [
+    "clearly",
+    "credible"
+  ],
+  "complexity": 9,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:02:57.333879+00:00",
+  "priority": 80.55,
+  "complexity_v2": 4,
+  "weasel_non_template": [
+    "clearly"
+  ]
+}
