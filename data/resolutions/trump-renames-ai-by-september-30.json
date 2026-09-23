@@ -91,5 +91,14 @@
     "crux": "All precedents are GEOGRAPHIC features. Market requires TECHNOLOGY designation replacement. Zero known cases of a tech-concept rename by EO.",
     "misreading": "Title suggests any rename counts; conditions exclude speeches/posts/office-renames/product-renames/incidental-use. X posts pay zero.",
     "assessed_at": "2026-09-23T16:28:45.565446+00:00"
-  }
+  },
+  "jev_assessment": {
+    "model": "typesafe/jev-1.13",
+    "via": "openrouter-decisions-api",
+    "resolves_yes_noul": 0.15,
+    "conditions_misleading_noul": 0.92,
+    "assessed_at": "2026-09-23T18:01:41.163335+00:00",
+    "note": "independent of human model_p 0.18; same band, same direction"
+  },
+  "edge_jev": -0.085
 }

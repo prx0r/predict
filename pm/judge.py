@@ -72,6 +72,29 @@ def record_judgment(rec: dict, judgment: dict, judge: str,
     return out
 
 
+def jev_decide(state, questions, model="typesafe/jev-1.13",
+               api_key=None, timeout=90):
+    """Call Jev via OpenRouter Decisions API (typed noul/choice/score).
+
+    Key NEVER stored: pass api_key at runtime (env OPENROUTER_API_KEY).
+    Returns the answers dict. $0.042/M input, outputs free.
+    Endpoint: POST https://openrouter.ai/api/alpha/decisions
+    """
+    import os
+    import urllib.request
+    key = api_key or os.environ.get("OPENROUTER_API_KEY", "")
+    if not key:
+        raise ValueError("no API key (env OPENROUTER_API_KEY)")
+    body = json.dumps({"model": model, "state": state,
+                       "questions": questions}).encode()
+    req = urllib.request.Request(
+        "https://openrouter.ai/api/alpha/decisions", data=body,
+        headers={"Authorization": "Bearer " + key,
+                 "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.load(r).get("answers", {})
+
+
 if __name__ == "__main__":
     import sys
     from pathlib import Path
