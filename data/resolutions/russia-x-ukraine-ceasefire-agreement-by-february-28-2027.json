@@ -68,5 +68,17 @@
     "conditions_misleading_noul": 0.24,
     "assessed_at": "2026-09-23T18:06:48.960699+00:00"
   },
-  "edge_jev": -0.035
+  "edge_jev": -0.035,
+  "alpha": {
+    "precedents": [
+      "Geneva Sep 22 2026: NO agreement on fundamentals (territory, Zaporizhzhia); monitoring mechanism ~agreed; more talks unspecified (Moscow Times).",
+      "May 2026 3-day Victory-Day ceasefire: announced by Trump, immediately violated by both sides (1000+ claimed violations, PBS). Agreement != compliance.",
+      "Energy ceasefire Sep 2026: Ukraine ready, Russia non-committal; Trump claims vs reality gap (RBC/Euronews). Sectoral deals may not satisfy general wording.",
+      "Minsk I/II: 1289 violations in 9mo (OSCE 2020-21); Budapest 1994 broken 2014. Announced-then-violated is the base pattern.",
+      "US pushing sectoral path (energy, hospitals) per Amb. Whitaker Sep 17 \u2014 partial deals fragment the trigger."
+    ],
+    "crux": "Market asks about AGREEMENT, not compliance \u2014 announced-but-violated counts if real. Thin text (one requirement, zero exclusions) means partial/sectoral deals sit in a gray zone. Near-term legs need a full agreement within weeks; talks produce monitoring mechanisms, not signatures.",
+    "misreading": "Title readers price compliance (will fighting stop); conditions price announcement (was something agreed). May-2026 pattern shows announcements happen and fail \u2014 title direction right, payoff wrong without the distinction.",
+    "assessed_at": "2026-09-23T17:00:00+00:00"
+  }
 }
