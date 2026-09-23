@@ -39,28 +39,48 @@ Needs resolution calendar + price paths per decaying market. Data
 exists (CLOB per-token paths dead; trentmkelly books selective).
 Queued behind E3.
 
-## E8. Speech-count latency — SPECCED, model-free (2026-09-23)
+## E8. Speech-count — BACKTESTED, POSITIVE (2026-09-23, n=826 legs)
 
 Screen: Jev confusion ≥0.60 AND question matches "say X" AND event
 within 48h. Action: consume live transcript, count the word, trade the
 matching leg. No probability model; the conditions are mechanically
 verifiable once the speaker stops talking.
 
-Measured on the 2026-02-24 SOTU family (99 markets, 2 Yes / 97 No):
-- 72 of 97 No legs never traded after listing; 27 saw late trade,
-  mean last price 2.8c — the last buyer on a dead leg lost ~2.8c.
-- Worst case measured: "Machado" last trade **0.87 → resolved No**
-  (−87c). Cause: Machado won the 2025 Nobel 9 days earlier; the
-  narrative bid a market whose truth is a word count. Narrative
-  contamination into a mechanical market = the inefficiency, named.
-- Both Yes legs repriced to 1.00 before resolution. The cheap fill is
-  NOT in the post-speech window — it is *during* the speech, when the
-  word is said and the market still sits at 5–87c.
+**Fade leg (adopted, paper).** Within one event's word-count family,
+flag any Yes leg priced ≥ max(0.05, 4× family median) **and ≤ 0.95**;
+buy the NO token at (1 − Yes price).
 
-Naive version KILLED by construction: family hit rate 2/99. Buying
-cheap Yes on names he "might" say loses 98c per dollar. Only the
-transcript-verified trade survives. Blocked on: transcript feed
-(C-SPAN / whitehouse.gov) + word-list matcher + speech calendar.
+Pulled 34 resolved speech families, 826 legs (`pm/backtest_speech.py`):
+- **Tradeable subset (Yes ≤ 0.95, No cost ≥ 0.05): 16 legs, 16 wins,
+  staked 11.44, P&L +4.47, ROI +39%** net of the 0.75%/leg assumption.
+- Confound test — fade EVERY leg: 574 legs, 66.6% hit, ROI **+1.7%**.
+  The screen is worth ~23× the indiscriminate baseline. Hit rate is
+  meaningless here (families are ~97% No); ROI vs baseline is the test.
+- Never fade a leg above 0.95: 70 such rows, **0 wins, −0.11**. Those
+  are the transcript-verified Yes legs — the other side of the trade.
+
+Named cases: "Machado" Yes 0.87 → No paid 0.13, returned +0.87
+(Nobel laureate nine days prior; narrative into a word count).
+"Unaffordable Care Act" CNBC 0.20 → +0.19. "Biden" ribbon-cutting
+0.22 → +0.21 (siblings all ≤0.01).
+
+Caveats logged, not hidden: fills are last-trade-before-resolution
+(the market's own last print implies a two-sided book, so the fill is
+observable, but the peak premium would be worse); 9 of 16 wins come
+from one SOTU, so effective independent n ≈ 4 events, not 16 legs.
+
+**Live leg (blocked).** Needs a transcript feed (C-SPAN /
+whitehouse.gov) + word-list matcher + speech calendar. First live
+instance: Trump remarks at Xi Jinping's event, 2026-09-24, 21 legs,
+median 0.15. No fade hit (no isolated outlier — top leg "China" 5+ at
+0.515 vs next 0.42). The 4× screen misses high-median families where
+every word is plausible; a percentile variant is in shadow only until
+it has its own resolved sample. Note the weekly families trade at
+40–67c spreads on $17–130 liquidity — unpriceable at size, and a
+liquidity edge, not a confusion edge.
+
+Naive version KILLED by construction: family hit rate ~2%. Buying
+cheap Yes on names he "might" say loses 98c per dollar.
 
 ## E9. Winner-take-all joint markets — SPECCED, one validation (2026-09-23)
 

@@ -1,0 +1,921 @@
+{
+  "ran_at": "2026-09-23T21:45:07.080957+00:00",
+  "fee_assumption": 0.0075,
+  "params": {
+    "mult": 4.0
+  },
+  "families": {
+    "What will Trump say in Corpus Christi on February 27 | 2026-02-27": 31,
+    "What will Donald Trump post this week? (February 23  | 2026-03-01": 21,
+    "What will Trump say in August? | 2026-08-31": 35,
+    "What will Trump say during Women's History Month eve | 2026-03-12": 23,
+    "What will Trump say during TrumpRX Ohio visit?  | 2026-03-11": 28,
+    "What will Biden say during State of the Union? | 2024-03-06": 13,
+    "Who will Trump name during the State of the Union ad | 2026-02-24": 44,
+    "What will Trump say first during the 2026 State of t | 2026-02-24": 78,
+    "What will Trump say during the State of the Union ad | 2026-01-31": 44,
+    "What nicknames will Trump say during the 2026 State  | 2026-02-24": 21,
+    "What will Trump say during his Ribbon Cutting Ceremo | 2026-09-21": 15,
+    "What will Trump say at the Energy and Innovation Sum | 2025-07-15": 17,
+    "What will Trump say during inauguration speech? | 2025-02-03": 24,
+    "What will Trump say during address to Congress? | 2025-03-04": 31,
+    "What will Trump say during Address to the Nation on  | 2026-04-01": 27,
+    "What will Trump say during address to UN General Ass | 2025-09-23": 18,
+    "What will Netanyahu say during address to UN General | 2025-09-26": 18,
+    "What will Trump say during WEF Address on January 21 | 2026-01-21": 23,
+    "What will Biden say during farewell address? | 2025-01-15": 19,
+    "What will Trump say during remarks to the Republican | 2026-03-09": 22,
+    "What will Trump say during Thursday press conference | 2024-08-15": 13,
+    "What will Trump say during Saturday rally? | 2024-08-17": 16,
+    "What will Trump say in March? | 2026-03-31": 32,
+    "What will Trump Say during Michigan rally? | 2024-10-03": 21,
+    "What will Trump Say during North Carolina town hall? | 2024-10-04": 21,
+    "What will Trump say during CNBC interview? | 2026-01-21": 12,
+    "What will Trump say during Elon interview? | 2024-08-23": 11,
+    "What will Trump say during NewsNation interview? | 2026-01-20": 20,
+    "What will Trump say during NBC interview? | 2024-12-08": 20,
+    "What will Trump say during Hannity interview on May  | 2025-05-13": 15,
+    "What will Trump say during press conference with Net | 2025-02-04": 11,
+    "What will Trump say during Press Conference in Turke | 2026-07-08": 21,
+    "What will Trump say during press conference on March | 2026-03-09": 25,
+    "What will Kevin Warsh say during July Press Conferen | 2026-07-29": 36
+  },
+  "baseline_fade_all": {
+    "legs": 574,
+    "wins": 382,
+    "hit_rate": 0.666,
+    "staked": 372.91,
+    "pnl": 6.3,
+    "roi": 0.017
+  },
+  "fade": {
+    "legs_flagged": 86,
+    "wins": 16,
+    "hit_rate": 0.186,
+    "staked": 11.549,
+    "pnl": 4.365,
+    "roi": 0.378
+  },
+  "rows": [
+    {
+      "family": "What nicknames will Trump say during the 2026 State  | 2026-02-24",
+      "q": "Will Trump say \"Green New Scam\" during the 2026 State of the",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.16,
+      "med": 0.04,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"God\" 3+ times during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Oil\" or \"Gas\" 3+ times during Address to the",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Objective\" or \"Goal\" 3+ times during Address",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Operation Epic Fury\" during Address to the N",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Proxy\" or \"Hezbollah\" during Address to the ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Hormuz\" during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Obliterated\" or \"Obliteration\" during Addres",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Nuclear\" during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Regime Change\" during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Qatar\" during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Obama\" during Address to the Nation?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Address to the Nation on  | 2026-04-01",
+      "q": "Will Trump say \"Holy\" or \"Evil\" during Address to the Nation",
+      "yes_fill": 0.996,
+      "no_cost": 0.004,
+      "thr": 0.053,
+      "med": 0.003,
+      "won": false,
+      "pnl": -0.004
+    },
+    {
+      "family": "What will Trump say during CNBC interview? | 2026-01-21",
+      "q": "Will Trump say \"China\" or \"Russia\" 7+ times during CNBC inte",
+      "yes_fill": 0.169,
+      "no_cost": 0.831,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": true,
+      "pnl": 0.1628
+    },
+    {
+      "family": "What will Trump say during CNBC interview? | 2026-01-21",
+      "q": "Will Trump say \"Barrel\" during CNBC interview?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during CNBC interview? | 2026-01-21",
+      "q": "Will Trump say \"Unaffordable Care Act\" during CNBC interview",
+      "yes_fill": 0.2,
+      "no_cost": 0.8,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": true,
+      "pnl": 0.194
+    },
+    {
+      "family": "What will Trump say during CNBC interview? | 2026-01-21",
+      "q": "Will Trump say \"NATO\" during CNBC interview?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Beautiful\" 10+ times during Women's History ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Trump\" 3+ times during Women's History Month",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"SAVE Act\" or \"Save America Act\" during Women",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Iran\" during Women's History Month event?",
+      "yes_fill": 0.998,
+      "no_cost": 0.002,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.002
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Epic Fury\" or \"Midnight Hammer\" during Women",
+      "yes_fill": 0.096,
+      "no_cost": 0.904,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": true,
+      "pnl": 0.0892
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Child\" during Women's History Month event?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"TrumpRX\" or \"Favored Nation\" during Women's ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Movie star\" during Women's History Month eve",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during Women's History Month eve | 2026-03-12",
+      "q": "Will Trump say \"Darling\" or \"Honey\" during Women's History M",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during his Ribbon Cutting Ceremo | 2026-09-21",
+      "q": "Will Trump say \"Biden\" during his Ribbon Cutting Ceremony?",
+      "yes_fill": 0.22,
+      "no_cost": 0.78,
+      "thr": 0.051,
+      "med": 0.001,
+      "won": true,
+      "pnl": 0.2141
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Hell\" 8+ times during Miami address?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Democrat\" 5+ times during Miami address?",
+      "yes_fill": 0.995,
+      "no_cost": 0.005,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.005
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Epic Fury\" during Miami address?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Transgender\" during Miami address?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Hottest\" during Miami address?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Delcy\" or \"Rodr\u00edguez\" during Miami address?",
+      "yes_fill": 0.36,
+      "no_cost": 0.64,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": true,
+      "pnl": 0.3552
+    },
+    {
+      "family": "What will Trump say during remarks to the Republican | 2026-03-09",
+      "q": "Will Trump say \"Manufacture\" or \"Manufacturing\" during Miami",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.07,
+      "med": 0.0175,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"America\" or \"American\" 25+ times during the ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Million\" or \"Billion\" or \"Trillion\" 15+ time",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Border\" 7+ times during the 2026 State of th",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"AI\" or \"Artificial Intelligence\" 2+ times du",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Hottest\" during the 2026 State of the Union ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Israel\" or \"Gaza\" during the 2026 State of t",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Egg\" during the 2026 State of the Union addr",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Oil\" or \"Gas\" 3+ times during the 2026 State",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Scam\" or \"Hoax\" during the 2026 State of the",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"No No No\" during the 2026 State of the Union",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Nobel\" or \"Peace Prize\" during the 2026 Stat",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Alien\" during the 2026 State of the Union ad",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Fentanyl\" or \"Cocaine\" during the 2026 State",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Olympic\" or \"Olympics\" during the 2026 State",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Supreme Court\" during the 2026 State of the ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Nuclear\" during the 2026 State of the Union ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Drill Baby Drill\" during the 2026 State of t",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Autopen\" or \"Auto Pen\" during the 2026 State",
+      "yes_fill": 0.38,
+      "no_cost": 0.62,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": true,
+      "pnl": 0.3754
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Hockey\" during the 2026 State of the Union a",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"America\" or \"American\" 50+ times during the ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say during the State of the Union ad | 2026-01-31",
+      "q": "Will Trump say \"Miracle\" during the 2026 State of the Union ",
+      "yes_fill": 0.987,
+      "no_cost": 0.013,
+      "thr": 0.084,
+      "med": 0.020999999999999998,
+      "won": false,
+      "pnl": -0.0131
+    },
+    {
+      "family": "What will Trump say first during the 2026 State of t | 2026-02-24",
+      "q": "Will Trump say \"America\" or \"American\" first during the 2026",
+      "yes_fill": 0.995,
+      "no_cost": 0.005,
+      "thr": 0.05,
+      "med": 0.0,
+      "won": false,
+      "pnl": -0.005
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Barack Hussein Obama\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Bitcoin\" in March?",
+      "yes_fill": 0.997,
+      "no_cost": 0.003,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.003
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Data Center\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Midnight Hammer\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Debate\" in March?",
+      "yes_fill": 0.998,
+      "no_cost": 0.002,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.002
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Drill Baby Drill\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Lonely\" in March?",
+      "yes_fill": 0.998,
+      "no_cost": 0.002,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.002
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"UFC Fight\" in March?",
+      "yes_fill": 0.104,
+      "no_cost": 0.896,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": true,
+      "pnl": 0.0973
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Easter\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Pulitzer Prize\" in March?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Snake\" in March?",
+      "yes_fill": 0.998,
+      "no_cost": 0.002,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.002
+    },
+    {
+      "family": "What will Trump say in March? | 2026-03-31",
+      "q": "Will Trump say \"Escalator\" in March?",
+      "yes_fill": 0.99,
+      "no_cost": 0.01,
+      "thr": 0.0635,
+      "med": 0.0135,
+      "won": false,
+      "pnl": -0.0101
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Beckstrom\" during the State of the Union add",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Charlie Kirk\" during the State of the Union ",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Hegseth\" during the State of the Union addre",
+      "yes_fill": 0.26,
+      "no_cost": 0.74,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.2545
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Kushner\" during the State of the Union addre",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Lincoln\" during the State of the Union addre",
+      "yes_fill": 0.26,
+      "no_cost": 0.74,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.2545
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Maduro\" during the State of the Union addres",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Marco\" or \"Rubio\" during the State of the Un",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Monroe\" during the State of the Union addres",
+      "yes_fill": 0.24,
+      "no_cost": 0.76,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.2343
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Obama\" during the State of the Union address",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Schumer\" during the State of the Union addre",
+      "yes_fill": 0.26,
+      "no_cost": 0.74,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.2545
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Susie Wiles\" during the State of the Union a",
+      "yes_fill": 0.4,
+      "no_cost": 0.6,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.3955
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Thune\" during the State of the Union address",
+      "yes_fill": 0.23,
+      "no_cost": 0.77,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.2242
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Witkoff\" during the State of the Union addre",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Biden\" during the State of the Union address",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Kevin Warsh\" during the State of the Union a",
+      "yes_fill": 0.35,
+      "no_cost": 0.65,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.3451
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Dell\" during the State of the Union address?",
+      "yes_fill": 0.999,
+      "no_cost": 0.001,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": false,
+      "pnl": -0.001
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Scalise\" during the State of the Union addre",
+      "yes_fill": 0.16,
+      "no_cost": 0.84,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.1537
+    },
+    {
+      "family": "Who will Trump name during the State of the Union ad | 2026-02-24",
+      "q": "Will Trump say \"Machado\" during the State of the Union addre",
+      "yes_fill": 0.87,
+      "no_cost": 0.13,
+      "thr": 0.14,
+      "med": 0.035,
+      "won": true,
+      "pnl": 0.869
+    }
+  ]
+}
