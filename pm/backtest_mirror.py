@@ -96,38 +96,61 @@ def main() -> int:
     args = ap.parse_args()
 
     all_rows, excluded = [], []
+    wallet_stats = {}
     for addr in [a.strip() for a in args.wallets.split(",") if a.strip()]:
         trades = wallet_trades(addr, args.limit, args.offset)
         print(f"  [{addr[:10]}] {len(trades)} trades")
-        seen = {}
+        # Net positions per market: aggregate scale-ins/outs, VWAP entry,
+        # majority side. One scored row per (wallet, market), not per fill.
+        positions = {}
         for t in trades:
             cid = t.get("conditionId", "")
-            if not cid or cid in seen:
+            if not cid:
                 continue
-            res = resolve_market(cid, t.get("slug", ""))
+            try:
+                price, size = float(t.get("price") or 0), float(t.get("size") or 0)
+            except (ValueError, TypeError):
+                continue
+            if not price or not size:
+                continue
+            p = positions.setdefault(cid, {"buy_n": 0.0, "sell_n": 0.0,
+                                           "buy_sz": 0.0, "sell_sz": 0.0,
+                                           "slug": t.get("slug", "")})
+            if (t.get("side") or "BUY").upper() == "BUY":
+                p["buy_n"] += price * size
+                p["buy_sz"] += size
+            else:
+                p["sell_n"] += price * size
+                p["sell_sz"] += size
+        for cid, p in positions.items():
+            res = resolve_market(cid, p.get("slug", ""))
             if not res or res["outcome"] is None:
                 continue
-            seen[cid] = res
             try:
                 rec = structure(res["market"])
             except Exception:
                 continue
-            try:
-                entry = float(t.get("price") or 0)
-            except (ValueError, TypeError):
-                continue
-            side = (t.get("side") or "BUY").upper()
-            # Paper: buy side taken at entry, 1 unit, redeemed at outcome.
-            win = (side == "BUY" and res["outcome"] == 1) or (side == "SELL" and res["outcome"] == 0)
-            if side == "BUY":
-                pnl = (1.0 if win else 0.0) - entry * (1 + FEE)
-            else:  # short Yes at entry: keep premium if No wins, pay out $1 if Yes wins
-                pnl = entry * (1 - FEE) if win else -(1.0 - entry) - entry * FEE
+            buy, sell = p["buy_n"], p["sell_n"]
+            if buy >= sell:
+                side = "BUY"
+                entry = p["buy_n"] / p["buy_sz"] if p["buy_sz"] else 0
+                pnl = (1.0 if res["outcome"] == 1 else 0.0) - entry * (1 + FEE)
+            else:
+                side = "SELL"
+                entry = p["sell_n"] / p["sell_sz"] if p["sell_sz"] else 0
+                pnl = entry * (1 - FEE) if res["outcome"] == 0 else -(1.0 - entry) - entry * FEE
             row = {"wallet": addr[:10], "question": (res["market"].get("question") or "")[:70],
-                   "side": side, "entry": entry, "outcome": res["outcome"],
+                   "side": side, "entry": round(entry, 4),
+                   "gross_usd": round(buy + sell, 2),
+                   "outcome": res["outcome"],
                    "divergence": rec.get("divergence", 0),
                    "pnl": round(pnl, 4)}
             (all_rows if rec.get("divergence", 0) < args.div_threshold else excluded).append(row)
+            ws = wallet_stats.setdefault(addr[:10], {"wins": 0, "n": 0, "pnl": 0.0})
+            ws["n"] += 1
+            ws["pnl"] += pnl
+            if pnl > 0:
+                ws["wins"] += 1
             time.sleep(0.3)
     def stats(rows):
         if not rows:
@@ -141,6 +164,9 @@ def main() -> int:
            "mirror_all": stats(all_rows),
            "excluded_by_filter": stats(excluded),
            "excluded_sample": excluded[:10],
+           "wallets": {w: {**s, "hit_rate": round(s["wins"] / s["n"], 3),
+                           "pnl": round(s["pnl"], 2)}
+                       for w, s in wallet_stats.items()},
            "rows": all_rows}
     outdir = ROOT / "data" / "engine"
     outdir.mkdir(parents=True, exist_ok=True)

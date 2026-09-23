@@ -1,42 +1,45 @@
 {
-  "ran_at": "2026-09-23T18:43:19.194802+00:00",
+  "ran_at": "2026-09-23T19:30:43.144091+00:00",
   "div_threshold": 8.0,
   "mirror_all": {
-    "n": 30,
-    "hit_rate": 0.333,
-    "pnl": -5.07,
-    "mean_edge": -0.1689
+    "n": 35,
+    "hit_rate": 0.429,
+    "pnl": -4.54,
+    "mean_edge": -0.1296
   },
   "excluded_by_filter": {
     "n": 5,
     "hit_rate": 0.4,
-    "pnl": -1.13,
-    "mean_edge": -0.2267
+    "pnl": -0.57,
+    "mean_edge": -0.1147
   },
   "excluded_sample": [
     {
       "wallet": "0x2005d16a",
-      "question": "Counter-Strike: FOKUS vs Sangal (BO3) - Stake Pulse Beat II Group A",
+      "question": "Counter-Strike: WW Team vs  Phantom Academy (BO3) - Exort Fiesta Playo",
       "side": "BUY",
-      "entry": 0.37,
-      "outcome": 0,
+      "entry": 0.5626,
+      "gross_usd": 832.65,
+      "outcome": 1,
       "divergence": 12,
-      "pnl": -0.3728
+      "pnl": 0.4332
     },
     {
       "wallet": "0x2005d16a",
-      "question": "Counter-Strike: WW Team vs  Phantom Academy (BO3) - Exort Fiesta Playo",
+      "question": "Counter-Strike: FOKUS vs Sangal (BO3) - Stake Pulse Beat II Group A",
       "side": "BUY",
-      "entry": 0.85,
-      "outcome": 1,
+      "entry": 0.5182,
+      "gross_usd": 14928.57,
+      "outcome": 0,
       "divergence": 12,
-      "pnl": 0.1436
+      "pnl": -0.5221
     },
     {
       "wallet": "0x2005d16a",
       "question": "Counter-Strike: FOKUS vs Astralis (BO3) - Stake Pulse Beat II Group A",
       "side": "BUY",
       "entry": 0.86,
+      "gross_usd": 86.0,
       "outcome": 0,
       "divergence": 12,
       "pnl": -0.8665
@@ -45,207 +48,254 @@
       "wallet": "0x2005d16a",
       "question": "Counter-Strike: Sashi Esport vs Sangal (BO3) - Stake Pulse Beat II Gro",
       "side": "BUY",
-      "entry": 0.94,
+      "entry": 0.5181,
+      "gross_usd": 10624.28,
       "outcome": 0,
       "divergence": 12,
-      "pnl": -0.9471
+      "pnl": -0.522
     },
     {
       "wallet": "0x2005d16a",
       "question": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
       "side": "BUY",
-      "entry": 0.09,
+      "entry": 0.0953,
+      "gross_usd": 139.1,
       "outcome": 1,
       "divergence": 12,
-      "pnl": 0.9093
+      "pnl": 0.904
     }
   ],
+  "wallets": {
+    "0x2005d16a": {
+      "wins": 11,
+      "n": 29,
+      "pnl": -3.12,
+      "hit_rate": 0.379
+    },
+    "0xfea31bc0": {
+      "wins": 6,
+      "n": 11,
+      "pnl": -1.99,
+      "hit_rate": 0.545
+    }
+  },
   "rows": [
     {
       "wallet": "0x2005d16a",
-      "question": "Ankara: Yuki Naito vs Ayla Aksu",
+      "question": "W50 Berkeley, CA: Arianna Zucchini vs Maria Aytoyan",
       "side": "BUY",
-      "entry": 0.009,
+      "entry": 0.1501,
+      "gross_usd": 16.64,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.8488
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
+      "side": "BUY",
+      "entry": 0.3151,
+      "gross_usd": 1057.2,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.0091
+      "pnl": -0.3175
     },
     {
       "wallet": "0x2005d16a",
       "question": "W50 Berkeley, CA: Adriana Reami vs Maria Sholokhova",
       "side": "BUY",
-      "entry": 0.6380309162,
+      "entry": 0.6309,
+      "gross_usd": 375.61,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.6428
+      "pnl": -0.6356
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Ankara: Yuki Naito vs Ayla Aksu",
+      "side": "BUY",
+      "entry": 0.0904,
+      "gross_usd": 279.85,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.0911
     },
     {
       "wallet": "0x2005d16a",
       "question": "St. Tropez: David Goffin vs Mark Lajal",
       "side": "BUY",
       "entry": 0.97,
+      "gross_usd": 1387.1,
       "outcome": 0,
       "divergence": 3,
       "pnl": -0.9773
     },
     {
       "wallet": "0x2005d16a",
-      "question": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
-      "side": "BUY",
-      "entry": 0.3057776751,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.3081
-    },
-    {
-      "wallet": "0x2005d16a",
       "question": "Porto: Susan Bandecchi vs Oceane Dodin",
       "side": "BUY",
-      "entry": 0.7515751043,
+      "entry": 0.383,
+      "gross_usd": 2223.97,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.7572
+      "pnl": -0.3858
     },
     {
       "wallet": "0x2005d16a",
       "question": "M25 Falun: William Rejchtman Vinciguerra vs Jan Simonsson",
       "side": "BUY",
-      "entry": 0.94,
+      "entry": 0.582,
+      "gross_usd": 207.86,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.0529
+      "pnl": 0.4136
     },
     {
       "wallet": "0x2005d16a",
       "question": "Ankara: Aysegul Mert vs Isabella Shinikova",
       "side": "BUY",
-      "entry": 0.25,
+      "entry": 0.3693,
+      "gross_usd": 159.43,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.7481
+      "pnl": 0.6279
     },
     {
       "wallet": "0x2005d16a",
       "question": "Buenos Aires 2: Santiago Rodriguez Taverna vs Nicolas Bruna",
       "side": "BUY",
-      "entry": 0.04,
+      "entry": 0.4966,
+      "gross_usd": 610.79,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.9597
+      "pnl": 0.4997
     },
     {
       "wallet": "0x2005d16a",
       "question": "Tolentino: Polona Hercog vs Leyre Romero Gormaz",
       "side": "BUY",
-      "entry": 0.33,
+      "entry": 0.4474,
+      "gross_usd": 2682.14,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.3325
+      "pnl": -0.4508
     },
     {
       "wallet": "0x2005d16a",
       "question": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
       "side": "BUY",
-      "entry": 0.029,
+      "entry": 0.4939,
+      "gross_usd": 661.77,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.9708
+      "pnl": 0.5024
     },
     {
       "wallet": "0x2005d16a",
       "question": "Buenos Aires 2: Thiago Cigarran vs Tomas Martinez",
       "side": "BUY",
-      "entry": 0.1,
+      "entry": 0.1002,
+      "gross_usd": 1653.3,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.1008
+      "pnl": -0.101
     },
     {
       "wallet": "0x2005d16a",
       "question": "Tolentino: Mia Ristic vs Arantxa Rus",
       "side": "BUY",
-      "entry": 0.93,
+      "entry": 0.5534,
+      "gross_usd": 1293.1,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.063
+      "pnl": 0.4425
     },
     {
       "wallet": "0x2005d16a",
       "question": "W50 Plovdiv: Mayuka Aikawa vs Diana-Ioana Simionescu",
       "side": "BUY",
-      "entry": 0.8,
+      "entry": 0.4373,
+      "gross_usd": 144.2,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.806
+      "pnl": -0.4406
     },
     {
       "wallet": "0x2005d16a",
       "question": "Singapore Open: Storm Hunter vs Joanna Garland",
       "side": "BUY",
-      "entry": 0.2,
+      "entry": 0.4619,
+      "gross_usd": 256.7,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.2015
+      "pnl": -0.4654
     },
     {
       "wallet": "0x2005d16a",
       "question": "Porto: Lizette Cabrera vs Sinja Kraus",
       "side": "BUY",
-      "entry": 0.94,
+      "entry": 0.876,
+      "gross_usd": 3999.6,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.9471
+      "pnl": -0.8825
     },
     {
       "wallet": "0x2005d16a",
       "question": "M15 Forbach: Arian Barbic vs Moritz Hoffmann",
       "side": "BUY",
-      "entry": 0.3039428742,
+      "entry": 0.4318,
+      "gross_usd": 343.69,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.3062
+      "pnl": -0.435
     },
     {
       "wallet": "0x2005d16a",
       "question": "M25 Sharm ElSheikh: Darsh Sachin Patel vs Finn Reilly",
       "side": "BUY",
-      "entry": 0.96,
+      "entry": 0.4541,
+      "gross_usd": 58.14,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.0328
+      "pnl": 0.5425
     },
     {
       "wallet": "0x2005d16a",
       "question": "M25 Falun: Victor Ryden vs Christian Sigsgaard",
       "side": "BUY",
-      "entry": 0.5,
+      "entry": 0.3742,
+      "gross_usd": 387.62,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.5038
+      "pnl": -0.377
     },
     {
       "wallet": "0x2005d16a",
       "question": "Porto: Anouk Koevermans vs Ayana Akli",
       "side": "BUY",
-      "entry": 0.3421052632,
+      "entry": 0.6381,
+      "gross_usd": 1574.95,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.3447
+      "pnl": -0.6429
     },
     {
       "wallet": "0x2005d16a",
       "question": "M25 Sharm ElSheikh: Essa Qabazard vs Georgios Nouchakis",
       "side": "BUY",
-      "entry": 0.8723552687,
+      "entry": 0.849,
+      "gross_usd": 187.15,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.8789
+      "pnl": -0.8553
     },
     {
       "wallet": "0x2005d16a",
       "question": "W50 Yecla: Isis Louise Van den Broek vs Ashley Lahey",
       "side": "BUY",
-      "entry": 0.6283653846,
+      "entry": 0.6284,
+      "gross_usd": 57.51,
       "outcome": 1,
       "divergence": 3,
       "pnl": 0.3669
@@ -255,6 +305,7 @@
       "question": "M15 Forbach: Laurens Harnoth Manrubia vs Robin Eldin",
       "side": "BUY",
       "entry": 0.39,
+      "gross_usd": 10.09,
       "outcome": 1,
       "divergence": 3,
       "pnl": 0.6071
@@ -263,73 +314,121 @@
       "wallet": "0x2005d16a",
       "question": "Ankara: Aliona Falei vs Fangran Tian",
       "side": "BUY",
-      "entry": 0.3678197674,
+      "entry": 0.3359,
+      "gross_usd": 134.82,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.3706
+      "pnl": -0.3384
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "M25 Falun: Viktor Frydrych vs Henry Bernet",
+      "wallet": "0xfea31bc0",
+      "question": "Lakers vs. Thunder",
       "side": "BUY",
-      "entry": 0.1,
+      "entry": 0.886,
+      "gross_usd": 18374.95,
       "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.1008
+      "divergence": 0,
+      "pnl": -0.8927
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "Ankara: Viktoria Hruncakova vs Polina Iatcenko",
+      "wallet": "0xfea31bc0",
+      "question": "NHL Playoffs: Who Will Win Series? - Hurricanes vs. Flyers ",
       "side": "BUY",
-      "entry": 0.161155599,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.1624
+      "entry": 0.9799,
+      "gross_usd": 1920.0,
+      "outcome": 1,
+      "divergence": 4,
+      "pnl": 0.0127
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "M25 Sharm ElSheikh: Edoardo Zanada vs Daniil Ovcharenko",
+      "wallet": "0xfea31bc0",
+      "question": "Will Arsenal win a trophy this season?",
       "side": "BUY",
-      "entry": 0.8113639607,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.8174
+      "entry": 0.7926,
+      "gross_usd": 5659.97,
+      "outcome": 1,
+      "divergence": 4,
+      "pnl": 0.2014
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "M25 Falun: John Gabelic vs Lucas Renard",
+      "wallet": "0xfea31bc0",
+      "question": "NHL: Stanley Cup Winner USA or Canada?",
       "side": "BUY",
-      "entry": 0.9228880383,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.9298
-    },
-    {
-      "wallet": "0x2005d16a",
-      "question": "Tolentino: Guiomar Maristany vs Despina Papamichail",
-      "side": "BUY",
-      "entry": 0.07,
+      "entry": 0.9383,
+      "gross_usd": 163.48,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.9295
+      "pnl": 0.0547
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "W50 Yecla: Indianna Spink vs Sofia Camila Rojas",
+      "wallet": "0xfea31bc0",
+      "question": "Knicks vs. 76ers",
       "side": "BUY",
-      "entry": 0.33,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.3325
-    },
-    {
-      "wallet": "0x2005d16a",
-      "question": "W35 Sharm ElSheikh: Nina Rudiukova vs Teodora Vlajic",
-      "side": "BUY",
-      "entry": 0.96,
+      "entry": 0.3838,
+      "gross_usd": 185.96,
       "outcome": 1,
-      "divergence": 3,
-      "pnl": 0.0328
+      "divergence": 0,
+      "pnl": 0.6133
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "Timberwolves vs. Spurs",
+      "side": "BUY",
+      "entry": 0.6896,
+      "gross_usd": 3005.05,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.6948
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "NBA Playoffs: Who Will Win Series? - Pistons vs. Magic ",
+      "side": "BUY",
+      "entry": 0.7351,
+      "gross_usd": 1849.29,
+      "outcome": 1,
+      "divergence": 4,
+      "pnl": 0.2594
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "Will Bayern Munich Win the Treble?",
+      "side": "BUY",
+      "entry": 0.7043,
+      "gross_usd": 56.35,
+      "outcome": 0,
+      "divergence": 6,
+      "pnl": -0.7096
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "NBA Playoffs: Who Will Win Series? - 76ers vs. Celtics ",
+      "side": "BUY",
+      "entry": 0.7125,
+      "gross_usd": 2688.09,
+      "outcome": 1,
+      "divergence": 4,
+      "pnl": 0.2821
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "Raptors vs. Cavaliers",
+      "side": "BUY",
+      "entry": 0.6208,
+      "gross_usd": 681.32,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.6255
+    },
+    {
+      "wallet": "0xfea31bc0",
+      "question": "Rockets vs. Lakers",
+      "side": "BUY",
+      "entry": 0.49,
+      "gross_usd": 9.77,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.4937
     }
   ]
 }
