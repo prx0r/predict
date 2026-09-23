@@ -1,17 +1,17 @@
 {
-  "ran_at": "2026-09-23T19:30:43.144091+00:00",
+  "ran_at": "2026-09-23T20:11:38.196605+00:00",
   "div_threshold": 8.0,
   "mirror_all": {
-    "n": 35,
-    "hit_rate": 0.429,
-    "pnl": -4.54,
-    "mean_edge": -0.1296
+    "n": 123,
+    "hit_rate": 0.455,
+    "pnl": -4.92,
+    "mean_edge": -0.04
   },
   "excluded_by_filter": {
-    "n": 5,
-    "hit_rate": 0.4,
-    "pnl": -0.57,
-    "mean_edge": -0.1147
+    "n": 10,
+    "hit_rate": 0.3,
+    "pnl": -3.43,
+    "mean_edge": -0.3432
   },
   "excluded_sample": [
     {
@@ -55,28 +55,84 @@
       "pnl": -0.522
     },
     {
-      "wallet": "0x2005d16a",
-      "question": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
+      "wallet": "0x2c335066",
+      "question": "Counter-Strike: HOTU vs FOKUS (BO3) - Stake Ranked Episode 4: Closed Q",
       "side": "BUY",
-      "entry": 0.0953,
-      "gross_usd": 139.1,
+      "entry": 0.85,
+      "gross_usd": 538.83,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.8564
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
+      "side": "BUY",
+      "entry": 0.7259,
+      "gross_usd": 73026.03,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.7313
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+      "side": "BUY",
+      "entry": 0.5423,
+      "gross_usd": 32538.38,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.5464
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs",
+      "side": "BUY",
+      "entry": 0.9689,
+      "gross_usd": 361545.16,
       "outcome": 1,
       "divergence": 12,
-      "pnl": 0.904
+      "pnl": 0.0238
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Q",
+      "side": "BUY",
+      "entry": 0.35,
+      "gross_usd": 23853.15,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.3526
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+      "side": "BUY",
+      "entry": 0.4885,
+      "gross_usd": 2205.85,
+      "outcome": 1,
+      "divergence": 12,
+      "pnl": 0.5078
     }
   ],
   "wallets": {
     "0x2005d16a": {
-      "wins": 11,
-      "n": 29,
-      "pnl": -3.12,
-      "hit_rate": 0.379
+      "wins": 9,
+      "n": 26,
+      "pnl": -3.92,
+      "hit_rate": 0.346
     },
     "0xfea31bc0": {
       "wins": 6,
       "n": 11,
       "pnl": -1.99,
       "hit_rate": 0.545
+    },
+    "0x2c335066": {
+      "wins": 44,
+      "n": 96,
+      "pnl": -2.43,
+      "hit_rate": 0.458
     }
   },
   "rows": [
@@ -84,11 +140,21 @@
       "wallet": "0x2005d16a",
       "question": "W50 Berkeley, CA: Arianna Zucchini vs Maria Aytoyan",
       "side": "BUY",
-      "entry": 0.1501,
-      "gross_usd": 16.64,
+      "entry": 0.3883,
+      "gross_usd": 278.43,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.8488
+      "pnl": 0.6087
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W50 Berkeley, CA: Adriana Reami vs Maria Sholokhova",
+      "side": "BUY",
+      "entry": 0.3243,
+      "gross_usd": 446.02,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3267
     },
     {
       "wallet": "0x2005d16a",
@@ -99,16 +165,6 @@
       "outcome": 0,
       "divergence": 3,
       "pnl": -0.3175
-    },
-    {
-      "wallet": "0x2005d16a",
-      "question": "W50 Berkeley, CA: Adriana Reami vs Maria Sholokhova",
-      "side": "BUY",
-      "entry": 0.6309,
-      "gross_usd": 375.61,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.6356
     },
     {
       "wallet": "0x2005d16a",
@@ -204,11 +260,11 @@
       "wallet": "0x2005d16a",
       "question": "Tolentino: Mia Ristic vs Arantxa Rus",
       "side": "BUY",
-      "entry": 0.5534,
-      "gross_usd": 1293.1,
+      "entry": 0.5535,
+      "gross_usd": 1290.5,
       "outcome": 1,
       "divergence": 3,
-      "pnl": 0.4425
+      "pnl": 0.4424
     },
     {
       "wallet": "0x2005d16a",
@@ -274,11 +330,11 @@
       "wallet": "0x2005d16a",
       "question": "Porto: Anouk Koevermans vs Ayana Akli",
       "side": "BUY",
-      "entry": 0.6381,
-      "gross_usd": 1574.95,
+      "entry": 0.3421,
+      "gross_usd": 32.5,
       "outcome": 0,
       "divergence": 3,
-      "pnl": -0.6429
+      "pnl": -0.3447
     },
     {
       "wallet": "0x2005d16a",
@@ -299,26 +355,6 @@
       "outcome": 1,
       "divergence": 3,
       "pnl": 0.3669
-    },
-    {
-      "wallet": "0x2005d16a",
-      "question": "M15 Forbach: Laurens Harnoth Manrubia vs Robin Eldin",
-      "side": "BUY",
-      "entry": 0.39,
-      "gross_usd": 10.09,
-      "outcome": 1,
-      "divergence": 3,
-      "pnl": 0.6071
-    },
-    {
-      "wallet": "0x2005d16a",
-      "question": "Ankara: Aliona Falei vs Fangran Tian",
-      "side": "BUY",
-      "entry": 0.3359,
-      "gross_usd": 134.82,
-      "outcome": 0,
-      "divergence": 3,
-      "pnl": -0.3384
     },
     {
       "wallet": "0xfea31bc0",
@@ -429,6 +465,906 @@
       "outcome": 0,
       "divergence": 0,
       "pnl": -0.4937
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Madison Keys vs Qinwen Zheng",
+      "side": "BUY",
+      "entry": 0.5501,
+      "gross_usd": 189.84,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5543
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "UFC Fight Night: Luis Felipe Dias vs. Matthieu Letho Duclos (Middlewei",
+      "side": "BUY",
+      "entry": 0.57,
+      "gross_usd": 265.11,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.5743
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Anastasia Potapova vs Amanda Anisimova",
+      "side": "BUY",
+      "entry": 0.151,
+      "gross_usd": 2654.19,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.8478
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Manacor: Mark Lajal vs Felix Balshaw",
+      "side": "BUY",
+      "entry": 0.4023,
+      "gross_usd": 113.42,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4054
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "UFC Fight Night: Morgan Charri\u00e8re vs. Felipe Lima (Featherweight, Main",
+      "side": "BUY",
+      "entry": 0.34,
+      "gross_usd": 18788.92,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.3426
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jakub Mensik vs Learner Tien",
+      "side": "BUY",
+      "entry": 0.44,
+      "gross_usd": 37542.44,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4433
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Zhangjiagang: Kasidit Samrej vs Chun-Hsin Tseng",
+      "side": "BUY",
+      "entry": 0.4386,
+      "gross_usd": 4098.8,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5581
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Ben Shelton vs Denis Shapovalov",
+      "side": "BUY",
+      "entry": 0.2958,
+      "gross_usd": 46539.12,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.702
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Athletics vs. Seattle Mariners",
+      "side": "BUY",
+      "entry": 0.81,
+      "gross_usd": 584.37,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.1839
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Washington Nationals vs. Los Angeles Dodgers",
+      "side": "BUY",
+      "entry": 0.0197,
+      "gross_usd": 1111.96,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.0199
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Elina Svitolina vs Anna Kalinskaya",
+      "side": "BUY",
+      "entry": 0.63,
+      "gross_usd": 1500.0,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6347
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Toledo vs. Michigan State",
+      "side": "BUY",
+      "entry": 0.0931,
+      "gross_usd": 19168.21,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.0938
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "San Jose State vs. Eastern Michigan",
+      "side": "BUY",
+      "entry": 0.1554,
+      "gross_usd": 16712.49,
+      "outcome": 1,
+      "divergence": 0,
+      "pnl": 0.8435
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Arizona Diamondbacks vs. Houston Astros",
+      "side": "BUY",
+      "entry": 0.55,
+      "gross_usd": 422.7,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5541
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
+      "side": "BUY",
+      "entry": 0.1477,
+      "gross_usd": 7835.45,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.8512
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Milwaukee Brewers vs. Cincinnati Reds",
+      "side": "BUY",
+      "entry": 0.59,
+      "gross_usd": 19212.28,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4056
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
+      "side": "BUY",
+      "entry": 0.3728,
+      "gross_usd": 6421.61,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3756
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
+      "side": "BUY",
+      "entry": 0.41,
+      "gross_usd": 2582.29,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5869
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Detroit Tigers vs. Cleveland Guardians",
+      "side": "BUY",
+      "entry": 0.4968,
+      "gross_usd": 29467.42,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5006
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Ann Li vs Linda Noskova",
+      "side": "BUY",
+      "entry": 0.04,
+      "gross_usd": 460.59,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.0403
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Emma Navarro vs Karolina Muchova",
+      "side": "BUY",
+      "entry": 0.58,
+      "gross_usd": 5.8,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4156
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Alexander Bublik vs Tommy Paul",
+      "side": "BUY",
+      "entry": 0.471,
+      "gross_usd": 344.2,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4745
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Taylor Townsend vs Diana Shnaider",
+      "side": "BUY",
+      "entry": 0.5643,
+      "gross_usd": 23.7,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4315
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Jessica Pegula vs Leylah Fernandez",
+      "side": "BUY",
+      "entry": 0.5,
+      "gross_usd": 12343.57,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4962
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova",
+      "side": "BUY",
+      "entry": 0.26,
+      "gross_usd": 1357.51,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.738
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Como: Duje Ajdukovic vs Jay Clarke",
+      "side": "BUY",
+      "entry": 0.7,
+      "gross_usd": 28.54,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.7053
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Manacor: Inaki Montes vs Jack Pinnington Jones",
+      "side": "BUY",
+      "entry": 0.0199,
+      "gross_usd": 15.43,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9799
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Como: Andrej Nedic vs Johan Nikles",
+      "side": "BUY",
+      "entry": 0.55,
+      "gross_usd": 6857.83,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5541
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "European T20 Premier League: Glasgow Cosmic vs Belfast Wolves",
+      "side": "BUY",
+      "entry": 0.57,
+      "gross_usd": 28.5,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5743
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA (Doubles): Williams/Williams vs Chan/Joint",
+      "side": "BUY",
+      "entry": 0.29,
+      "gross_usd": 29980.78,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.2922
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Alexander Zverev vs Quentin Halys",
+      "side": "BUY",
+      "entry": 0.7492,
+      "gross_usd": 42568.85,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.2452
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Athletics vs. Seattle Mariners",
+      "side": "BUY",
+      "entry": 0.3448,
+      "gross_usd": 1012.15,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.6527
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "St. Louis Cardinals vs. Los Angeles Dodgers",
+      "side": "BUY",
+      "entry": 0.6529,
+      "gross_usd": 35347.9,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6578
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Colorado vs. Georgia Tech",
+      "side": "BUY",
+      "entry": 0.32,
+      "gross_usd": 8226.84,
+      "outcome": 1,
+      "divergence": 0,
+      "pnl": 0.6776
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Zizou Bergs vs Jesper de Jong",
+      "side": "BUY",
+      "entry": 0.5069,
+      "gross_usd": 342.55,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4893
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Tampa Bay Rays vs. Texas Rangers",
+      "side": "BUY",
+      "entry": 0.54,
+      "gross_usd": 442.16,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5441
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
+      "side": "BUY",
+      "entry": 0.61,
+      "gross_usd": 6740.03,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6146
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "UMass vs. Rutgers",
+      "side": "BUY",
+      "entry": 0.965,
+      "gross_usd": 1038.6,
+      "outcome": 1,
+      "divergence": 0,
+      "pnl": 0.0277
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Milwaukee Brewers vs. Chicago Cubs",
+      "side": "BUY",
+      "entry": 0.486,
+      "gross_usd": 6.28,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4896
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
+      "side": "BUY",
+      "entry": 0.4557,
+      "gross_usd": 2847.66,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5409
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Zachary Svajda vs Arthur Gea",
+      "side": "BUY",
+      "entry": 0.5499,
+      "gross_usd": 8033.42,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5541
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+      "side": "BUY",
+      "entry": 0.07,
+      "gross_usd": 214.2,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.0705
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
+      "side": "BUY",
+      "entry": 0.3828,
+      "gross_usd": 27381.79,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.6143
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Gael Monfils vs Learner Tien",
+      "side": "BUY",
+      "entry": 0.17,
+      "gross_usd": 214.53,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1713
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Dane Sweeny vs Lorenzo Musetti",
+      "side": "BUY",
+      "entry": 0.5998,
+      "gross_usd": 26494.36,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.3957
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "UAB vs. Illinois",
+      "side": "BUY",
+      "entry": 0.96,
+      "gross_usd": 5491.2,
+      "outcome": 0,
+      "divergence": 0,
+      "pnl": -0.9672
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jakub Mensik vs Jurij Rodionov",
+      "side": "BUY",
+      "entry": 0.07,
+      "gross_usd": 688.15,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9295
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
+      "side": "BUY",
+      "entry": 0.39,
+      "gross_usd": 736.02,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3929
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Lilli Tagger vs Amanda Anisimova",
+      "side": "BUY",
+      "entry": 0.1506,
+      "gross_usd": 2526.38,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1518
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
+      "side": "BUY",
+      "entry": 0.6797,
+      "gross_usd": 2761.98,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.3152
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Madison Keys vs Anna Bondar",
+      "side": "BUY",
+      "entry": 0.5592,
+      "gross_usd": 35643.64,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4366
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Maria Timofeeva vs Elise Mertens",
+      "side": "BUY",
+      "entry": 0.12,
+      "gross_usd": 1.8,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1209
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Paula Badosa vs Coco Gauff",
+      "side": "BUY",
+      "entry": 0.85,
+      "gross_usd": 70101.68,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8564
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "M25+H Bagn\u00e8res-de-Bigorre: Liam Branger vs Raphael Perot",
+      "side": "BUY",
+      "entry": 0.85,
+      "gross_usd": 1.98,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8564
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Kerala Cricket League T20: Adani Trivandrum Royals vs Calicut Globstar",
+      "side": "BUY",
+      "entry": 0.4592,
+      "gross_usd": 174.5,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4627
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Como: Jay Clarke vs Pedro Martinez",
+      "side": "BUY",
+      "entry": 0.65,
+      "gross_usd": 172.98,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.3451
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Sher-E-Punjab T20: Bathinda Royals vs Jalandhar Warriors",
+      "side": "BUY",
+      "entry": 0.5,
+      "gross_usd": 57.95,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5038
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "M25 Casablanca: Yassine Dlimi vs Maxence Rivet",
+      "side": "BUY",
+      "entry": 0.14,
+      "gross_usd": 10.69,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.8589
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "M25 Casablanca: Niklas Schell vs Yaroslav Demin",
+      "side": "BUY",
+      "entry": 0.74,
+      "gross_usd": 0.36,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.7456
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Porto: Niels Visker vs Pedro Vives Marcos",
+      "side": "BUY",
+      "entry": 0.54,
+      "gross_usd": 3591.59,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5441
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Zhangjiagang: Mitsuki Wei Kang Leong vs Koki Matsuda",
+      "side": "BUY",
+      "entry": 0.8546,
+      "gross_usd": 9895.38,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.139
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "New York Yankees vs. Los Angeles Angels",
+      "side": "BUY",
+      "entry": 0.9286,
+      "gross_usd": 11957.7,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.0644
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "St. Louis Cardinals vs. Los Angeles Dodgers",
+      "side": "BUY",
+      "entry": 0.06,
+      "gross_usd": 642.33,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9395
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jaime Faria vs Carlos Alcaraz",
+      "side": "BUY",
+      "entry": 0.8584,
+      "gross_usd": 64729.74,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8648
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Milwaukee Brewers vs. Chicago Cubs",
+      "side": "BUY",
+      "entry": 0.4983,
+      "gross_usd": 50.27,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4979
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Rei Sakamoto vs Frances Tiafoe",
+      "side": "BUY",
+      "entry": 0.89,
+      "gross_usd": 28.48,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8967
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "San Francisco Giants vs. Pittsburgh Pirates",
+      "side": "BUY",
+      "entry": 0.48,
+      "gross_usd": 7673.59,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5164
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Ann Li vs Donna Vekic",
+      "side": "BUY",
+      "entry": 0.39,
+      "gross_usd": 281.19,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.6071
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Lloyd Harris vs Stefanos Tsitsipas",
+      "side": "BUY",
+      "entry": 0.64,
+      "gross_usd": 16.0,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6448
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: James Duckworth vs Yibing Wu",
+      "side": "BUY",
+      "entry": 0.43,
+      "gross_usd": 3.16,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4332
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+      "side": "BUY",
+      "entry": 0.53,
+      "gross_usd": 1458.53,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.466
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jesper de Jong vs Francesco Passaro",
+      "side": "BUY",
+      "entry": 0.59,
+      "gross_usd": 965.79,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.4056
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Athletics vs. Texas Rangers",
+      "side": "BUY",
+      "entry": 0.0299,
+      "gross_usd": 31.94,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9699
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+      "side": "BUY",
+      "entry": 0.3493,
+      "gross_usd": 20578.55,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.352
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Atlanta Braves vs. Washington Nationals",
+      "side": "BUY",
+      "entry": 0.4111,
+      "gross_usd": 49486.6,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5859
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
+      "side": "BUY",
+      "entry": 0.3447,
+      "gross_usd": 12453.44,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.6528
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Marta Kostyuk vs Sloane Stephens",
+      "side": "BUY",
+      "entry": 0.0974,
+      "gross_usd": 30.07,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9019
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Fabian Marozsan vs Michael Zheng",
+      "side": "BUY",
+      "entry": 0.57,
+      "gross_usd": 2.85,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5743
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Katie Boulter vs Karolina Muchova",
+      "side": "BUY",
+      "entry": 0.85,
+      "gross_usd": 44433.64,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8564
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
+      "side": "BUY",
+      "entry": 0.6694,
+      "gross_usd": 5143.9,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6744
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+      "side": "BUY",
+      "entry": 0.5241,
+      "gross_usd": 109845.54,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.472
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Alex Molcan vs Benjamin Bonzi",
+      "side": "BUY",
+      "entry": 0.76,
+      "gross_usd": 3.8,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.7657
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Mananchaya Sawangkaew vs Leylah Fernandez",
+      "side": "BUY",
+      "entry": 0.1,
+      "gross_usd": 1.0,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1008
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
+      "side": "BUY",
+      "entry": 0.47,
+      "gross_usd": 2.7,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4735
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open WTA: Diane Parry vs Sorana Cirstea",
+      "side": "BUY",
+      "entry": 0.68,
+      "gross_usd": 260.11,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6851
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Kerala Cricket League T20: Calicut Globstars vs Aries Kollam Sailors",
+      "side": "BUY",
+      "entry": 0.5134,
+      "gross_usd": 24.69,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5172
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "European T20 Premier League: Belfast Wolves vs Edinburgh Castle Rocker",
+      "side": "BUY",
+      "entry": 0.46,
+      "gross_usd": 0.02,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.4634
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Como: Matej Dodig vs Henry Bernet",
+      "side": "BUY",
+      "entry": 0.64,
+      "gross_usd": 76616.06,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.3552
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "Plovdiv 3: Georgii Kravchenko vs Ognjen Milic",
+      "side": "BUY",
+      "entry": 0.05,
+      "gross_usd": 590.9,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9496
+    },
+    {
+      "wallet": "0x2c335066",
+      "question": "US Open ATP: Denis Shapovalov vs Luca Van Assche",
+      "side": "BUY",
+      "entry": 0.42,
+      "gross_usd": 21.0,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.5768
     }
   ]
 }

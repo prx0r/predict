@@ -30,7 +30,9 @@ from resolution import structure  # noqa: E402
 
 DATA_API = "https://data-api.polymarket.com"
 GAMMA = "https://gamma-api.polymarket.com"
-FEE = 0.0075  # taker per leg
+FEE = 0.0075  # taker per leg (ASSUMPTION — V2 feeType varies per
+# market: Gamma carries takerBaseFee/feeSchedule/feeType per market,
+# captured per row below for later refinement; units TBD, do not convert)
 
 
 def get(url: str, timeout: int = 30):
@@ -144,6 +146,8 @@ def main() -> int:
                    "gross_usd": round(buy + sell, 2),
                    "outcome": res["outcome"],
                    "divergence": rec.get("divergence", 0),
+                   "fee_type": res["market"].get("feeType"),
+                   "taker_base_fee": res["market"].get("takerBaseFee"),
                    "pnl": round(pnl, 4)}
             (all_rows if rec.get("divergence", 0) < args.div_threshold else excluded).append(row)
             ws = wallet_stats.setdefault(addr[:10], {"wins": 0, "n": 0, "pnl": 0.0})

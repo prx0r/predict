@@ -4,10 +4,12 @@
 > numbers, fees modeled (0.75%/leg), no compounding claims. Killed
 > engines stay listed — negative results are tuition already paid.
 
-## E1. Blind mirror — KILLED as standalone (2026-09-23)
+## E1. Blind mirror — KILLED as standalone (2026-09-23, confirmed n=123)
 
-4 wallets × 300 older trades → 35 netted positions: **43% hits, −4.54**.
-Per-wallet: RN1 38% (−3.12), ndb1 54.5% (−1.99, wins small/losses big).
+8 wallets × 300 older trades → 123 netted positions: **45.5% hits,
+−4.92** (one wallet returned zero trades — dead address or API gap,
+logged). Near coin-flip hit rate with negative expectancy = the fee
+grind plus loss asymmetry; breakeven needs ~52%+ at these prices.
 Two wallets scored zero (all-unresolved recent flow). Bugs caught en
 route: VWAP divided price×size by itself (0% phantom), public-search
 can't resolve conditionIds (use slug lookup).
@@ -36,6 +38,15 @@ on last-trade needs book verification. Monitor watches; nothing fires.
 Needs resolution calendar + price paths per decaying market. Data
 exists (CLOB per-token paths dead; trentmkelly books selective).
 Queued behind E3.
+
+## E7. Fee model — OPEN (2026-09-23)
+
+Flat 0.75%/leg is an assumption under fire: Gamma carries per-market
+`takerBaseFee`/`feeSchedule`/`feeType` (e.g. politics_fees rate 0.04
+taker-only, 0.25 rebate), distank uses 2% commission. Fee fields now
+captured per backtest row; units TBD — do not convert until verified
+against docs. Backtest P&L is fee-model-sensitive; treat all figures
+as conditional on this assumption.
 
 ## E6. Jev copy loop — PAPER (2026-09-23)
 
