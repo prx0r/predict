@@ -1,0 +1,28 @@
+{
+  "scored_at": "2026-09-23T16:38:35.630964+00:00",
+  "n_assessed": 2,
+  "n_resolved": 0,
+  "mean_brier_model": null,
+  "mean_brier_market": null,
+  "edge_hit_rate": null,
+  "rows": [
+    {
+      "question": "Trump renames AI by September 30?",
+      "model_p": 0.18,
+      "market_then": 0.235,
+      "market_now": 0.235,
+      "outcome": null,
+      "disputed": false,
+      "edge_then": -0.055
+    },
+    {
+      "question": "Will China blockade Taiwan in 2026?",
+      "model_p": 0.03,
+      "market_then": 0.038,
+      "market_now": 0.038,
+      "outcome": null,
+      "disputed": false,
+      "edge_then": -0.008
+    }
+  ]
+}
