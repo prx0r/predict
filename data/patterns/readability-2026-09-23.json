@@ -1,0 +1,1174 @@
+{
+  "ran_at": "2026-09-23T20:55:25.233931+00:00",
+  "n": 146,
+  "records": [
+    {
+      "question": "Will Trump say \"Million\", \"Billion\", or \"Trillion\" 15+ times during th",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.7,
+      "misleading": 0.38,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Job\" 7+ times during the Energy and Innovation Summit ",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.72,
+      "misleading": 0.38,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"China\" 5+ times during the Energy and Innovation Summi",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.72,
+      "misleading": 0.41,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Nvidia\" during the Energy and Innovation Summit on Jul",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.48,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Chip\" during the Energy and Innovation Summit on July ",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.52,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Green new scam\" during the Energy and Innovation Summi",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.49,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Elon\" during the Energy and Innovation Summit on July ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.79,
+      "misleading": 0.56,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Drill baby drill\" during the Energy and Innovation Sum",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.77,
+      "misleading": 0.43,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Tariff\" during the Energy and Innovation Summit on Jul",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.49,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Pipeline\" during the Energy and Innovation Summit on J",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.78,
+      "misleading": 0.5,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Amazon\" during the Energy and Innovation Summit on Jul",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.78,
+      "misleading": 0.5,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Rare Earth\" during the Energy and Innovation Summit on",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.78,
+      "misleading": 0.51,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Beautiful coal\" or \"Clean coal\" during the Energy and ",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.74,
+      "misleading": 0.43,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Stargate\" during the Energy and Innovation Summit on J",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.48,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Frack\" or \"Fracking\" during the Energy and Innovation ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.78,
+      "misleading": 0.6,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"AI\" or \"Artificial Intelligence\" during the Energy and",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.46,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Crypto\" or \"Bitcoin\" during the Energy and Innovation ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.51,
+      "divergence": 6
+    },
+    {
+      "question": "Will Trump say \"Hundred\" or \"Thousand\" 10+ times during his Ribbon Cut",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.33,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Beautiful\" 2+ times during his Ribbon Cutting Ceremony",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.77,
+      "misleading": 0.44,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Budget\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.67,
+      "misleading": 0.37,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Granite\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.67,
+      "misleading": 0.42,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Drone\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.64,
+      "misleading": 0.42,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Helicopter\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.67,
+      "misleading": 0.41,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Ballroom\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.7,
+      "misleading": 0.42,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Fake News\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.7,
+      "misleading": 0.38,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"CNN\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.67,
+      "misleading": 0.36,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Biden\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.73,
+      "misleading": 0.42,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Rose Garden\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.72,
+      "misleading": 0.43,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"AI\" or \"Artificial Intelligence\" during his Ribbon Cut",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.72,
+      "misleading": 0.5,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Melania\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.73,
+      "misleading": 0.42,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Oil\" or \"Gas\" or \"Gasoline\" during his Ribbon Cutting ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.74,
+      "misleading": 0.44,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump say \"Six Seven\" during his Ribbon Cutting Ceremony?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.71,
+      "misleading": 0.43,
+      "divergence": 2
+    },
+    {
+      "question": "Will Trump's remarks not air?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.86,
+      "misleading": 0.77,
+      "divergence": 2
+    },
+    {
+      "question": "Will Joe Biden make an appearance by October 15?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.64,
+      "misleading": 0.49,
+      "divergence": 5
+    },
+    {
+      "question": "Will Biden drop out by Friday?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.43,
+      "misleading": 0.4,
+      "divergence": 3
+    },
+    {
+      "question": "Will Biden drop out by Friday?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.4,
+      "misleading": 0.38,
+      "divergence": 3
+    },
+    {
+      "question": "Will Biden or Haley drop out first?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.79,
+      "misleading": 0.49,
+      "divergence": 2
+    },
+    {
+      "question": "Will Biden say \"Trump\" during his State of the Union address?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.45,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"border\" three or more times during his State of the Un",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.36,
+      "misleading": 0.17,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"AI\" or \"Artificial Intelligence\" during his State of t",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.26,
+      "misleading": 0.18,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"fentanyl\" during his State of the Union address?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.28,
+      "misleading": 0.19,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"China/Chinese\" three or more times during his State of",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.17,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"Ukraine/Ukranian\" three or more times during his State",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.31,
+      "misleading": 0.17,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"Navalny\" during his State of the Union address?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.16,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"Putin\" during his State of the Union address?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.29,
+      "misleading": 0.16,
+      "divergence": 6
+    },
+    {
+      "question": "Will Biden say \"Hunter\" during his State of the Union address?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.32,
+      "misleading": 0.15,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"Moon\" during his State of the Union address?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.43,
+      "misleading": 0.28,
+      "divergence": 10
+    },
+    {
+      "question": "Will Biden say \"Bitcoin\" during his State of the Union address?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.17,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"Ceasefire\" during his State of the Union address?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.41,
+      "misleading": 0.19,
+      "divergence": 4
+    },
+    {
+      "question": "Will Biden say \"folks\" four or more times during his State of the Unio",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.37,
+      "misleading": 0.16,
+      "divergence": 4
+    },
+    {
+      "question": "Mississippi gubernatorial election: Presley (D) vs. Reeves (R)",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.45,
+      "divergence": 2
+    },
+    {
+      "question": "Will Jeannette Jara win the 1st round of the 2025 Chilean presidential",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.39,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Jaime Mulet win the 1st round of the 2025 Chilean presidential el",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Carolina Toh\u00e1 win the 1st round of the 2025 Chilean presidential ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.2,
+      "divergence": 4
+    },
+    {
+      "question": "Will Gonzalo Winter win the 1st round of the 2025 Chilean presidential",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Eduardo Art\u00e9s win the 1st round of the 2025 Chilean presidential ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will F\u00e9lix Gonz\u00e1lez win the 1st round of the 2025 Chilean presidential",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.2,
+      "divergence": 4
+    },
+    {
+      "question": "Will Johannes Kaiser win the 1st round of the 2025 Chilean presidentia",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.32,
+      "misleading": 0.21,
+      "divergence": 4
+    },
+    {
+      "question": "Will Jos\u00e9 Antonio Kast win the 1st round of the 2025 Chilean president",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.2,
+      "divergence": 4
+    },
+    {
+      "question": "Will Evelyn Matthei win the 1st round of the 2025 Chilean presidential",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.2,
+      "divergence": 4
+    },
+    {
+      "question": "Will Francesca Mu\u00f1oz win the 1st round of the 2025 Chilean presidentia",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.31,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Ximena Rinc\u00f3n win the 1st round of the 2025 Chilean presidential ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.31,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Michelle Bachelet win the 1st round of the 2025 Chilean president",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.37,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Marco Enr\u00edquez-Ominami win the 1st round of the 2025 Chilean pres",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.31,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Franco Parisi win the 1st round of the 2025 Chilean presidential ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Alberto\u202fUndurraga win the 1st round of the 2025 Chilean president",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person A win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.32,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person B win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.2,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person C win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person D win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.36,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person E win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person F win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.36,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person G win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person H win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person I win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.36,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person J win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.37,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person K win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.23,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person L win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.25,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person M win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.33,
+      "misleading": 0.22,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person N win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.34,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person O win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.32,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will Person P win the 1st round of the 2025 Chilean presidential elect",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.35,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Will another person win the 1st round of the 2025 Chilean presidential",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.5,
+      "misleading": 0.28,
+      "divergence": 4
+    },
+    {
+      "question": "Mexican Presidential Election: Will Claudia Sheinbaum win?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.49,
+      "misleading": 0.38,
+      "divergence": 4
+    },
+    {
+      "question": "Mexican Presidential Election: Will X\u00f3chitl G\u00e1lvez win?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.44,
+      "misleading": 0.24,
+      "divergence": 4
+    },
+    {
+      "question": "Mexican Presidential Election: Will Jorge \u00c1lvarez M\u00e1ynez win?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.45,
+      "misleading": 0.26,
+      "divergence": 4
+    },
+    {
+      "question": "Mexican Presidential Election: Will another candidate win?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.47,
+      "misleading": 0.55,
+      "divergence": 4
+    },
+    {
+      "question": "Will the Progress Party (FrP) win 22% or more of vote in Norwegian ele",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.32,
+      "misleading": 0.27,
+      "divergence": 2
+    },
+    {
+      "question": "Will no Fed rate hikes happen in 2026?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.61,
+      "misleading": 0.52,
+      "divergence": 1
+    },
+    {
+      "question": "Fed rate cut by January 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.51,
+      "divergence": 4
+    },
+    {
+      "question": "Fed rate cut by March 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.5,
+      "divergence": 4
+    },
+    {
+      "question": "Fed rate cut by April 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.48,
+      "divergence": 4
+    },
+    {
+      "question": "Fed rate cut by June 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.47,
+      "divergence": 4
+    },
+    {
+      "question": "Fed rate cut by July 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.77,
+      "misleading": 0.62,
+      "divergence": 4
+    },
+    {
+      "question": "Fed rate cut by September 2026 meeting?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.8,
+      "misleading": 0.6,
+      "divergence": 4
+    },
+    {
+      "question": "Israel x Lebanon Effective Ceasefire by September 4?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.81,
+      "misleading": 0.79,
+      "divergence": 5
+    },
+    {
+      "question": "Israel x Lebanon Effective Ceasefire by September 7?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.79,
+      "divergence": 5
+    },
+    {
+      "question": "Israel x Lebanon Effective Ceasefire by September 11?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.77,
+      "divergence": 5
+    },
+    {
+      "question": "Israel x Lebanon Effective Ceasefire by September 18?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.78,
+      "divergence": 5
+    },
+    {
+      "question": "Israel x Hamas ceasefire before March?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.58,
+      "misleading": 0.51,
+      "divergence": 3
+    },
+    {
+      "question": " Israel and Hamas ceasefire in 2023?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.74,
+      "misleading": 0.58,
+      "divergence": 3
+    },
+    {
+      "question": "Will Donald Trump win Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.26,
+      "misleading": 0.11,
+      "divergence": 1
+    },
+    {
+      "question": "Will Elon Musk win Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.22,
+      "misleading": 0.1,
+      "divergence": 1
+    },
+    {
+      "question": "Will the UNRWA win the nobel peace prize?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.25,
+      "misleading": 0.25,
+      "divergence": 1
+    },
+    {
+      "question": "Will Trump and Machado share the Nobel Peace Prize?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.8,
+      "misleading": 0.48,
+      "divergence": 8
+    },
+    {
+      "question": "Will Donald Trump win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.59,
+      "divergence": 1
+    },
+    {
+      "question": "Will Pope Leo XIV win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.81,
+      "misleading": 0.56,
+      "divergence": 1
+    },
+    {
+      "question": "Will the European Union win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.61,
+      "divergence": 1
+    },
+    {
+      "question": "Will Julian Assange win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.65,
+      "divergence": 1
+    },
+    {
+      "question": "Will Ursula von der Leyen win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.79,
+      "misleading": 0.6,
+      "divergence": 1
+    },
+    {
+      "question": "Will Marco Rubio win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.8,
+      "misleading": 0.67,
+      "divergence": 1
+    },
+    {
+      "question": "Will Keir Starmer win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.67,
+      "divergence": 1
+    },
+    {
+      "question": "Will Elon Musk win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.66,
+      "divergence": 1
+    },
+    {
+      "question": "Will UNRWA win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.65,
+      "divergence": 1
+    },
+    {
+      "question": "Will Ant\u00f3nio Guterres win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.79,
+      "misleading": 0.6,
+      "divergence": 1
+    },
+    {
+      "question": "Will Zuriel Oduwole win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.67,
+      "divergence": 1
+    },
+    {
+      "question": "Will Alexei Gorinov win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.65,
+      "divergence": 1
+    },
+    {
+      "question": "Will Mar\u00eda Corina Machado win the Nobel Peace Prize in 2025?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.81,
+      "misleading": 0.52,
+      "divergence": 1
+    },
+    {
+      "question": "Will Chow Hang\u2011tung win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.69,
+      "divergence": 1
+    },
+    {
+      "question": "Will Yulia Navalnaya win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.65,
+      "divergence": 1
+    },
+    {
+      "question": "Will Volodymyr Zelensky win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.81,
+      "misleading": 0.61,
+      "divergence": 1
+    },
+    {
+      "question": "Will Greta Thunberg win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.62,
+      "divergence": 1
+    },
+    {
+      "question": "Will  Sudan's Emergency Response Rooms win the Nobel Peace Prize in 20",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will  Doctors Without Borders (M\u00e9decins Sans Fronti\u00e8res) win the Nobel",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.76,
+      "misleading": 0.57,
+      "divergence": 1
+    },
+    {
+      "question": "Will Mediterranean Sea Rescue organizations win the Nobel Peace Prize ",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.85,
+      "misleading": 0.62,
+      "divergence": 1
+    },
+    {
+      "question": "Will International Court of Justice win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.78,
+      "misleading": 0.52,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person H win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person I win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.55,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person J win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.56,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person K win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person L win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person M win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person N win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.61,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person O win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.56,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person P win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.85,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person Q win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.85,
+      "misleading": 0.62,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person R win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.84,
+      "misleading": 0.53,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person S win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.58,
+      "divergence": 1
+    },
+    {
+      "question": "Will Person T win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.83,
+      "misleading": 0.59,
+      "divergence": 1
+    },
+    {
+      "question": "Will someone else win the Nobel Peace Prize in 2025?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.86,
+      "misleading": 0.68,
+      "divergence": 1
+    },
+    {
+      "question": "Tropical Storm Polo strengthens to a hurricane?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.29,
+      "misleading": 0.2,
+      "divergence": 5
+    },
+    {
+      "question": "Will BTC hit $50,000 by Jan 31?",
+      "outcome": 0,
+      "disputed": false,
+      "confusing": 0.49,
+      "misleading": 0.23,
+      "divergence": 0
+    },
+    {
+      "question": "Will BTC hit $55,000 in February?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.75,
+      "misleading": 0.2,
+      "divergence": 0
+    },
+    {
+      "question": "Will BTC or ETH reach all-time high first?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.82,
+      "misleading": 0.59,
+      "divergence": 1
+    },
+    {
+      "question": "Will BTC hit $60,000 in February?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.71,
+      "misleading": 0.22,
+      "divergence": 0
+    },
+    {
+      "question": "Will BTC hit $44,000 in 2023?",
+      "outcome": 1,
+      "disputed": false,
+      "confusing": 0.69,
+      "misleading": 0.18,
+      "divergence": 0
+    }
+  ]
+}
