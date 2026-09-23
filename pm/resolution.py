@@ -101,6 +101,9 @@ def structure(m: dict) -> dict:
         "question": m.get("question"),
         "slug": m.get("slug"),
         "conditionId": m.get("conditionId"),
+        # Join key to trentmkelly book ladders (asset_id == clobTokenId).
+        # Coverage there is top-100 by volume; thin-book markets won't join.
+        "clobTokenIds": m.get("clobTokenIds"),
         "market_p": market_p,
         "bestBid": m.get("bestBid"), "bestAsk": m.get("bestAsk"),
         "spread": m.get("spread"),
