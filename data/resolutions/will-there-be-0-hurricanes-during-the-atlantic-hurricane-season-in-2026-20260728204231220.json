@@ -1,0 +1,39 @@
+{
+  "question": "Will there be 0 hurricanes during the Atlantic Hurricane Season in 2026?",
+  "slug": "will-there-be-0-hurricanes-during-the-atlantic-hurricane-season-in-2026-20260728204231220",
+  "conditionId": "0xc40fb25ebf9650ba11f356ace366f95feeb7a52de5f4ac9e7afcaceccb74e2a8",
+  "market_p": 0.365,
+  "bestBid": 0.36,
+  "bestAsk": 0.37,
+  "spread": 0.01,
+  "volume": "19078.140718000002",
+  "liquidity": "966.8678",
+  "endDate": "2026-12-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve according to the number of storms categorized as a hurricane in the Atlantic between market creation and November 30, 2026 11:59 PM ET."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "If there is no storm categorized as a hurricane in the Atlantic during the specified timeframe this market will resolve to \"0\".",
+    "A hurricane is a tropical cyclone with maximum sustained winds of 74 mph or greater (Category 1 or higher on the Saffir-Simpson Hurricane Wind Scale), as described at https://www.nhc.noaa.gov/aboutsshws.php.",
+    "This market may resolve based on the initial NHC advisory reporting a qualifying hurricane regardless of any later advisory, retraction, best-track revision, or reanalysis that revises that storm's intensity downward.",
+    "The official count will be determined by the NHC (nhc.noaa.gov) advisories."
+  ],
+  "weasel_terms": [
+    "official"
+  ],
+  "complexity": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T15:43:54.816832+00:00"
+}

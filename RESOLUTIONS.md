@@ -46,3 +46,17 @@
 - Alert on: any `proposed`/`disputed` status; set-sum past 0.985/1.015
   on live books (not last-trade); new markets with missing source.
 - Paper log only. Disputing costs $750 a pop — no auto-disputes, ever.
+
+## Valuation loop (live: `pm/resolution.py`)
+
+Each interesting market gets a structured record
+(`data/resolutions/<slug>.json`): requirements[], exclusions[],
+timing, source, book, plus a `complexity` score (exclusions ×2,
+weasel terms ×2, missing source +3, thin text +2) that ranks where
+attention goes. Verified: AI-rename scores **17** (4 reqs, 4
+exclusions) vs hurricane legs at **5** — the machine already knows
+which text needs a lawyer.
+
+Jev (or any LLM) consumes the JSON and fills `model_p` + rationale;
+`edge = model_p − market_p` only exists after assessment. Until then
+the record reads `unassessed` — no fake precision, per the ladder.
