@@ -2,12 +2,13 @@
   "question": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
   "slug": "will-the-national-rally-group-hold-10-french-senate-seats-after-the-2026-election",
   "conditionId": "0x839fc1fd57679812bf0607b34af8dde0a4fdb917ae1dc5a878e90f439d313396",
+  "clobTokenIds": "[\"85598882835711181037689493575482614284137077891223578977370996456448975498356\", \"104980970907144355338063577632011525660735464425978104053254603950078939907598\"]",
   "market_p": 0.225,
   "bestBid": 0.2,
   "bestAsk": 0.25,
   "spread": 0.05,
   "volume": 1431.461356,
-  "liquidity": 437.8583,
+  "liquidity": 396.3118,
   "endDate": "2026-10-12T14:00:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -47,6 +48,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.921219+00:00",
+  "structured_at": "2026-09-23T20:24:58.018505+00:00",
   "priority": 5
 }

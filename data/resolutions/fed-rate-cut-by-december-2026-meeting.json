@@ -2,12 +2,13 @@
   "question": "Fed rate cut by December 2026 meeting?",
   "slug": "fed-rate-cut-by-december-2026-meeting",
   "conditionId": "0xc60022fe066abd6f96c375adb09f38d92c4931f09c10b805354581b4e5465e93",
+  "clobTokenIds": "[\"85002355202646770038788297383084634166875614093071220064343011133051368772502\", \"55388042878106612984650771012856953294835512286392194574801105901687237873381\"]",
   "market_p": 0.025,
   "bestBid": 0.019,
   "bestAsk": 0.03,
   "spread": 0.011,
   "volume": 374464.49152299995,
-  "liquidity": 62572.56123,
+  "liquidity": 61105.96214,
   "endDate": "2027-01-29T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -41,6 +42,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.935524+00:00",
+  "structured_at": "2026-09-23T20:24:58.026612+00:00",
   "priority": 4
 }

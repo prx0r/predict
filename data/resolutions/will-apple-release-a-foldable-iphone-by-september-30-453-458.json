@@ -2,12 +2,13 @@
   "question": "Will Apple release a foldable iPhone by September 30?",
   "slug": "will-apple-release-a-foldable-iphone-by-september-30-453-458",
   "conditionId": "0x59a3326e6eea1961622c3b0dd3f08239c0842ce10859355f7a05210be75b8d17",
+  "clobTokenIds": "[\"45991096626463035802453830837013723852049458374376718330432933377019560512567\", \"41886169336446730286230557115865993654471827706045159148202873892259569572026\"]",
   "market_p": 0.002,
   "bestBid": 0.001,
   "bestAsk": 0.002,
   "spread": 0.001,
-  "volume": 115687.73873800001,
-  "liquidity": 8001.26592,
+  "volume": 115687.73873800003,
+  "liquidity": 7973.10356,
   "endDate": "2026-09-30T23:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -43,6 +44,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:44.012974+00:00",
+  "structured_at": "2026-09-23T20:24:58.883981+00:00",
   "priority": 4
 }

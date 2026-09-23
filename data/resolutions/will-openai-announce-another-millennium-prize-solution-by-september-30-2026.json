@@ -2,12 +2,13 @@
   "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
   "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
   "conditionId": "0x825aa4592b3efdae16abb105be20cddfb02f643dd836d2f3121d1ba7e4700059",
+  "clobTokenIds": "[\"64212255472604180559122022021927000909748611025332694849360483180562685648523\", \"38795899020848588335081511324980227195670434900594524449533246540603638879690\"]",
   "market_p": 0.065,
   "bestBid": 0.06,
   "bestAsk": 0.07,
   "spread": 0.01,
-  "volume": 172729.574036,
-  "liquidity": 7421.0568,
+  "volume": 173129.574036,
+  "liquidity": 9397.9797,
   "endDate": "2026-10-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -44,6 +45,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:43.958762+00:00",
+  "structured_at": "2026-09-23T20:24:58.842508+00:00",
   "priority": 5
 }

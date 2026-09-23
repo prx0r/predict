@@ -2,12 +2,13 @@
   "question": "Will Anthropic have the best AI model at the end of October 2026?",
   "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
   "conditionId": "0x8091d617a6b1a70847d357f59b7d1d303b7599d376ba92729705e233b3716940",
+  "clobTokenIds": "[\"17398972530137600675762712744895375915722542439211248541948693649429200536957\", \"85377241479106312434941600365981690112200050573592763839850833219429995374007\"]",
   "market_p": 0.885,
   "bestBid": 0.88,
   "bestAsk": 0.89,
   "spread": 0.01,
-  "volume": 75565.026892,
-  "liquidity": 24674.3641,
+  "volume": 75640.644864,
+  "liquidity": 30379.1652,
   "endDate": "2026-10-31T16:00:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -47,6 +48,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:43.882304+00:00",
+  "structured_at": "2026-09-23T20:24:58.743498+00:00",
   "priority": 4
 }

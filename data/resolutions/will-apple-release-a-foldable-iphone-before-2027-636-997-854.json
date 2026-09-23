@@ -2,12 +2,13 @@
   "question": "Will Apple release a foldable iPhone before 2027?",
   "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
   "conditionId": "0x7209592f294c2b3a7230ea66a4483ecfe1a57ae79144e5e735654829e00cfc68",
+  "clobTokenIds": "[\"35608595602971585131748334524997534059288005974951964270070510209825391272871\", \"86136836547770521111743494575582395458930966240091848908759010720929112549108\"]",
   "market_p": 0.991,
   "bestBid": 0.989,
   "bestAsk": 0.993,
   "spread": 0.004,
-  "volume": 668361.0115499998,
-  "liquidity": 16430.64427,
+  "volume": 668366.8915499996,
+  "liquidity": 15623.75774,
   "endDate": "2026-12-31T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -43,6 +44,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:44.014807+00:00",
+  "structured_at": "2026-09-23T20:24:58.885097+00:00",
   "priority": 4
 }

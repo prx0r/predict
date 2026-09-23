@@ -2,12 +2,13 @@
   "question": "Bank of England rate hike in 2026?",
   "slug": "bank-of-england-rate-hike-in-2026",
   "conditionId": "0xf41cdb3c4e9921acd070fa36fb567f4075284a2e3b89f06a1a23667aeecdc545",
+  "clobTokenIds": "[\"74759375087161845230989502970158750772517621988242039830169291526098745655610\", \"20414650103407944995741286552313169705521839639657341534829483349107549810367\"]",
   "market_p": 0.905,
   "bestBid": 0.89,
   "bestAsk": 0.92,
   "spread": 0.03,
-  "volume": 56644.30242500002,
-  "liquidity": 1038.9131,
+  "volume": 56644.302424999994,
+  "liquidity": 1029.9131,
   "endDate": "2027-01-01T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -40,6 +41,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:44.168433+00:00",
+  "structured_at": "2026-09-23T20:24:59.004365+00:00",
   "priority": 4
 }

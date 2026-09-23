@@ -2,12 +2,13 @@
   "question": "Trump renames AI by September 30?",
   "slug": "trump-renames-ai-by-september-30",
   "conditionId": "0x56fda0f04440ef5a2b8f4cb1d33e256f0e28d5cb635d812b1314c8078a0a1b1d",
-  "market_p": 0.235,
-  "bestBid": 0.23,
-  "bestAsk": 0.24,
+  "clobTokenIds": "[\"65155996440691380875542586760220883640477900840310449106732523002917845045754\", \"15879034088745702617841836435968254556714391871856392920052702283309851829191\"]",
+  "market_p": 0.255,
+  "bestBid": 0.25,
+  "bestAsk": 0.26,
   "spread": 0.01,
-  "volume": 144483.92467600005,
-  "liquidity": 17178.2386,
+  "volume": 153114.83760499998,
+  "liquidity": 17682.0942,
   "endDate": "2026-10-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -75,30 +76,11 @@
   "source_fallback": true,
   "complexity": 17,
   "divergence": 30,
-  "model_p": 0.18,
-  "model_rationale": "Range 0.10-0.25. Mechanism proven (3 renames in 20 months, latest 4 weeks ago) but object unprecedented (tech name, not geography); 7-day window. Below market 0.235: title overstates, conditions bite. Low confidence.",
+  "model_p": null,
+  "model_rationale": null,
   "model_at": null,
-  "edge": -0.055,
-  "status": "assessed-watch",
-  "structured_at": "2026-09-23T16:18:42.868896+00:00",
-  "priority": 30,
-  "alpha": {
-    "precedents": [
-      "EO 14172 (2025-01-20): Gulf of Mexico -> Gulf of America + Denali -> McKinley via Interior/BGN/GNIS (CRS IF12881)",
-      "Lake Ontario -> Lake America (2026-08-27, CNBC) amid Canada trade war \u2014 pattern repeated 4 weeks ago",
-      "Authority confirmed: presidents CAN rename via EO (ABC News, 2025-01-21)"
-    ],
-    "crux": "All precedents are GEOGRAPHIC features. Market requires TECHNOLOGY designation replacement. Zero known cases of a tech-concept rename by EO.",
-    "misreading": "Title suggests any rename counts; conditions exclude speeches/posts/office-renames/product-renames/incidental-use. X posts pay zero.",
-    "assessed_at": "2026-09-23T16:28:45.565446+00:00"
-  },
-  "jev_assessment": {
-    "model": "typesafe/jev-1.13",
-    "via": "openrouter-decisions-api",
-    "resolves_yes_noul": 0.15,
-    "conditions_misleading_noul": 0.92,
-    "assessed_at": "2026-09-23T18:01:41.163335+00:00",
-    "note": "independent of human model_p 0.18; same band, same direction"
-  },
-  "edge_jev": -0.085
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T20:24:57.981426+00:00",
+  "priority": 30
 }

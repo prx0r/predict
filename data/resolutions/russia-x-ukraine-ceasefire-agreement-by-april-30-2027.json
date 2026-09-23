@@ -2,12 +2,13 @@
   "question": "Russia x Ukraine ceasefire agreement by April 30, 2027?",
   "slug": "russia-x-ukraine-ceasefire-agreement-by-april-30-2027",
   "conditionId": "0xbdab12a222060b29a0238cbfff86c5108a31ee492ee67be3f292f8697eea7d31",
-  "market_p": 0.425,
-  "bestBid": 0.42,
-  "bestAsk": 0.43,
+  "clobTokenIds": "[\"96854957081280371399135187059672653825647194458707758516928455690242205013324\", \"93062350533110755234477886242900177286951474193970899314827969890654978660378\"]",
+  "market_p": 0.435,
+  "bestBid": 0.43,
+  "bestAsk": 0.44,
   "spread": 0.01,
-  "volume": 1764.058077,
-  "liquidity": 26623.8177,
+  "volume": 1780.4080769999996,
+  "liquidity": 27009.1917,
   "endDate": "2027-05-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -59,26 +60,17 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:44.141610+00:00",
+  "structured_at": "2026-09-23T20:24:58.979002+00:00",
   "priority": 9,
-  "jev_assessment": {
-    "model": "typesafe/jev-1.13",
-    "via": "openrouter-decisions-api",
-    "resolves_yes_noul": 0.33,
-    "conditions_misleading_noul": 0.24,
-    "assessed_at": "2026-09-23T18:06:39.630032+00:00"
-  },
-  "edge_jev": -0.095,
   "alpha": {
     "precedents": [
-      "Geneva Sep 22 2026: NO agreement on fundamentals (territory, Zaporizhzhia); monitoring mechanism ~agreed; more talks unspecified (Moscow Times).",
-      "May 2026 3-day Victory-Day ceasefire: announced by Trump, immediately violated by both sides (1000+ claimed violations, PBS). Agreement != compliance.",
-      "Energy ceasefire Sep 2026: Ukraine ready, Russia non-committal; Trump claims vs reality gap (RBC/Euronews). Sectoral deals may not satisfy general wording.",
-      "Minsk I/II: 1289 violations in 9mo (OSCE 2020-21); Budapest 1994 broken 2014. Announced-then-violated is the base pattern.",
-      "US pushing sectoral path (energy, hospitals) per Amb. Whitaker Sep 17 \u2014 partial deals fragment the trigger."
+      "May 2026 3-day Victory-Day truce: announced by Trump, accepted by Russia, prisoner swap centerpiece \u2014 market RESOLVED NO (0.0). Failed the mutuality test: never officially announced by BOTH sides as mutual agreement.",
+      "Geneva Sep 22 2026: monitoring mechanism ~agreed; territory + Zaporizhzhia open. Mechanism is not agreement.",
+      "Energy ceasefire Sep 2026: Ukraine ready, Russia non-committal. Unilateral readiness pays nothing.",
+      "Minsk I/II, Budapest: announced frameworks that failed mutuality/specificity tests in hindsight."
     ],
-    "crux": "Market asks about AGREEMENT, not compliance \u2014 announced-but-violated counts if real. Thin text (one requirement, zero exclusions) means partial/sectoral deals sit in a gray zone. Near-term legs need a full agreement within weeks; talks produce monitoring mechanisms, not signatures.",
-    "misreading": "Title readers price compliance (will fighting stop); conditions price announcement (was something agreed). May-2026 pattern shows announcements happen and fail \u2014 title direction right, payoff wrong without the distinction.",
-    "assessed_at": "2026-09-23T17:00:00+00:00"
+    "deterministic_rule": "Yes requires ALL: (1) mutual Russia+Ukraine agreement, (2) officially announced by BOTH or consensus-confirmed as mutual, (3) explicit DATED commitment to stop fighting. Fail any one = No. Validated by May 0.0 resolution.",
+    "misreading_corrected": "Earlier alpha claimed announced-but-violated counts. FALSIFIED by May precedent. Title readers price fighting-stops; conditions price mutual-dated-agreement. Stricter than it looks, not looser.",
+    "assessed_at": "2026-09-23T20:39:21.441059+00:00"
   }
 }

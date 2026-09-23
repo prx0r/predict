@@ -2,12 +2,13 @@
   "question": "Trump out as President by September 30?",
   "slug": "dtrump-out-as-president-by-september-30",
   "conditionId": "0xc3794a8d3a34d04b9f39773e35c4cecdac89d32eab93e8589d9a6f03e04e9490",
+  "clobTokenIds": "[\"6121218352389247881246006291990310720710516288829209381613978118836000554470\", \"50230525292011397361666032128557566687811184498515693563902400561445822555625\"]",
   "market_p": 0.002,
   "bestBid": 0.001,
   "bestAsk": 0.002,
   "spread": 0.001,
-  "volume": 1713845.3327720005,
-  "liquidity": 361209.37959,
+  "volume": 1714720.4258700004,
+  "liquidity": 246236.39511,
   "endDate": "2026-10-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -49,6 +50,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.869910+00:00",
+  "structured_at": "2026-09-23T20:24:57.982208+00:00",
   "priority": 7
 }

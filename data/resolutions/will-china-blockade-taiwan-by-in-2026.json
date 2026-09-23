@@ -2,12 +2,13 @@
   "question": "Will China blockade Taiwan in 2026?",
   "slug": "will-china-blockade-taiwan-by-in-2026",
   "conditionId": "0x96498c10c79ecaafa2bbb92ada36c7ff617913b03d9220f8c95ce7d6776a0b0c",
+  "clobTokenIds": "[\"65690291927311053038729636064393178237016575706040697041146545333078252381107\", \"15315261949255729988330048836420372523449578392379077874946136895226504828459\"]",
   "market_p": 0.038,
   "bestBid": 0.034,
   "bestAsk": 0.042,
   "spread": 0.008,
-  "volume": 370964.57035700005,
-  "liquidity": 45195.39155,
+  "volume": 370964.57035699993,
+  "liquidity": 46816.27069,
   "endDate": "2027-01-01T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -52,30 +53,11 @@
   "source_fallback": true,
   "complexity": 11,
   "divergence": 11,
-  "model_p": 0.03,
-  "model_rationale": "Range 0.01-0.06. Text fairly tight; gray zone excluded by construction; historical base rate of full blockade ~once in 70 years. Near market 0.038 \u2014 no edge either side. Watch for quarantine-to-blockade escalation language.",
+  "model_p": null,
+  "model_rationale": null,
   "model_at": null,
-  "edge": -0.008,
-  "status": "assessed-no-edge",
-  "structured_at": "2026-09-23T16:18:44.167525+00:00",
-  "priority": 11,
-  "alpha": {
-    "precedents": [
-      "1958 Quemoy/Matsu artillery blockade + US-escorted convoys; ceasefire Oct 6 (RAND RM-4900). Only full-precedent case.",
-      "63 Kinmen coast-guard incursions in past year (Taiwan CGA, Mar 2025); gray-zone ops ongoing, framed as law enforcement.",
-      "CSIS expert survey: quarantine (coast-guard-led) most likely coercion; PLA blockade signals force-unification intent; only 40% of Taiwanese experts confident US intervenes vs quarantine.",
-      "RAND RRA1279: quarantine avoids war declaration; counterblockade unlikely to work; direct pressure needed to break."
-    ],
-    "crux": "Market says BLOCKADE with single-vessel carve-out. Ongoing gray-zone/quarantine activity likely does NOT satisfy it (else p would not be 0.038). The trigger is a qualitative jump to enforced denial \u2014 which historically comes with invasion-level signaling, not 2026 timelines.",
-    "misreading": "Headlines about incursions/quarantine-underway suggest action; conditions require blockade-scale denial. Title readers overpay Yes on gray-zone news.",
-    "assessed_at": "2026-09-23T16:29:05.186769+00:00"
-  },
-  "jev_assessment": {
-    "model": "typesafe/jev-1.13",
-    "via": "openrouter-decisions-api",
-    "resolves_yes_noul": 0.14,
-    "conditions_misleading_noul": 0.8,
-    "assessed_at": "2026-09-23T18:06:37.048456+00:00"
-  },
-  "edge_jev": 0.102
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T20:24:59.003384+00:00",
+  "priority": 11
 }

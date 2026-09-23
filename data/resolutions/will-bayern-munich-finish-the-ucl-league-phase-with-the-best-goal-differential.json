@@ -1,0 +1,49 @@
+{
+  "question": "Will Bayern Munich finish the UCL league phase with the best goal differential?",
+  "slug": "will-bayern-munich-finish-the-ucl-league-phase-with-the-best-goal-differential",
+  "conditionId": "0x680a11ec9d381fbd68d347b63a9535f340cced83b396f9b54f5b3aa7300851b0",
+  "clobTokenIds": "[\"96902981638089430335846482893978255715426027611160767769984917910186370699782\", \"15413496763024002059005948695968761044892443821200338833739898819064370671596\"]",
+  "market_p": 0.35,
+  "bestBid": 0.3,
+  "bestAsk": 0.4,
+  "spread": 0.1,
+  "volume": 1378.803158,
+  "liquidity": 686.9933,
+  "endDate": "2027-02-28T23:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "If the 2026-27 UEFA Champions League league phase is shortened, truncated, or ends early for any reason, the outcome shall be determined using available official data for completed matches.",
+    "If the 2026-27 UEFA Champions League league phase is cancelled, postponed after February 28, 2027, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to \"Other\"."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "This market will resolve to the club that finishes the league phase of the 2026-27 UEFA Champions League with the best goal differential.",
+    "Only matches played in the league phase of the 2026-27 UEFA Champions League will be considered.",
+    "Qualifying rounds, the play-off round, the knockout phase play-offs, and all knockout rounds will not be considered.",
+    "In the event of a tie, this market will resolve according to the club that scored the most total goals in the league phase.",
+    "If a tie still persists, this market will resolve to the club that is listed first alphabetically.",
+    "The resolution source for this market will be official information from UEFA; however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T20:24:58.394397+00:00",
+  "priority": 4
+}

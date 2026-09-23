@@ -2,12 +2,13 @@
   "question": "Will DeepSeek have the best AI model at the end of October 2026?",
   "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841128",
   "conditionId": "0xb15c88021fa0ba847a620186522d4ebc4199815bd534f54e1d7785971d494ae4",
+  "clobTokenIds": "[\"34386357091211667570276625678924245594806905197866962525270427868982135901950\", \"48925622740525131924465385332049545409057545421639698452984699063694304076173\"]",
   "market_p": 0.003,
   "bestBid": 0.002,
   "bestAsk": 0.003,
   "spread": 0.001,
-  "volume": 28540.486692000002,
-  "liquidity": 23341.07791,
+  "volume": 28612.488692,
+  "liquidity": 23600.91671,
   "endDate": "2026-10-31T16:00:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -47,6 +48,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:43.893887+00:00",
+  "structured_at": "2026-09-23T20:24:58.755194+00:00",
   "priority": 4
 }

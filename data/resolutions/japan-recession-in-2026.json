@@ -2,12 +2,13 @@
   "question": "Japan recession in 2026?",
   "slug": "japan-recession-in-2026",
   "conditionId": "0x8bc43739611f5d6e2c8b975b5f3a98425b8b1250995cb1c978ee722d2f075d3e",
+  "clobTokenIds": "[\"16364522763036277962941952172705399898262137083148017121857345482184407445373\", \"15266597572711632088100804672464891151180948659501195402269281219835922801448\"]",
   "market_p": 0.04,
   "bestBid": 0.03,
   "bestAsk": 0.05,
   "spread": 0.02,
   "volume": 4282.944047999999,
-  "liquidity": 155.3761,
+  "liquidity": 149.6503,
   "endDate": "2027-05-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -50,6 +51,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.951504+00:00",
+  "structured_at": "2026-09-23T20:24:58.033489+00:00",
   "priority": 4
 }

@@ -2,12 +2,13 @@
   "question": "Will Amazon have the best AI model at the end of October 2026?",
   "slug": "will-amazon-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841129",
   "conditionId": "0x385a6dff135bdce30f5ce415c64fbe3d408f4ce5968598e688891804879cb732",
+  "clobTokenIds": "[\"99896133681614362945726463030671527664551067455077890462267298282621322547777\", \"71665188373624366272797650894500763434695335243159510444620922996164120510327\"]",
   "market_p": 0.001,
   "bestBid": null,
   "bestAsk": 0.001,
   "spread": 0.001,
   "volume": 2066.34,
-  "liquidity": 19822.65955,
+  "liquidity": 18503.862,
   "endDate": "2026-10-31T16:00:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -47,6 +48,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:43.895038+00:00",
+  "structured_at": "2026-09-23T20:24:58.756278+00:00",
   "priority": 4
 }

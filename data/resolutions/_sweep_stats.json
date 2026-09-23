@@ -1,12 +1,12 @@
 {
-  "swept_at": "2026-09-23T16:18:44.303158+00:00",
+  "swept_at": "2026-09-23T20:24:59.101971+00:00",
   "queries": 33,
-  "unique": 1736,
-  "structured": 1736,
+  "unique": 1735,
+  "structured": 1735,
   "gated": {
-    "resolved": 847,
+    "resolved": 839,
     "past": 56,
-    "thin": 389
+    "thin": 384
   },
   "saved_top": 50,
   "top_scores": [

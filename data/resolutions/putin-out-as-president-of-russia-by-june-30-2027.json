@@ -2,12 +2,13 @@
   "question": "Putin out as President of Russia by June 30, 2027?",
   "slug": "putin-out-as-president-of-russia-by-june-30-2027",
   "conditionId": "0xcbac06e53a332298ba921cac34bf293bc9bdfd0aeccb37e6f7f1d100956fbe3c",
+  "clobTokenIds": "[\"18229572568268355061373547113600043708095960392613263749338370746331291972484\", \"24601028523622461239574087621209196163352475459702345844356838038953070280803\"]",
   "market_p": 0.115,
   "bestBid": 0.11,
   "bestAsk": 0.12,
   "spread": 0.01,
-  "volume": 476393.615532,
-  "liquidity": 114318.6696,
+  "volume": 476410.46945900004,
+  "liquidity": 115629.6289,
   "endDate": "2027-07-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -43,6 +44,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.884436+00:00",
+  "structured_at": "2026-09-23T20:24:57.991031+00:00",
   "priority": 5
 }

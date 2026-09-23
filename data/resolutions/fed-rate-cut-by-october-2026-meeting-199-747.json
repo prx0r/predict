@@ -2,12 +2,13 @@
   "question": "Fed rate cut by October 2026 meeting?",
   "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
   "conditionId": "0x4092815fea8f91e60586882d45fa2f61bfca8a36d595f47fdea9eec5d2893025",
+  "clobTokenIds": "[\"44988145651657165705599548149732848615827306030030294113026805446816695818477\", \"77520157601571841058805902692716742771926816526078241374918912770703681864753\"]",
   "market_p": 0.008,
   "bestBid": 0.006,
   "bestAsk": 0.01,
   "spread": 0.004,
   "volume": 174660.825189,
-  "liquidity": 69609.38717,
+  "liquidity": 69603.77506,
   "endDate": "2027-01-29T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -41,6 +42,6 @@
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:18:42.934974+00:00",
+  "structured_at": "2026-09-23T20:24:58.026289+00:00",
   "priority": 4
 }
