@@ -61,6 +61,15 @@ of fees. NORTHSTAR lesson 2 is load-bearing here.
   filters 1–4 above. No blanket re-scoring. The $9 lasts months
   at this burn rate.
 
+## Backtest status (2026-09-23, `pm/backtest_mirror.py`)
+
+First run (2 wallets × 300 older trades): n=30 resolved scored —
+hit rate 33%, paper PnL **-5.07**; divergence-excluded subset n=5,
+-1.13. Blind mirror loses net of fees on this sample. Caveats: no
+position netting (scale-ins counted separately), 2 wallets, n=30.
+Not a verdict on mirroring — a baseline the filter must beat.
+Next: netting, more wallets, recency windows.
+
 ## Explicitly not in v1
 
 Maker MM (needs $25k+), latency HFT (2.7s windows, need infra),

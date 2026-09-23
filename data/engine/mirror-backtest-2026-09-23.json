@@ -1,0 +1,335 @@
+{
+  "ran_at": "2026-09-23T18:43:19.194802+00:00",
+  "div_threshold": 8.0,
+  "mirror_all": {
+    "n": 30,
+    "hit_rate": 0.333,
+    "pnl": -5.07,
+    "mean_edge": -0.1689
+  },
+  "excluded_by_filter": {
+    "n": 5,
+    "hit_rate": 0.4,
+    "pnl": -1.13,
+    "mean_edge": -0.2267
+  },
+  "excluded_sample": [
+    {
+      "wallet": "0x2005d16a",
+      "question": "Counter-Strike: FOKUS vs Sangal (BO3) - Stake Pulse Beat II Group A",
+      "side": "BUY",
+      "entry": 0.37,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.3728
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Counter-Strike: WW Team vs  Phantom Academy (BO3) - Exort Fiesta Playo",
+      "side": "BUY",
+      "entry": 0.85,
+      "outcome": 1,
+      "divergence": 12,
+      "pnl": 0.1436
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Counter-Strike: FOKUS vs Astralis (BO3) - Stake Pulse Beat II Group A",
+      "side": "BUY",
+      "entry": 0.86,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.8665
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Counter-Strike: Sashi Esport vs Sangal (BO3) - Stake Pulse Beat II Gro",
+      "side": "BUY",
+      "entry": 0.94,
+      "outcome": 0,
+      "divergence": 12,
+      "pnl": -0.9471
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
+      "side": "BUY",
+      "entry": 0.09,
+      "outcome": 1,
+      "divergence": 12,
+      "pnl": 0.9093
+    }
+  ],
+  "rows": [
+    {
+      "wallet": "0x2005d16a",
+      "question": "Ankara: Yuki Naito vs Ayla Aksu",
+      "side": "BUY",
+      "entry": 0.009,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.0091
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W50 Berkeley, CA: Adriana Reami vs Maria Sholokhova",
+      "side": "BUY",
+      "entry": 0.6380309162,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.6428
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "St. Tropez: David Goffin vs Mark Lajal",
+      "side": "BUY",
+      "entry": 0.97,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.9773
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
+      "side": "BUY",
+      "entry": 0.3057776751,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3081
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Porto: Susan Bandecchi vs Oceane Dodin",
+      "side": "BUY",
+      "entry": 0.7515751043,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.7572
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Falun: William Rejchtman Vinciguerra vs Jan Simonsson",
+      "side": "BUY",
+      "entry": 0.94,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.0529
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Ankara: Aysegul Mert vs Isabella Shinikova",
+      "side": "BUY",
+      "entry": 0.25,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.7481
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Buenos Aires 2: Santiago Rodriguez Taverna vs Nicolas Bruna",
+      "side": "BUY",
+      "entry": 0.04,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9597
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Tolentino: Polona Hercog vs Leyre Romero Gormaz",
+      "side": "BUY",
+      "entry": 0.33,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3325
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
+      "side": "BUY",
+      "entry": 0.029,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9708
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Buenos Aires 2: Thiago Cigarran vs Tomas Martinez",
+      "side": "BUY",
+      "entry": 0.1,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1008
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Tolentino: Mia Ristic vs Arantxa Rus",
+      "side": "BUY",
+      "entry": 0.93,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.063
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W50 Plovdiv: Mayuka Aikawa vs Diana-Ioana Simionescu",
+      "side": "BUY",
+      "entry": 0.8,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.806
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Singapore Open: Storm Hunter vs Joanna Garland",
+      "side": "BUY",
+      "entry": 0.2,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.2015
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Porto: Lizette Cabrera vs Sinja Kraus",
+      "side": "BUY",
+      "entry": 0.94,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.9471
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M15 Forbach: Arian Barbic vs Moritz Hoffmann",
+      "side": "BUY",
+      "entry": 0.3039428742,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3062
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Sharm ElSheikh: Darsh Sachin Patel vs Finn Reilly",
+      "side": "BUY",
+      "entry": 0.96,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.0328
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Falun: Victor Ryden vs Christian Sigsgaard",
+      "side": "BUY",
+      "entry": 0.5,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.5038
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Porto: Anouk Koevermans vs Ayana Akli",
+      "side": "BUY",
+      "entry": 0.3421052632,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3447
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Sharm ElSheikh: Essa Qabazard vs Georgios Nouchakis",
+      "side": "BUY",
+      "entry": 0.8723552687,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8789
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W50 Yecla: Isis Louise Van den Broek vs Ashley Lahey",
+      "side": "BUY",
+      "entry": 0.6283653846,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.3669
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M15 Forbach: Laurens Harnoth Manrubia vs Robin Eldin",
+      "side": "BUY",
+      "entry": 0.39,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.6071
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Ankara: Aliona Falei vs Fangran Tian",
+      "side": "BUY",
+      "entry": 0.3678197674,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3706
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Falun: Viktor Frydrych vs Henry Bernet",
+      "side": "BUY",
+      "entry": 0.1,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1008
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Ankara: Viktoria Hruncakova vs Polina Iatcenko",
+      "side": "BUY",
+      "entry": 0.161155599,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.1624
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Sharm ElSheikh: Edoardo Zanada vs Daniil Ovcharenko",
+      "side": "BUY",
+      "entry": 0.8113639607,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.8174
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "M25 Falun: John Gabelic vs Lucas Renard",
+      "side": "BUY",
+      "entry": 0.9228880383,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.9298
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "Tolentino: Guiomar Maristany vs Despina Papamichail",
+      "side": "BUY",
+      "entry": 0.07,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.9295
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W50 Yecla: Indianna Spink vs Sofia Camila Rojas",
+      "side": "BUY",
+      "entry": 0.33,
+      "outcome": 0,
+      "divergence": 3,
+      "pnl": -0.3325
+    },
+    {
+      "wallet": "0x2005d16a",
+      "question": "W35 Sharm ElSheikh: Nina Rudiukova vs Teodora Vlajic",
+      "side": "BUY",
+      "entry": 0.96,
+      "outcome": 1,
+      "divergence": 3,
+      "pnl": 0.0328
+    }
+  ]
+}
