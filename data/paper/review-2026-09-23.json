@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-april-30-2027",
+    "judge": "jev",
+    "edge": -0.095,
+    "confidence": 0.34,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+    "judge": "jev",
+    "edge": 0.035,
+    "confidence": 0.48,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2027",
+    "judge": "jev",
+    "edge": -0.355,
+    "confidence": 0.26,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-february-28-2027",
+    "judge": "jev",
+    "edge": -0.035,
+    "confidence": 0.44,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-january-31-2027",
+    "judge": "jev",
+    "edge": -0.055,
+    "confidence": 0.54,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-july-31-2027",
+    "judge": "jev",
+    "edge": -0.19,
+    "confidence": 0.24,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by-june-30-2027",
+    "judge": "jev",
+    "edge": -0.13,
+    "confidence": 0.22,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "trump-renames-ai-by-september-30",
+    "judge": "human",
+    "edge": -0.055,
+    "confidence": 0.0,
+    "why": "below thresholds"
+  },
+  {
+    "slug": "will-china-blockade-taiwan-by-in-2026",
+    "judge": "human",
+    "edge": -0.008,
+    "confidence": 0.0,
+    "why": "below thresholds"
+  }
+]

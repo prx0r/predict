@@ -1,0 +1,96 @@
+{
+  "ran_at": "2026-09-23T18:19:29.653886+00:00",
+  "queue": [
+    {
+      "slug": "trump-endorses-chinas-claim-to-taiwan-by-end-of-summit-20260916",
+      "question": "Trump endorses China's claim to Taiwan by end of summit?",
+      "market_p": 0.014,
+      "divergence": 8,
+      "game_type": "judgment",
+      "attention": 2.02,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "china-x-taiwan-military-clash-before-2027",
+      "question": "China x Taiwan military clash before 2027?",
+      "market_p": 0.057,
+      "divergence": 5,
+      "game_type": "judgment",
+      "attention": 2.02,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "dtrump-out-as-president-by-september-30",
+      "question": "Trump out as President by September 30?",
+      "market_p": 0.002,
+      "divergence": 7,
+      "game_type": "judgment",
+      "attention": 1.93,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "lai-ching-te-out-as-president-of-taiwan-in-2026",
+      "question": "Lai Ching-te out as President of Taiwan by December 31, 2026?",
+      "market_p": 0.036,
+      "divergence": 5,
+      "game_type": "judgment",
+      "attention": 1.82,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-may-31-2027",
+      "question": "Russia x Ukraine ceasefire agreement by May 31, 2027?",
+      "market_p": 0.505,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.63,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-november-30-2026",
+      "question": "Russia x Ukraine ceasefire agreement by November 30, 2026?",
+      "market_p": 0.13,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.61,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-october-31-2026",
+      "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+      "market_p": 0.085,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.57,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-march-31-2027",
+      "question": "Russia x Ukraine ceasefire agreement by March 31, 2027?",
+      "market_p": 0.375,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.54,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-november-30-2027",
+      "question": "Russia x Ukraine ceasefire agreement by November 30, 2027?",
+      "market_p": 0.695,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.53,
+      "judge": "typesafe/jev-1.13"
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-agreement-by-october-31-2027",
+      "question": "Russia x Ukraine ceasefire agreement by October 31, 2027?",
+      "market_p": 0.645,
+      "divergence": 9,
+      "game_type": "judgment",
+      "attention": 1.43,
+      "judge": "typesafe/jev-1.13"
+    }
+  ],
+  "deltas": []
+}
