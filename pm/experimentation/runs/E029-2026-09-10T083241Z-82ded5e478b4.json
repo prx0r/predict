@@ -1,0 +1,44 @@
+{
+ "hyp": "E029",
+ "ts": "2026-09-10T08:32:41Z",
+ "inputs_hash": "82ded5e478b4",
+ "inputs": {
+  "fn": "E029"
+ },
+ "outputs": {
+  "train_screen": [
+   {
+    "factor": "f_mom_20",
+    "IC": 0.147,
+    "n": 432,
+    "hit_lo": 0.319
+   },
+   {
+    "factor": "f_hn",
+    "IC": -0.08,
+    "n": 72,
+    "hit_lo": 0.468
+   },
+   {
+    "factor": "f_short",
+    "IC": -0.059,
+    "n": 432,
+    "hit_lo": 0.527
+   },
+   {
+    "factor": "f_burst",
+    "IC": 0.057,
+    "n": 432,
+    "hit_lo": 0.414
+   }
+  ],
+  "winners": [
+   "f_mom_20"
+  ],
+  "n_train": 432,
+  "note": "winners=['f_mom_20']"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

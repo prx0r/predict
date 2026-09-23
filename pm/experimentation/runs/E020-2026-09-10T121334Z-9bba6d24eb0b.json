@@ -1,0 +1,17 @@
+{
+ "hyp": "E020",
+ "ts": "2026-09-10T12:13:34Z",
+ "inputs_hash": "9bba6d24eb0b",
+ "inputs": {
+  "fn": "E020",
+  "mode": "focus"
+ },
+ "outputs": {
+  "tracked": 14,
+  "new": 9,
+  "resolved": 0,
+  "hits": 0,
+  "note": "14 BTC levels tracked, 0 resolved"
+ },
+ "code_refs": {}
+}

@@ -1,0 +1,300 @@
+{
+  "ts": "2026-09-10T04:21:16.754441+00:00",
+  "cost": "$0 (yahoo+coingecko, keyless)",
+  "tickers": {
+    "IONQ": {
+      "ticker": "IONQ",
+      "price": 38.14,
+      "pct_1d": -5.757,
+      "prev_close": 40.47,
+      "day_high": 39.915,
+      "day_low": 38.1,
+      "volume": 25192915,
+      "asof": "2026-09-09T20:00:02+00:00",
+      "venue": "yahoo"
+    },
+    "RGTI": {
+      "ticker": "RGTI",
+      "price": 15.24,
+      "pct_1d": -3.605,
+      "prev_close": 15.81,
+      "day_high": 15.94,
+      "day_low": 15.16,
+      "volume": 18522974,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "QBTS": {
+      "ticker": "QBTS",
+      "price": 17.12,
+      "pct_1d": -3.113,
+      "prev_close": 17.67,
+      "day_high": 17.685,
+      "day_low": 16.88,
+      "volume": 15884567,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "QNT": {
+      "ticker": "QNT",
+      "price": 48.89,
+      "pct_1d": -3.131,
+      "prev_close": 50.47,
+      "day_high": 53.12,
+      "day_low": 48.82,
+      "volume": 1401681,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "GFS": {
+      "ticker": "GFS",
+      "price": 45.95,
+      "pct_1d": 1.907,
+      "prev_close": 45.09,
+      "day_high": 46.34,
+      "day_low": 45.0,
+      "volume": 3279493,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "FORM": {
+      "ticker": "FORM",
+      "price": 114.18,
+      "pct_1d": 3.932,
+      "prev_close": 109.86,
+      "day_high": 115.95,
+      "day_low": 108.52,
+      "volume": 1227561,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "KEYS": {
+      "ticker": "KEYS",
+      "price": 331.01,
+      "pct_1d": -0.723,
+      "prev_close": 333.42,
+      "day_high": 337.53,
+      "day_low": 328.56,
+      "volume": 748812,
+      "asof": "2026-09-09T20:00:03+00:00",
+      "venue": "yahoo"
+    },
+    "COHR": {
+      "ticker": "COHR",
+      "price": 303.48,
+      "pct_1d": 0.53,
+      "prev_close": 301.88,
+      "day_high": 313.329,
+      "day_low": 302.01,
+      "volume": 5002165,
+      "asof": "2026-09-09T20:00:02+00:00",
+      "venue": "yahoo"
+    },
+    "LITE": {
+      "ticker": "LITE",
+      "price": 988.98,
+      "pct_1d": 1.067,
+      "prev_close": 978.535,
+      "day_high": 1026.76,
+      "day_low": 978.11,
+      "volume": 4519016,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "CEVA": {
+      "ticker": "CEVA",
+      "price": 28.1,
+      "pct_1d": -0.496,
+      "prev_close": 28.24,
+      "day_high": 29.0,
+      "day_low": 28.01,
+      "volume": 609847,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "POWI": {
+      "ticker": "POWI",
+      "price": 49.71,
+      "pct_1d": -1.486,
+      "prev_close": 50.46,
+      "day_high": 51.165,
+      "day_low": 49.49,
+      "volume": 675374,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "SYNA": {
+      "ticker": "SYNA",
+      "price": 93.93,
+      "pct_1d": -0.834,
+      "prev_close": 94.72,
+      "day_high": 96.487,
+      "day_low": 93.772,
+      "volume": 913807,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "SLAB": {
+      "ticker": "SLAB",
+      "price": 219.82,
+      "pct_1d": -0.082,
+      "prev_close": 220.0,
+      "day_high": 220.3,
+      "day_low": 219.202,
+      "volume": 162714,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "price": 223.67,
+      "pct_1d": -0.913,
+      "prev_close": 225.73,
+      "day_high": 226.18,
+      "day_low": 223.46,
+      "volume": 79204871,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "ARM": {
+      "ticker": "ARM",
+      "price": 264.23,
+      "pct_1d": 1.032,
+      "prev_close": 261.53,
+      "day_high": 274.773,
+      "day_low": 261.5,
+      "volume": 3302953,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "LSCC": {
+      "ticker": "LSCC",
+      "price": 115.45,
+      "pct_1d": -1.736,
+      "prev_close": 117.49,
+      "day_high": 118.99,
+      "day_low": 114.98,
+      "volume": 1367752,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "LPK": {
+      "ticker": "LPK",
+      "price": 13.2,
+      "pct_1d": -2.583,
+      "prev_close": 13.55,
+      "day_high": 13.65,
+      "day_low": 13.1,
+      "volume": 147638,
+      "asof": "2026-09-09T15:35:23+00:00",
+      "venue": "yahoo"
+    },
+    "SMHN": {
+      "ticker": "SMHN",
+      "price": 73.6,
+      "pct_1d": -1.009,
+      "prev_close": 74.35,
+      "day_high": 75.0,
+      "day_low": 72.55,
+      "volume": 55119,
+      "asof": "2026-09-09T15:35:24+00:00",
+      "venue": "yahoo"
+    },
+    "SOI": {
+      "ticker": "SOI",
+      "price": 144.3,
+      "pct_1d": -1.401,
+      "prev_close": 146.35,
+      "day_high": 148.75,
+      "day_low": 138.75,
+      "volume": 306414,
+      "asof": "2026-09-09T15:36:07+00:00",
+      "venue": "yahoo"
+    },
+    "ALNT": {
+      "ticker": "ALNT",
+      "price": 95.91,
+      "pct_1d": 0.293,
+      "prev_close": 95.63,
+      "day_high": 97.165,
+      "day_low": 93.98,
+      "volume": 235242,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "TKR": {
+      "ticker": "TKR",
+      "price": 119.05,
+      "pct_1d": -3.883,
+      "prev_close": 123.86,
+      "day_high": 125.0,
+      "day_low": 119.01,
+      "volume": 1044443,
+      "asof": "2026-09-09T20:00:02+00:00",
+      "venue": "yahoo"
+    },
+    "NOVT": {
+      "ticker": "NOVT",
+      "price": 145.76,
+      "pct_1d": -2.378,
+      "prev_close": 149.31,
+      "day_high": 150.88,
+      "day_low": 145.55,
+      "volume": 291180,
+      "asof": "2026-09-09T20:00:00+00:00",
+      "venue": "yahoo"
+    },
+    "MU": {
+      "ticker": "MU",
+      "price": 1027.77,
+      "pct_1d": 2.75,
+      "prev_close": 1000.26,
+      "day_high": 1042.4,
+      "day_low": 992.297,
+      "volume": 23573851,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "DRAM": {
+      "ticker": "DRAM",
+      "price": 61.58,
+      "pct_1d": 0.786,
+      "prev_close": 61.1,
+      "day_high": 62.58,
+      "day_low": 60.71,
+      "volume": 26924244,
+      "asof": "2026-09-09T20:00:01+00:00",
+      "venue": "yahoo"
+    },
+    "ETH": {
+      "ticker": "ETH",
+      "price": 2475.56,
+      "pct_1d": -0.789,
+      "venue": "coingecko"
+    },
+    "QRL": {
+      "ticker": "QRL",
+      "price": 0.69901,
+      "pct_1d": 1.487,
+      "venue": "coingecko"
+    },
+    "QANX": {
+      "ticker": "QANX",
+      "price": 0.0123976,
+      "pct_1d": -2.107,
+      "venue": "coingecko"
+    },
+    "CELL": {
+      "ticker": "CELL",
+      "price": 0.0378262,
+      "pct_1d": 0.749,
+      "venue": "coingecko"
+    },
+    "MINIMA": {
+      "ticker": "MINIMA",
+      "price": 0.00407858,
+      "pct_1d": -10.346,
+      "venue": "coingecko"
+    }
+  }
+}

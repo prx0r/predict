@@ -1,0 +1,582 @@
+{
+ "asof": "2026-09-10",
+ "source": "nvidia.com companies.json",
+ "companies": [
+  {
+   "companyName": "AAI",
+   "industry": "Foundation Models - General Purpose",
+   "websiteUrl": "https://doubleai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/aai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Abridge",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.abridge.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/abridge-logo-bw.svg"
+  },
+  {
+   "companyName": "Achira",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://achira.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/achira-logo-all-white.svg"
+  },
+  {
+   "companyName": "Adaptive Security",
+   "industry": "Security",
+   "websiteUrl": "https://www.adaptivesecurity.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/adaptive-security-logo-bw.svg"
+  },
+  {
+   "companyName": "Aidoc",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.aidoc.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/aidoc-logo-bw.svg"
+  },
+  {
+   "companyName": "Alice & Bob",
+   "industry": "Quantum",
+   "websiteUrl": "https://alice-bob.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/alice-bob-logo-all-white.svg"
+  },
+  {
+   "companyName": "Basecamp Research",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.basecampresearch.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/basecamp-research-logo-bw.svg"
+  },
+  {
+   "companyName": "Bedrock Robotics",
+   "industry": "Autonomous Vehicles",
+   "websiteUrl": "https://bedrockrobotics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/bedrock-robotics-logo-bw.svg"
+  },
+  {
+   "companyName": "Carbon Robotics",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.carbonrobotics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/carbon-robotics-logo-bw.svg"
+  },
+  {
+   "companyName": "Charm Therapeutics",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.charmtx.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/charm-logo-bw.svg"
+  },
+  {
+   "companyName": "CodeRabbit",
+   "industry": "Foundation Models - Code Generation",
+   "websiteUrl": "https://coderabbit.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/coderabbit-logo-bw.svg"
+  },
+  {
+   "companyName": "Commonwealth Fusion Systems",
+   "industry": "Energy",
+   "websiteUrl": "https://www.cfs.energy/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/commonwealth-fusion-systems-logo-bw.svg"
+  },
+  {
+   "companyName": "Contextual AI",
+   "industry": "AI Middleware Software",
+   "websiteUrl": "https://www.contextual.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/contextual-logo-bw.svg"
+  },
+  {
+   "companyName": "CuspAI",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.cusp.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/cusp.ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "David AI",
+   "industry": "Voice/Audio",
+   "websiteUrl": "https://www.withdavid.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/david-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Dyna Robotics",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.dynarobotics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/dyna-logo-all-white.svg"
+  },
+  {
+   "companyName": "Edison Scientific",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.edisonscientific.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/edison-scientific-logo-all-white.svg"
+  },
+  {
+   "companyName": "Emerald AI",
+   "industry": "Vertical Application",
+   "websiteUrl": "https://www.emeraldai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/emerald-ai-logo-bw.svg"
+  },
+  {
+   "companyName": "Evozyne",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.evozyne.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/evozyne-logo-all-white.svg"
+  },
+  {
+   "companyName": "Exa",
+   "industry": "Search",
+   "websiteUrl": "https://exa.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/exa-logo-bw.svg"
+  },
+  {
+   "companyName": "Factory AI",
+   "industry": "Foundation Models - Code Generation",
+   "websiteUrl": "https://www.factory.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/factory-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "fal",
+   "industry": "Video",
+   "websiteUrl": "https://fal.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/fal-logo-all-white.svg"
+  },
+  {
+   "companyName": "FieldAI",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.fieldai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/field-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Flexion Robotics",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.flexionrobotics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/flexion-robotics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Flywheel",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.flywheel.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/flywheel-logo-all-white.svg"
+  },
+  {
+   "companyName": "Freeform",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.freeformfuture.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/freeform-logo-all-white.svg"
+  },
+  {
+   "companyName": "General Robotics",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.generalrobotics.company/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/general-robotics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Generalist AI",
+   "industry": "Robotics",
+   "websiteUrl": "https://generalistai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/generalist-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Generate",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.generatebiomedicines.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/generate-biomedicines-logo-all-white.svg"
+  },
+  {
+   "companyName": "Genesis Molecular AI",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.genesistherapeutics.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/genesis-molecular-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Harmonic",
+   "industry": "Foundation Models - Enterprise",
+   "websiteUrl": "https://harmonic.fun/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/harmonic-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Hippocratic",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.hippocraticai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/hippocratic-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Hydra Host",
+   "industry": "AI Middleware Software",
+   "websiteUrl": "https://hydrahost.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/hydra-host-logo-all-white.svg"
+  },
+  {
+   "companyName": "Iambic Therapeutics",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.iambic.ai",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/iambic-therapeutics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Inception Labs",
+   "industry": "Foundation Models - General Purpose",
+   "websiteUrl": "https://www.inceptionlabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/inception-labs-logo-all-white.svg"
+  },
+  {
+   "companyName": "Inceptive",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.inceptivemedicine.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/inceptive-logo-all-white.svg"
+  },
+  {
+   "companyName": "Instrumental",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://instrumental.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/instrumental-logo-all-white.svg"
+  },
+  {
+   "companyName": "Legora",
+   "industry": "Vertical Application",
+   "websiteUrl": "https://legora.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/legora-logo-all-white.svg"
+  },
+  {
+   "companyName": "Lila Sciences",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.lilasciences.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/lila-sciences-logo-bw.svg"
+  },
+  {
+   "companyName": "Linker Vision",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.linkervision.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/linker-vision-logo-all-white.svg"
+  },
+  {
+   "companyName": "Lovable",
+   "industry": "Foundation Models - Code Generation",
+   "websiteUrl": "https://lovable.dev/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/lovable-logo-bw.svg"
+  },
+  {
+   "companyName": "LumaLabs",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://lumalabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/luma-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Luminary",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.luminarycloud.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/luminary-(luminary-cloud)-logo-all-white.svg"
+  },
+  {
+   "companyName": "Machina Labs",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.machinalabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/machina-labs-logo-all-white.svg"
+  },
+  {
+   "companyName": "MindsDB",
+   "industry": "Data Platforms & Analytics",
+   "websiteUrl": "https://mindsdb.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/mindsdb-logo-all-white.svg"
+  },
+  {
+   "companyName": "Mirendil",
+   "industry": "Foundation Models - General Purpose",
+   "websiteUrl": "https://mirendil.com",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/mirendil-logo-all-white.svg"
+  },
+  {
+   "companyName": "Moon Surgical",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.moonsurgical.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/moon-surgical-logo-all-white.svg"
+  },
+  {
+   "companyName": "Moonlake AI",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.moonlakeai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/moonlake-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "n8n",
+   "industry": "Agentic Workflow",
+   "websiteUrl": "https://n8n.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/n8n-logo-all-white.svg"
+  },
+  {
+   "companyName": "Neocis",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.neocis.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/neocis-logo-all-white.svg"
+  },
+  {
+   "companyName": "nEye Systems",
+   "industry": "Networking",
+   "websiteUrl": "https://www.neye.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/neye.ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "nTop",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.ntop.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/ntop-logo-all-white.svg"
+  },
+  {
+   "companyName": "Nuance Labs",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://www.nuancelabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/nuance-labs-logo-all-white.svg"
+  },
+  {
+   "companyName": "Odyssey",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://www.odyssey.systems/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/odyssey-logo-all-white.svg"
+  },
+  {
+   "companyName": "OpenEvidence",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.openevidence.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/openevidence-logo-bw.svg"
+  },
+  {
+   "companyName": "Orbital Industries",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.orbitalindustries.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/orbital-industries-logo-all-white.svg"
+  },
+  {
+   "companyName": "Outrider",
+   "industry": "Autonomous Vehicles",
+   "websiteUrl": "https://www.outrider.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/outrider-logo-all-white.svg"
+  },
+  {
+   "companyName": "PassiveLogic",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.passivelogic.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/passive-logic-logo-all-white.svg"
+  },
+  {
+   "companyName": "Periodic Labs",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.periodiclabs.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/periodic-labs-logo-bw.svg"
+  },
+  {
+   "companyName": "Physical Intelligence",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.physicalintelligence.company/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/physical-intelligence-logo-all-white.svg"
+  },
+  {
+   "companyName": "PhysicsX",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.physicsx.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/physicsx-logo-all-white.svg"
+  },
+  {
+   "companyName": "Point2 Technology Inc.",
+   "industry": "Networking",
+   "websiteUrl": "https://point2tech.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/point2-technology-logo-all-white.svg"
+  },
+  {
+   "companyName": "PolyAI",
+   "industry": "Voice/Audio",
+   "websiteUrl": "https://www.poly.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/polyai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Profound",
+   "industry": "Data Platforms & Analytics",
+   "websiteUrl": "https://www.tryprofound.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/profound-logo-all-white.svg"
+  },
+  {
+   "companyName": "Proxima",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.proxima.bio/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/proxima-logo-all-white.svg"
+  },
+  {
+   "companyName": "PsiQuantum",
+   "industry": "Quantum",
+   "websiteUrl": "https://www.psiquantum.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/psiquantum-logo-all-white.svg"
+  },
+  {
+   "companyName": "Quantinuum",
+   "industry": "Quantum",
+   "websiteUrl": "https://www.quantinuum.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/quantinuum-logo-all-white.svg"
+  },
+  {
+   "companyName": "QuEra",
+   "industry": "Quantum",
+   "websiteUrl": "https://www.quera.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/quera-logo-all-white.svg"
+  },
+  {
+   "companyName": "Radical AI",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.radical-ai.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/radical-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Redwood Materials",
+   "industry": "Energy",
+   "websiteUrl": "https://www.redwoodmaterials.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/redwood-materials-logo-all-white.svg"
+  },
+  {
+   "companyName": "Reflection AI",
+   "industry": "Foundation Models - Code Generation",
+   "websiteUrl": "https://www.reflection.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/reflection-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Relation Therapeutics",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.relationtx.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/relation-therapeutics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Revolut",
+   "industry": "Vertical Application",
+   "websiteUrl": "https://www.revolut.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/revolut-logo-all-white.svg"
+  },
+  {
+   "companyName": "Rhoda",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.rhoda.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/rhoda-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "Runway ML",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://runwayml.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/runway-logo-all-white.svg"
+  },
+  {
+   "companyName": "Samaya",
+   "industry": "Vertical Application",
+   "websiteUrl": "https://samaya.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/samaya-logo-all-white.svg"
+  },
+  {
+   "companyName": "Scintil Photonics",
+   "industry": "Networking",
+   "websiteUrl": "https://www.scintil-photonics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/scintil-photonics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Seurat",
+   "industry": "Industrial & Materials Discovery",
+   "websiteUrl": "https://www.seurat.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/seurat-logo-all-white.svg"
+  },
+  {
+   "companyName": "Simular",
+   "industry": "Agentic Workflow",
+   "websiteUrl": "https://www.simular.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/simular-logo-all-white.svg"
+  },
+  {
+   "companyName": "Skild",
+   "industry": "Robotics",
+   "websiteUrl": "https://www.skild.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/skild-ai-logo-bw.svg"
+  },
+  {
+   "companyName": "Suno",
+   "industry": "Voice/Audio",
+   "websiteUrl": "https://suno.com/home",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/suno-logo-all-white.svg"
+  },
+  {
+   "companyName": "Superluminal Medicines",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.superluminal.eu/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/superluminal-medicines-logo-all-white.svg"
+  },
+  {
+   "companyName": "Synthesia",
+   "industry": "Video",
+   "websiteUrl": "https://www.synthesia.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/synthesia-logo-bw.svg"
+  },
+  {
+   "companyName": "Tensormesh",
+   "industry": "AI Middleware Software",
+   "websiteUrl": "https://www.tensormesh.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/tensormesh-logo-all-white.svg"
+  },
+  {
+   "companyName": "TerraPower",
+   "industry": "Energy",
+   "websiteUrl": "https://www.terrapower.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/terrapower-logo-all-white.svg"
+  },
+  {
+   "companyName": "Terray Therapeutics",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.terraytx.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/terray-logo-all-white.svg"
+  },
+  {
+   "companyName": "ThinkLabs",
+   "industry": "Energy",
+   "websiteUrl": "https://www.thinklabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/thinklabs-logo-all-white.svg"
+  },
+  {
+   "companyName": "TwelveLabs",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://www.twelvelabs.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/twelve-labs-logo-all-white.svg"
+  },
+  {
+   "companyName": "Unstructured",
+   "industry": "Data Platforms & Analytics",
+   "websiteUrl": "https://unstructured.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/unstructured-logo-all-white.svg"
+  },
+  {
+   "companyName": "Vention",
+   "industry": "Robotics",
+   "websiteUrl": "https://vention.io/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/vention-logo-all-white.svg"
+  },
+  {
+   "companyName": "Vilya Therapeutics",
+   "industry": "Healthcare & Digital Biology",
+   "websiteUrl": "https://www.vilyatx.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/vilya-therapeutics-logo-all-white.svg"
+  },
+  {
+   "companyName": "Waabi",
+   "industry": "Autonomous Vehicles",
+   "websiteUrl": "https://waabi.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/waabi-logo-bw.svg"
+  },
+  {
+   "companyName": "Wisdom AI",
+   "industry": "Data Platforms & Analytics",
+   "websiteUrl": "https://www.wisdom.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/wisdom-ai-logo-all-white.svg"
+  },
+  {
+   "companyName": "World Labs",
+   "industry": "Foundation Models - Multimodal",
+   "websiteUrl": "https://www.worldlabs.ai/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/world-labs-logo-bw.svg"
+  },
+  {
+   "companyName": "XBow",
+   "industry": "Security",
+   "websiteUrl": "https://xbow.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/xbow-logo-all-white.svg"
+  },
+  {
+   "companyName": "Xscape Photonics",
+   "industry": "Networking",
+   "websiteUrl": "https://www.xscapephotonics.com/",
+   "logoUrl": "/content/dam/en-zz/nvidiaweb/startups/nventures/portfolio/logos/xscape-photonics-logo-all-white.svg"
+  }
+ ]
+}

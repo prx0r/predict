@@ -1,0 +1,17 @@
+{
+ "hyp": "E048",
+ "ts": "2026-09-10T13:11:28Z",
+ "inputs_hash": "43041cdd6ad3",
+ "inputs": {
+  "fn": "E048"
+ },
+ "outputs": {
+  "bounce_sharpe": -0.6459,
+  "bh_sharpe": 0.872,
+  "rows": 912,
+  "note": "bounce -0.6459 vs bh 0.872"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

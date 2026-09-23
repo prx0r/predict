@@ -1,0 +1,21 @@
+{
+ "hyp": "E001",
+ "ts": "2026-09-10T12:13:20Z",
+ "inputs_hash": "6d1d78e3d658",
+ "inputs": {
+  "fn": "E001",
+  "mode": "focus"
+ },
+ "outputs": {
+  "ticker": "NVDA",
+  "start": "2026-09-02",
+  "end": "2026-09-09",
+  "fwd_5d": -0.0033,
+  "note": "NVDA burst Sep-02 (Stevens $411M) -> 4d -0.3%; n=1, directional only",
+  "burst": {
+   "form4": 15,
+   "deal": 5
+  }
+ },
+ "code_refs": {}
+}

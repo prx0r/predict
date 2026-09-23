@@ -1,0 +1,46 @@
+{
+ "hyp": "E053",
+ "ts": "2026-09-10T17:09:13Z",
+ "inputs_hash": "08f69e3f6a02",
+ "inputs": {
+  "fn": "E053"
+ },
+ "outputs": {
+  "events": [
+   {
+    "event": "ChatGPT launch",
+    "date": "2022-11-30",
+    "excess_end": 0.082,
+    "excess_min": 0.0,
+    "recovered": true
+   },
+   {
+    "event": "GPT-4 launch",
+    "date": "2023-03-14",
+    "excess_end": 0.0722,
+    "excess_min": -0.0321,
+    "recovered": true
+   },
+   {
+    "event": "o1 reasoning launch",
+    "date": "2024-09-12",
+    "excess_end": 0.145,
+    "excess_min": -0.015,
+    "recovered": true
+   },
+   {
+    "event": "DeepSeek-R1 shock",
+    "date": "2025-01-20",
+    "excess_end": -0.0304,
+    "excess_min": -0.067,
+    "recovered": false
+   }
+  ],
+  "mean_excess_end": 0.0672,
+  "no_recovery": "1/4",
+  "note": "mean 60d excess 6.7%, 1/4 unrecovered"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

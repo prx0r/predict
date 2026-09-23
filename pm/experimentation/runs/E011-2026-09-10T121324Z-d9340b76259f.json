@@ -1,0 +1,26 @@
+{
+ "hyp": "E011",
+ "ts": "2026-09-10T12:13:24Z",
+ "inputs_hash": "d9340b76259f",
+ "inputs": {
+  "fn": "E011",
+  "mode": "focus"
+ },
+ "outputs": {
+  "n": 1,
+  "mean_excess": 0.0205,
+  "hit_rate": 0.0,
+  "verdict": "INCONCLUSIVE",
+  "rows": [
+   [
+    "2026-06-24",
+    "AVGO",
+    "silicon-roadmap",
+    0.0205
+   ]
+  ],
+  "parent": "H-ACQ-1 (refine)",
+  "note": "silicon/capacity subset: hit 0.0, mean 0.0205, n=1"
+ },
+ "code_refs": {}
+}

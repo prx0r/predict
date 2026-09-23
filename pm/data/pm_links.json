@@ -1,0 +1,18 @@
+{"links": [
+  {"match": "AGI before 2027", "node": "accelerators",
+   "proposition": "AGI arrival accelerates AI-compute demand",
+   "polarity": "+", "lag": "quarters", "relevance": 0.7},
+  {"match": "nuclear fusion be achieved", "node": "power",
+   "proposition": "fusion progress validates long-duration energy bets",
+   "polarity": "+", "lag": "years", "relevance": 0.5},
+  {"match": "Italy Senate approves Nuclear Power Bill", "node": "power",
+   "proposition": "nuclear permission expands deployable load",
+   "polarity": "+", "lag": "years", "relevance": 0.6},
+  {"match": "Optimus", "node": "motors",
+   "proposition": "humanoid scale-up pulls actuator demand",
+   "polarity": "+", "lag": "quarters", "relevance": 0.6},
+  {"match": "data center in space", "node": "power",
+   "proposition": "orbital compute relieves terrestrial grid",
+   "polarity": "-", "lag": "years", "relevance": 0.3}
+],
+  "meta": {"rule": "a market is evidence-grade only with a typed link (node + polarity). Unlinked markets stay discovery-grade: logged, never fused."}}

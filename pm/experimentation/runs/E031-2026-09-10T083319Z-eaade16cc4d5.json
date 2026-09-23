@@ -1,0 +1,21 @@
+{
+ "hyp": "E031",
+ "ts": "2026-09-10T08:33:19Z",
+ "inputs_hash": "eaade16cc4d5",
+ "inputs": {
+  "fn": "E031"
+ },
+ "outputs": {
+  "momentum_sharpe": 1.0682,
+  "buyhold_sharpe": -1.5992,
+  "half_sharpes": [
+   4.4789,
+   -0.7984
+  ],
+  "n": 144,
+  "note": "mom 1.0682 vs bh -1.5992; halves [4.4789, -0.7984]"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

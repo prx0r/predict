@@ -1,0 +1,16 @@
+{
+ "hyp": "E027",
+ "ts": "2026-09-10T08:28:15Z",
+ "inputs_hash": "3bd0e5b01182",
+ "inputs": {
+  "fn": "E027"
+ },
+ "outputs": {
+  "groups": 100,
+  "flagged": 100,
+  "note": "100/100 cluster groups look programmatic"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

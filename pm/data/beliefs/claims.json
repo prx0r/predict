@@ -1,0 +1,212 @@
+[
+ {
+  "id": "seed-agent-openai-expert",
+  "edge_id": "agent-openai",
+  "text": "seed expert: OpenAI dominates agents",
+  "p": 0.2,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-openai-pm",
+  "edge_id": "agent-openai",
+  "text": "seed market-implied: OpenAI dominates agents",
+  "p": 0.09,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-anthropic-expert",
+  "edge_id": "agent-anthropic",
+  "text": "seed expert: Anthropic dominates",
+  "p": 0.15,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-anthropic-pm",
+  "edge_id": "agent-anthropic",
+  "text": "seed market-implied: Anthropic dominates",
+  "p": 0.09,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-google-expert",
+  "edge_id": "agent-google",
+  "text": "seed expert: Google dominates",
+  "p": 0.2,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-google-pm",
+  "edge_id": "agent-google",
+  "text": "seed market-implied: Google dominates",
+  "p": 0.09,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-openmodels-expert",
+  "edge_id": "agent-openmodels",
+  "text": "seed expert: Open models dominate",
+  "p": 0.15,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-openmodels-pm",
+  "edge_id": "agent-openmodels",
+  "text": "seed market-implied: Open models dominate",
+  "p": 0.09,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-specialized-expert",
+  "edge_id": "agent-specialized",
+  "text": "seed expert: Specialized agents dominate",
+  "p": 0.2,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-agent-specialized-pm",
+  "edge_id": "agent-specialized",
+  "text": "seed market-implied: Specialized agents dominate",
+  "p": 0.09,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-slowdown-expert",
+  "edge_id": "slowdown",
+  "text": "seed expert: AI progress slows substantially",
+  "p": 0.1,
+  "clock": "expert",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-slowdown-pm",
+  "edge_id": "slowdown",
+  "text": "seed market-implied: AI progress slows substantially",
+  "p": 0.55,
+  "clock": "pm",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-legacy-workflow-sw-equity",
+  "edge_id": "legacy-workflow-sw",
+  "text": "seed equity-priced survival: Human-operated workflow software (\u00a3120/user/mo seat model)",
+  "p": 0.8,
+  "clock": "equity",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "seed-therapy-paradigm-rx-equity",
+  "edge_id": "therapy-paradigm-rx",
+  "text": "seed equity-priced survival: Incumbent therapy-area revenue pool ($150B/yr paradigm)",
+  "p": 0.85,
+  "clock": "equity",
+  "author": "seed:worlds.json",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {}
+ },
+ {
+  "id": "web-20260910-cpo-test",
+  "edge_id": "optical_io",
+  "text": "CPO test bottleneck corroborated: SemiEngineering 2026-06 (multimodal test scale-up), TrendForce 2026-04 (no unified PIC standard, manual handling), Digitimes 2026-09-08 (100pct testing accelerating 2027)",
+  "p": 0.8,
+  "clock": "expert",
+  "author": "websearch-2026-09-10",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {
+   "t_capability": 2026,
+   "t_deployment": 2027,
+   "t_cashflow": 2027,
+   "urls": [
+    "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp/",
+    "https://insights.trendforce.com/p/cpo-testing-market-opportunities",
+    "https://www.digitimes.com/news/a20260908PD215/cpo-testing-optics-2027.html"
+   ]
+  }
+ },
+ {
+  "id": "web-20260910-nvda-stevens",
+  "edge_id": "accelerators",
+  "text": "NVDA director Stevens record $411M open-market sale Sep 2 2026, no 10b5-1 indicated, plus Form 144 for up to $1.09B more (Protos 2026-09-04, FilingExplorer)",
+  "p": 0.85,
+  "clock": "expert",
+  "author": "websearch-2026-09-10",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {
+   "t_capability": null,
+   "t_deployment": null,
+   "t_cashflow": 2026,
+   "urls": [
+    "https://protos.com/nvidia-director-mark-stevens-sold-a-record-411m-of-stock/"
+   ]
+  }
+ },
+ {
+  "id": "web-20260910-cpo-crowded",
+  "edge_id": "optical_io",
+  "text": "Caution: CPO test names already ran hard (AEHR +1033pct, FORM +468pct, Chroma +757pct 1Y per PhotonCap 2026-05) \u2014 bottleneck real but crowded",
+  "p": 0.7,
+  "clock": "equity",
+  "author": "websearch-2026-09-10",
+  "origin_claim_id": "",
+  "derived_from": [],
+  "meta": {
+   "t_capability": null,
+   "t_deployment": null,
+   "t_cashflow": 2026,
+   "urls": [
+    "https://photoncap.net/p/the-100-second-bottleneck-behind"
+   ]
+  }
+ }
+]

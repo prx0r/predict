@@ -1,0 +1,12 @@
+[
+ {
+  "id": "seed1.1.conv",
+  "factor": "f_conv",
+  "parent": "seed1.conv"
+ },
+ {
+  "id": "seed1.1.B",
+  "factor": "f_B",
+  "parent": "seed1.B"
+ }
+]

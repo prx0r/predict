@@ -1,0 +1,18 @@
+{
+ "hyp": "E055",
+ "ts": "2026-09-10T18:49:25Z",
+ "inputs_hash": "d291cc7c072b",
+ "inputs": {
+  "fn": "E055"
+ },
+ "outputs": {
+  "windows": 47,
+  "mean_spread": -0.026,
+  "sharpe": -1.148,
+  "total": -0.753,
+  "note": "AI-beta L/S -2.60%/window, Sharpe -1.15, total -75.3%"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

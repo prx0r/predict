@@ -1,0 +1,63 @@
+{
+ "round": "r1",
+ "n_train": 420,
+ "n_hold": 240,
+ "seeds": [
+  {
+   "id": "seed1.mom",
+   "factor": "f_mom_20",
+   "parent": null,
+   "train_IC": 0.086,
+   "hold_IC": 0.032,
+   "verdict": "DEMOTE"
+  },
+  {
+   "id": "seed1.burst",
+   "factor": "f_burst",
+   "parent": null,
+   "train_IC": -0.154,
+   "hold_IC": 0.09,
+   "verdict": "DEMOTE"
+  },
+  {
+   "id": "seed1.attack",
+   "factor": "f_attack",
+   "parent": null,
+   "train_IC": -0.07,
+   "hold_IC": -0.02,
+   "verdict": "DEMOTE"
+  },
+  {
+   "id": "seed1.hn",
+   "factor": "f_hn",
+   "parent": null,
+   "train_IC": 0.053,
+   "hold_IC": 0.036,
+   "verdict": "DEMOTE"
+  },
+  {
+   "id": "seed1.short",
+   "factor": "f_short",
+   "parent": null,
+   "train_IC": 0.057,
+   "hold_IC": 0.032,
+   "verdict": "DEMOTE"
+  },
+  {
+   "id": "seed1.conv",
+   "factor": "f_conv",
+   "parent": null,
+   "train_IC": 0.116,
+   "hold_IC": 0.221,
+   "verdict": "PROMOTE"
+  },
+  {
+   "id": "seed1.B",
+   "factor": "f_B",
+   "parent": null,
+   "train_IC": -0.116,
+   "hold_IC": -0.221,
+   "verdict": "PROMOTE"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "hyp": "E012",
+ "ts": "2026-09-10T12:13:34Z",
+ "inputs_hash": "1a593aac0b1d",
+ "inputs": {
+  "fn": "E012",
+  "mode": "focus"
+ },
+ "outputs": {
+  "mega": {
+   "n": 5,
+   "mean_excess": 0.0354,
+   "hit_rate": 0.2,
+   "verdict": "REFUTED",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META",
+    "NVDA"
+   ]
+  },
+  "rest": {
+   "n": 4,
+   "mean_excess": 0.1499,
+   "hit_rate": 0.75,
+   "verdict": "INCONCLUSIVE",
+   "tickers": [
+    "AMD",
+    "AVGO",
+    "CSCO"
+   ]
+  },
+  "unknown_size": [
+   "9984.T",
+   "CRWV"
+  ],
+  "parent": "H-ACQ-1 (refine)",
+  "note": "mega(rev>=$100B) hit 0.2 n=5 vs rest hit 0.75 n=4"
+ },
+ "code_refs": {}
+}

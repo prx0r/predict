@@ -1,0 +1,372 @@
+{"ts": "2026-09-10T03:39:26Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.025, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:29Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 0.24, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:32Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 0.125, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:35Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:38Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:42Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:45Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:48Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:53Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:56Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:39:59Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:40:03Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.011, "confidence": 0.82, "source": "polymarket"}
+{"ts": "2026-09-10T03:40:07Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:40:11Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:40:14Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.007, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:40:17Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:02Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.025, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:04Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 0.24, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:10Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 0.125, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:12Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:14Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:18Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:21Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:23Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:25Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:28Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:30Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:32Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.011, "confidence": 0.82, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:35Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:38Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:41Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.007, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:41:43Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:15Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.885, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:18Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 0.24, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:22Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 0.125, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:24Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:26Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:30Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:32Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:34Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:37Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:40Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:42Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:44Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.011, "confidence": 0.82, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:46Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:49Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:52Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T03:42:55Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:24Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.885, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:29Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 0.24, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:33Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 0.006, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:37Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:41Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:47Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:51Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:55Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:22:59Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:03Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:07Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:11Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.011, "confidence": 0.82, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:15Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:20Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:25Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:23:29Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.032, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:29:57Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.885, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:02Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 0.24, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:07Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 0.006, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:11Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:15Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:20Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:24Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:28Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:33Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:37Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:41Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:45Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.011, "confidence": 0.82, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:49Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:54Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:30:58Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:31:02Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.03, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:09Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:13Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:17Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:21Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:24Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:30Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:34Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.875, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:38Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:41Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:45Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:49Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:53Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:32:57Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:33:01Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:33:05Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:33:09Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.03, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:45:26Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:45:26Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T04:45:31Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:45:35Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T04:45:39Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T04:45:39Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:05:32Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:32Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T05:05:37Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:41Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:47Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:47Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:05:51Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:57Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:05:57Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:01Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:05Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:05Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:09Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:09Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:13Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:13Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:16Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:16Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:20Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:20Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:06:24Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:30Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:34Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:06:38Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:09Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:09Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T05:15:16Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:20Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:24Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:24Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:28Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:33Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:33Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:38Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:42Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:42Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:46Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:46Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:49Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:49Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:53Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:53Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:15:57Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:15:57Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:16:01Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:06Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:11Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:15Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:48Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:48Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T05:16:53Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:16:57Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:01Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:01Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:05Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:10Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:10Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:13Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:17Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:17Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:21Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:21Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:25Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:25Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:28Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:28Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:32Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:32Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:17:36Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:40Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:44Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:17:48Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:56:37Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:56:37Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T05:56:42Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:56:47Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:56:51Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:56:51Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:56:55Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:00Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:00Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:04Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:08Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:08Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:12Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:12Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:16Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:16Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:20Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:20Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:23Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:23Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T05:57:27Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:32Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.98, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:37Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.98, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T05:57:41Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:24Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:24Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T06:11:29Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:33Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:37Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:37Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:11:41Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:47Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:47Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:11:51Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:55Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:55Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:11:59Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:11:59Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:12:03Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:03Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:12:06Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:06Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:12:10Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:10Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:12:14Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:20Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:24Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:12:28Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:08Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:08Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T06:17:13Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:17Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:21Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:21Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:25Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:31Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:31Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:35Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:39Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:39Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:43Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:43Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:47Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:47Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:50Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:50Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:54Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.035, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:17:54Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:17:58Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:18:03Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:18:08Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:18:12Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:12Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:12Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T06:27:17Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:21Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:25Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:25Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:29Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:34Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:34Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:38Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:42Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:42Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:47Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:47Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:50Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:50Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:54Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:54Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:27:58Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:27:58Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:28:02Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:28:07Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:28:11Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.983, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:28:15Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.06, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:50:55Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.235, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:50:55Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $109,401 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T06:51:00Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:04Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:08Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:08Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:12Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:18Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:18Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:22Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:26Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:26Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:31Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:31Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:34Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:34Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:38Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:38Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:42Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.033, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:42Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T06:51:46Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:51Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:55Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T06:51:59Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.06, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T09:55:43Z", "ticker": "GOOGL", "type": "PM_CLOCK", "direction": 0, "strength": 0.055, "confidence": 0.6, "source": "sweep"}
+{"ts": "2026-09-10T09:55:43Z", "ticker": "GOOGL", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.947, "confidence": 0.6, "source": "sweep"}
+{"ts": "2026-09-10T10:11:43Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.275, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:11:43Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $110,460 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T10:11:47Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:11:52Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:11:56Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:11:56Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:00Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:05Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:05Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:09Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:14Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:14Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:18Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:18Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:22Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:22Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:26Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:26Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:29Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:29Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:12:34Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:39Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:43Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:12:47Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:23:51Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.275, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:23:51Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $110,460 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T10:24:03Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.275, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:24:03Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $110,460 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T10:51:56Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.275, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:51:56Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $110,460 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T10:52:03Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:09Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:16Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:16Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T10:52:22Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:29Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:29Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T10:52:35Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:42Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:42Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:52:48Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:48Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:52:53Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:53Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:52:59Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:52:59Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:53:05Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:53:05Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T10:53:11Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:53:19Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:53:25Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T10:53:31Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T11:05:34Z", "ticker": "ACCELERATORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.275, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T11:05:34Z", "ticker": "ACCELERATORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 1.0, "confidence": 0.8, "source": "polymarket|29 whales $110,460 outcome=0: OpenAI announces it has achieved AGI before 2027?"}
+{"ts": "2026-09-10T11:05:42Z", "ticker": "MEMORY_HBM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:05:48Z", "ticker": "MEMORY_DRAM", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:05:54Z", "ticker": "STORAGE", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T11:05:54Z", "ticker": "STORAGE", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:00Z", "ticker": "PACKAGING", "type": "PM_CLOCK", "direction": 0, "strength": 1.0, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:07Z", "ticker": "OPTICAL_IO", "type": "PM_CLOCK", "direction": 0, "strength": 0.017, "confidence": 0.6, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:07Z", "ticker": "OPTICAL_IO", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.161, "confidence": 0.8, "source": "polymarket|5 whales $8,066 outcome=0: AI data center in space by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:14Z", "ticker": "POWER", "type": "PM_CLOCK", "direction": 0, "strength": 0.88, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:20Z", "ticker": "MOTORS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:20Z", "ticker": "MOTORS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:26Z", "ticker": "REDUCERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:26Z", "ticker": "REDUCERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:32Z", "ticker": "ENCODERS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:32Z", "ticker": "ENCODERS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:37Z", "ticker": "BEARINGS", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:37Z", "ticker": "BEARINGS", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:43Z", "ticker": "TORQUE_SENSING", "type": "PM_CLOCK", "direction": 0, "strength": 0.04, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:43Z", "ticker": "TORQUE_SENSING", "type": "WHALE_CONSENSUS", "direction": 0, "strength": 0.131, "confidence": 0.7, "source": "polymarket|3 whales $6,530 outcome=0: Will Tesla release Optimus by December 31, 2026?"}
+{"ts": "2026-09-10T11:06:50Z", "ticker": "EXPERIMENTATION", "type": "PM_CLOCK", "direction": 0, "strength": 0.145, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:06:57Z", "ticker": "TRAP_ION_QC", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:07:03Z", "ticker": "QUANTUM_IP", "type": "PM_CLOCK", "direction": 0, "strength": 0.985, "confidence": 0.5, "source": "polymarket"}
+{"ts": "2026-09-10T11:07:10Z", "ticker": "EXPORT_CONTROLS", "type": "PM_CLOCK", "direction": 0, "strength": 0.065, "confidence": 0.5, "source": "polymarket"}

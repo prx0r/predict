@@ -1,0 +1,23 @@
+{
+ "round": "r1.1",
+ "n_train": 420,
+ "n_hold": 240,
+ "seeds": [
+  {
+   "id": "seed1.1.conv",
+   "factor": "f_conv",
+   "parent": "seed1.conv",
+   "train_IC": 0.116,
+   "hold_IC": 0.221,
+   "verdict": "PROMOTE"
+  },
+  {
+   "id": "seed1.1.B",
+   "factor": "f_B",
+   "parent": "seed1.B",
+   "train_IC": -0.116,
+   "hold_IC": -0.221,
+   "verdict": "PROMOTE"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "hyp": "E043",
+ "ts": "2026-09-10T12:37:45Z",
+ "inputs_hash": "670a4979145a",
+ "inputs": {
+  "fn": "E043"
+ },
+ "outputs": {
+  "stack_n": 0,
+  "solo_n": 373,
+  "base_n": 461,
+  "stack_mean": null,
+  "solo_mean": 0.036,
+  "base_mean": 0.0252,
+  "note": "stack None vs solo vs base (n=0/373/461)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

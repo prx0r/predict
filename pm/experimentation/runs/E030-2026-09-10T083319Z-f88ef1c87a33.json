@@ -1,0 +1,14 @@
+{
+ "hyp": "E030",
+ "ts": "2026-09-10T08:33:19Z",
+ "inputs_hash": "f88ef1c87a33",
+ "inputs": {
+  "fn": "E030"
+ },
+ "outputs": {
+  "error": "'forward_return'"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

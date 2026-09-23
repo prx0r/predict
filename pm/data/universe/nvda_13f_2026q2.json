@@ -1,0 +1,12 @@
+{"asof": "2026-06-30", "filed": "2026-08-14", "total_usd": 63440000000.0,
+ "note": "Hand-seeded from NVDA 13F information table (user thesis 2026-09-10); XML host-blocked. Diff forward from here.",
+ "positions": [
+  {"company": "Intel", "ticker": "INTC", "value_usd": 29990000000.0},
+  {"company": "SpaceX", "ticker": null, "value_usd": 20980000000.0},
+  {"company": "CoreWeave", "ticker": "CRWV", "value_usd": 4700000000.0},
+  {"company": "Coherent", "ticker": "COHR", "value_usd": 3070000000.0},
+  {"company": "Nokia", "ticker": "NOK", "value_usd": 2210000000.0},
+  {"company": "Synopsys", "ticker": "SNPS", "value_usd": 2150000000.0},
+  {"company": "Nebius", "ticker": "NBIS", "value_usd": 328800000.0},
+  {"company": "Generate Biomedicines", "ticker": null, "value_usd": 14100000.0}],
+ "balance_sheet": {"marketable_equity_usd": 42783000000.0, "nonmarketable_usd": 47898000000.0, "equity_method_usd": 3300000000.0, "total_equity_investments_usd": 99000000000.0, "commitments_usd": 25000000000.0, "private_additions_h1fy27_usd": 31005000000.0}}

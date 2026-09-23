@@ -1,0 +1,18 @@
+{
+ "hyp": "E056",
+ "ts": "2026-09-10T18:54:17Z",
+ "inputs_hash": "405c4ceb6dea",
+ "inputs": {
+  "fn": "E056"
+ },
+ "outputs": {
+  "names": 82,
+  "n": 7,
+  "mean": 0.0439,
+  "sharpe": 0.416,
+  "note": "aiContrib L/S 4.4%/q (n=82)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

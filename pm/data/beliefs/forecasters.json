@@ -1,0 +1,80 @@
+{
+ "handles": {
+  "AustinLyons": {
+   "topics": {}
+  },
+  "ChaseLochmiller": {
+   "topics": {}
+  },
+  "MoodyWriter13": {
+   "topics": {}
+  },
+  "SemiAnalysis_": {
+   "topics": {}
+  },
+  "drmichaellevin": {
+   "topics": {}
+  },
+  "BasedBeff": {
+   "topics": {}
+  },
+  "Plinz": {
+   "topics": {}
+  },
+  "fchollet": {
+   "topics": {}
+  },
+  "demishassabis": {
+   "topics": {}
+  },
+  "ilyasut": {
+   "topics": {}
+  },
+  "ylecun": {
+   "topics": {}
+  },
+  "jimkxa": {
+   "topics": {}
+  },
+  "leopoldasch": {
+   "topics": {}
+  },
+  "EMostaque": {
+   "topics": {}
+  },
+  "drfeifei": {
+   "topics": {}
+  },
+  "rasbt": {
+   "topics": {}
+  },
+  "leecronin": {
+   "topics": {}
+  },
+  "Sara_Imari": {
+   "topics": {}
+  },
+  "svlevine": {
+   "topics": {}
+  },
+  "chelseabfinn": {
+   "topics": {}
+  },
+  "SGRodriques": {
+   "topics": {}
+  },
+  "dylan522p": {
+   "topics": {}
+  },
+  "natfriedman": {
+   "topics": {}
+  },
+  "DarioAmodei": {
+   "topics": {}
+  },
+  "robinhanson": {
+   "topics": {}
+  }
+ },
+ "note": "Watchlist priors only (n=0 everywhere -> skill 0.5). Named in user messages 04/18 as historically-early voices (photonics, inference-memory, memory pricing, energy). Skill moves only on resolved outcomes via forecasters.record()."
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "op": "drop",
+  "id": "seed1.mom",
+  "why": "train 0.086 hold 0.032 unstable/absent"
+ },
+ {
+  "op": "drop",
+  "id": "seed1.burst",
+  "why": "train -0.154 hold 0.09 unstable/absent"
+ },
+ {
+  "op": "drop",
+  "id": "seed1.attack",
+  "why": "train -0.07 hold -0.02 unstable/absent"
+ },
+ {
+  "op": "drop",
+  "id": "seed1.hn",
+  "why": "train 0.053 hold 0.036 unstable/absent"
+ },
+ {
+  "op": "drop",
+  "id": "seed1.short",
+  "why": "train 0.057 hold 0.032 unstable/absent"
+ },
+ {
+  "op": "keep",
+  "id": "seed1.conv",
+  "why": "train 0.116 hold 0.221 same sign"
+ },
+ {
+  "op": "keep",
+  "id": "seed1.B",
+  "why": "train -0.116 hold -0.221 same sign"
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "hyp": "E040",
+ "ts": "2026-09-10T12:27:27Z",
+ "inputs_hash": "c7768cf4aafb",
+ "inputs": {
+  "fn": "E040"
+ },
+ "outputs": {
+  "long_tilt_mean": -0.0227,
+  "comp_vs_mom": [
+   -1.6244,
+   -6.0442
+  ],
+  "n": 240,
+  "promoted": false,
+  "note": "bar: tilt -0.0227 comp -1.6244 vs mom -6.0442 n=240 -> NOT PROMOTED"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

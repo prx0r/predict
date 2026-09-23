@@ -1,0 +1,18 @@
+{
+ "hyp": "E018",
+ "ts": "2026-09-10T08:05:22Z",
+ "inputs_hash": "2d0bc56afabc",
+ "inputs": {
+  "fn": "E018"
+ },
+ "outputs": {
+  "heavy_months": 3,
+  "light_months": 7,
+  "heavy_mean": 0.0339,
+  "light_mean": -0.0063,
+  "note": "heavy-sell months +3.4% vs rest -0.6%"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

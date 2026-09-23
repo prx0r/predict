@@ -1,0 +1,21 @@
+{
+ "hyp": "E052",
+ "ts": "2026-09-10T16:51:52Z",
+ "inputs_hash": "56b74f976f65",
+ "inputs": {
+  "fn": "E052"
+ },
+ "outputs": {
+  "n": 122,
+  "rho_pastret_capex": 0.2,
+  "fwd_validated": 0.2237,
+  "n_val": 33,
+  "fwd_unvalidated": 0.3851,
+  "n_unv": 28,
+  "spread": -0.1614,
+  "note": "rho=0.20; validated 22.4% (n=33) vs unvalidated 38.5% (n=28)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

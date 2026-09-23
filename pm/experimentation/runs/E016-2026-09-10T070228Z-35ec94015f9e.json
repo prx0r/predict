@@ -1,0 +1,18 @@
+{
+ "hyp": "E016",
+ "ts": "2026-09-10T07:02:28Z",
+ "inputs_hash": "35ec94015f9e",
+ "inputs": {
+  "fn": "E016"
+ },
+ "outputs": {
+  "burst_neg_IC": 0.075,
+  "n_burst": 80,
+  "long_leg_sharpe_like": 0.541,
+  "short_leg_sharpe_like": -0.244,
+  "note": "neg-burst IC=0.075 n=80; long 0.541 vs short -0.244"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "hyp": "E030",
+ "ts": "2026-09-10T08:33:29Z",
+ "inputs_hash": "f88ef1c87a33",
+ "inputs": {
+  "fn": "E030"
+ },
+ "outputs": {
+  "winners": [
+   "f_mom_20"
+  ],
+  "holdout_n": 144,
+  "composite_sharpe": 1.0682,
+  "momentum_sharpe": 1.0682,
+  "buyhold_sharpe": -1.5992,
+  "note": "comp 1.0682 vs mom 1.0682 vs bh -1.5992"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

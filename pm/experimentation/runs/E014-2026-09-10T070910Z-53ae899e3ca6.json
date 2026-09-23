@@ -1,0 +1,66 @@
+{
+ "hyp": "E014",
+ "ts": "2026-09-10T07:09:10Z",
+ "inputs_hash": "53ae899e3ca6",
+ "inputs": {
+  "fn": "E014"
+ },
+ "outputs": {
+  "train_screen": [
+   {
+    "factor": "f_conv",
+    "IC": 0.233,
+    "n": 45,
+    "hit_lo": 0.498
+   },
+   {
+    "factor": "f_B",
+    "IC": -0.233,
+    "n": 45,
+    "hit_lo": 0.498
+   },
+   {
+    "factor": "f_mom_20",
+    "IC": 0.168,
+    "n": 135,
+    "hit_lo": 0.335
+   },
+   {
+    "factor": "f_hn",
+    "IC": 0.08,
+    "n": 135,
+    "hit_lo": 0.479
+   },
+   {
+    "factor": "f_attack",
+    "IC": 0.074,
+    "n": 135,
+    "hit_lo": 0.493
+   },
+   {
+    "factor": "f_burst",
+    "IC": -0.063,
+    "n": 72,
+    "hit_lo": 0.223
+   },
+   {
+    "factor": "f_short",
+    "IC": 0.022,
+    "n": 135,
+    "hit_lo": 0.516
+   }
+  ],
+  "winners": [
+   "f_conv",
+   "f_B",
+   "f_mom_20"
+  ],
+  "composite_sharpe": -4.7844,
+  "momentum_sharpe": -3.5863,
+  "holdout_n": 45,
+  "note": "composite -4.7844 vs momentum -3.5863 on holdout"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

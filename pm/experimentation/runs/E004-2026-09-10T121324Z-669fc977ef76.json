@@ -1,0 +1,33 @@
+{
+ "hyp": "E004",
+ "ts": "2026-09-10T12:13:24Z",
+ "inputs_hash": "669fc977ef76",
+ "inputs": {
+  "fn": "E004",
+  "mode": "focus"
+ },
+ "outputs": {
+  "hits": 2,
+  "total": 3,
+  "rate": 0.667,
+  "detail": [
+   {
+    "q": "AI wins IMO gold medal in 2025?",
+    "hit": true,
+    "n": 7
+   },
+   {
+    "q": "OpenAI announces it has achieved AGI before July?",
+    "hit": true,
+    "n": 3
+   },
+   {
+    "q": "Nothing Ever Happens: AI Edition",
+    "hit": false,
+    "n": 6
+   }
+  ],
+  "note": "consensus hit rate 0.667 on 3 resolved markets"
+ },
+ "code_refs": {}
+}

@@ -1,0 +1,20 @@
+{"companies": [
+  {"ticker": "LPKF", "name": "LPKF Laser", "layer": "fabrication-equipment", "nodes": ["packaging"], "rev_usd_m": 125, "note": "LIDE glass/TGV for advanced packaging + co-packaged optics; eval stage at multiple semis"},
+  {"ticker": "2360.TW", "name": "Chroma ATE", "layer": "test", "nodes": ["optical_io", "packaging"], "rev_usd_m": 950, "note": "ATE + photonic/optical test; CPO test stack per PhotonCap"},
+  {"ticker": "FORM", "name": "FormFactor", "layer": "test", "nodes": ["memory_hbm", "trap_ion_qc", "optical_io"], "rev_usd_m": 900, "note": "HBM probe + CPO test; cryogenic wafer probing to 4K; raised CPO guide Q1'26"},
+  {"ticker": "KEYS", "name": "Keysight", "layer": "measurement", "nodes": ["trap_ion_qc", "optical_io", "quantum_ip"], "rev_usd_m": 5100, "note": "Qubit control/cryo characterization + photonic + 224G validation; cross-world necessity exemplar"},
+  {"ticker": "OXIG.L", "name": "Oxford Instruments", "layer": "measurement", "nodes": ["trap_ion_qc"], "rev_usd_m": 550, "note": "Cryogenic environments, magnets, quantum transport measurement; architecture-independent"},
+  {"ticker": "TECN.SW", "name": "Tecan", "layer": "lab-automation", "nodes": ["experimentation"], "rev_usd_m": 1100, "note": "Liquid handling / lab automation = bio I/O layer"},
+  {"ticker": "KLAC", "name": "KLA", "layer": "inspection", "nodes": ["packaging", "memory_hbm"], "rev_usd_m": 11000, "note": "Process control; large-cap anchor, low convexity"},
+  {"ticker": "NVMI", "name": "Nova Measuring", "layer": "metrology", "nodes": ["packaging", "memory_hbm"], "rev_usd_m": 650, "note": "Dimensional/chemical metrology for advanced packaging"},
+  {"ticker": "CAMT", "name": "Camtek", "layer": "inspection", "nodes": ["packaging", "memory_hbm"], "rev_usd_m": 450, "note": "HBM/2.5D inspection; mid-cap convexity"},
+  {"ticker": "6857.T", "name": "Advantest", "layer": "test", "nodes": ["memory_hbm", "optical_io"], "rev_usd_m": 4200, "note": "SoC/HBM ATE; CPO via FormFactor partnership"},
+  {"ticker": "BRKR", "name": "Bruker", "layer": "measurement", "nodes": ["experimentation"], "rev_usd_m": 3300, "note": "Advanced biological measurement / spatial omics = read-reality layer"},
+  {"ticker": "ULS", "name": "UL Solutions", "layer": "certification", "nodes": ["export_controls", "experimentation"], "rev_usd_m": 2800, "note": "UL 3115 AI-product certification Mar 2026; permission/trust infrastructure"},
+  {"ticker": "ITRK.L", "name": "Intertek", "layer": "certification", "nodes": ["export_controls"], "rev_usd_m": 3600, "note": "Product testing/certification adjacency to AI/robotics systems"},
+  {"ticker": "SGSN.SW", "name": "SGS", "layer": "certification", "nodes": ["export_controls"], "rev_usd_m": 6300, "note": "Inspection/verification adjacency; large-cap, low convexity"},
+  {"ticker": "BVI.PA", "name": "Bureau Veritas", "layer": "certification", "nodes": ["export_controls"], "rev_usd_m": 6400, "note": "Certification adjacency; large-cap, low convexity"},
+  {"ticker": "AEHR", "name": "Aehr Test", "layer": "test", "nodes": ["packaging", "memory_hbm"], "rev_usd_m": 170, "note": "Burn-in/test; record hyperscale order Apr 2026; already +1000% 1Y = crowded flag"},
+  {"ticker": "ONTO", "name": "Onto Innovation", "layer": "inspection", "nodes": ["packaging", "memory_hbm"], "rev_usd_m": 1000, "note": "HBM/2.5D/SiPh inspection; $1B+ backlog"}
+],
+  "meta": {"thesis": "goated.md sections 10-14, 38 booster — interfaces where bits become atoms / atoms become trustworthy bits", "rev_screen": "small current cashflows + potential critical future node; crowded flag when narrative saturated"}}

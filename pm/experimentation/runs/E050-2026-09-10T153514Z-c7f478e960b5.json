@@ -1,0 +1,26 @@
+{
+ "hyp": "E050",
+ "ts": "2026-09-10T15:35:14Z",
+ "inputs_hash": "c7f478e960b5",
+ "inputs": {
+  "fn": "E050"
+ },
+ "outputs": {
+  "mimic": -0.0287,
+  "spy": -0.0218,
+  "nvda": -0.0066,
+  "names": {
+   "INTC": -0.0069,
+   "CRWV": -0.13,
+   "COHR": -0.0686,
+   "NOK": -0.0056,
+   "SNPS": -0.0567,
+   "NBIS": -0.1717
+  },
+  "asof": "2026-09-10",
+  "note": "mimic -2.87% vs SPY -2.18% vs NVDA -0.66% since 8/14"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

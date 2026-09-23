@@ -1,0 +1,14 @@
+{
+ "hyp": "E024",
+ "ts": "2026-09-10T12:13:47Z",
+ "inputs_hash": "5696e99b37e8",
+ "inputs": {
+  "fn": "E024",
+  "mode": "focus"
+ },
+ "outputs": {
+  "note": "preregistered; blocked on X key funding",
+  "proxy_evidence": "E022 HN lags price +3w r=0.69"
+ },
+ "code_refs": {}
+}

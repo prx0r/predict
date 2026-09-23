@@ -1,0 +1,126 @@
+{
+ "unknowns": [
+  {
+   "id": "u-001",
+   "subject": "SEC CIK for DRAM",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for DRAM",
+   "status": "closed",
+   "closed_by": "generic placeholder ticker (MU covers DRAM leg); Samsung/SK Hynix are KRX, no SEC CIK"
+  },
+  {
+   "id": "u-002",
+   "subject": "SEC CIK for LPK",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for LPK",
+   "status": "closed",
+   "closed_by": "non-US listings (Xetra/Euronext/LSE): no SEC CIK exists; needs home-exchange filings"
+  },
+  {
+   "id": "u-003",
+   "subject": "SEC CIK for SMHN",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for SMHN",
+   "status": "closed",
+   "closed_by": "non-US listings (Xetra/Euronext/LSE): no SEC CIK exists; needs home-exchange filings"
+  },
+  {
+   "id": "u-004",
+   "subject": "SEC CIK for SOI",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for SOI",
+   "status": "closed",
+   "closed_by": "non-US listings (Xetra/Euronext/LSE): no SEC CIK exists; needs home-exchange filings"
+  },
+  {
+   "id": "u-005",
+   "subject": "SEC CIK for POWI",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for POWI",
+   "status": "open"
+  },
+  {
+   "id": "u-006",
+   "subject": "SEC CIK for ALNT",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for ALNT",
+   "status": "closed",
+   "closed_by": "non-US listings (Xetra/Euronext/LSE): no SEC CIK exists; needs home-exchange filings"
+  },
+  {
+   "id": "u-007",
+   "subject": "SEC CIK for TKR",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for TKR",
+   "status": "open"
+  },
+  {
+   "id": "u-008",
+   "subject": "SEC CIK for NOVT",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for NOVT",
+   "status": "open"
+  },
+  {
+   "id": "u-009",
+   "subject": "Senate PTR transactions",
+   "sought": "member stock trades <45d",
+   "searched": "efdsearch.senate.gov API (403 bot-wall)",
+   "would_close_it": "congressional insider leg",
+   "status": "open"
+  },
+  {
+   "id": "u-010",
+   "subject": "SEC CIK for DRAM",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for DRAM",
+   "status": "closed",
+   "closed_by": "reaffirmed: non-US/placeholder, no SEC CIK exists"
+  },
+  {
+   "id": "u-011",
+   "subject": "SEC CIK for LPK",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for LPK",
+   "status": "closed",
+   "closed_by": "reaffirmed: non-US/placeholder, no SEC CIK exists"
+  },
+  {
+   "id": "u-012",
+   "subject": "SEC CIK for SMHN",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for SMHN",
+   "status": "closed",
+   "closed_by": "reaffirmed: non-US/placeholder, no SEC CIK exists"
+  },
+  {
+   "id": "u-013",
+   "subject": "SEC CIK for SOI",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for SOI",
+   "status": "closed",
+   "closed_by": "reaffirmed: non-US/placeholder, no SEC CIK exists"
+  },
+  {
+   "id": "u-014",
+   "subject": "SEC CIK for ALNT",
+   "sought": "10-digit CIK for submissions JSON polling",
+   "searched": "bneck2/killfeed.py CIK_MAP",
+   "would_close_it": "Form 4 / 8-K burst coverage for ALNT",
+   "status": "closed",
+   "closed_by": "reaffirmed: non-US/placeholder, no SEC CIK exists"
+  }
+ ]
+}

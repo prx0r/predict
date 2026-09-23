@@ -1,0 +1,43 @@
+{
+ "hyp": "E042",
+ "ts": "2026-09-10T12:37:21Z",
+ "inputs_hash": "380eb140138f",
+ "inputs": {
+  "fn": "E042"
+ },
+ "outputs": {
+  "hits": 39,
+  "total": 39,
+  "rate": 1.0,
+  "detail": [
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $155?",
+    "hit": true
+   },
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $160?",
+    "hit": true
+   },
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $165?",
+    "hit": true
+   },
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $170?",
+    "hit": true
+   },
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $175?",
+    "hit": true
+   },
+   {
+    "q": "Will NVIDIA (NVDA) finish week of January 19 above $180?",
+    "hit": true
+   }
+  ],
+  "note": "resolved ladder calibration 1.0 (n=39)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

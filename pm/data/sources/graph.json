@@ -1,0 +1,515 @@
+{
+ "generated": "scripts/sources_graph.py",
+ "nodes": [
+  {
+   "id": "sec",
+   "category": "filings",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/sec.py",
+   "consumers": [
+    "killfeed:sec-burst",
+    "E001",
+    "E010",
+    "panel:f_burst"
+   ],
+   "note": ""
+  },
+  {
+   "id": "efts",
+   "category": "filings",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/efts.py",
+   "consumers": [
+    "full-text filing search"
+   ],
+   "note": "GET search-index; POST shape differs"
+  },
+  {
+   "id": "nasdaq",
+   "category": "holders",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/nasdaq.py",
+   "consumers": [
+    "6k holders/ticker + accumulators + insider counts"
+   ],
+   "note": "13F-bulk workaround"
+  },
+  {
+   "id": "cftc",
+   "category": "positioning",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/cftc.py",
+   "consumers": [
+    "speculative pressure gauge"
+   ],
+   "note": "Socrata, recipe ex-financial-mcp"
+  },
+  {
+   "id": "fx",
+   "category": "macro",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/fx.py",
+   "consumers": [
+    "currency backdrop"
+   ],
+   "note": "Frankfurter/ECB, recipe ex-finance-mcp2"
+  },
+  {
+   "id": "sec_facts",
+   "category": "fundamentals",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/sec_facts.py",
+   "consumers": [
+    "E012",
+    "duration-mismatch"
+   ],
+   "note": "tag-rename aware"
+  },
+  {
+   "id": "openinsider",
+   "category": "insider",
+   "access": "keyless-http",
+   "status": "LIVE",
+   "collector": "collectors/openinsider.py",
+   "consumers": [
+    "E018",
+    "connections:insider_cluster"
+   ],
+   "note": "443 refused, http works"
+  },
+  {
+   "id": "finra",
+   "category": "short-flow",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/finra.py",
+   "consumers": [
+    "connections:short_crowded",
+    "panel:f_short"
+   ],
+   "note": "403=unpublished-yet"
+  },
+  {
+   "id": "github",
+   "category": "code",
+   "access": "keyless-60/hr",
+   "status": "LIVE",
+   "collector": "collectors/github.py",
+   "consumers": [
+    "implementation evidence"
+   ],
+   "note": ""
+  },
+  {
+   "id": "openalex",
+   "category": "research",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/openalex.py",
+   "consumers": [
+    "killfeed:attack",
+    "panel:f_attack"
+   ],
+   "note": "group_by, weekly cache"
+  },
+  {
+   "id": "crossref",
+   "category": "funders",
+   "access": "keyless-polite",
+   "status": "LIVE",
+   "collector": "collectors/crossref.py",
+   "consumers": [
+    "attack funder links"
+   ],
+   "note": ""
+  },
+  {
+   "id": "biorxiv",
+   "category": "preprints",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/biorxiv.py",
+   "consumers": [
+    "preprint velocity"
+   ],
+   "note": ""
+  },
+  {
+   "id": "semscholar",
+   "category": "research",
+   "access": "keyless-shared-pool",
+   "status": "DEGRADED",
+   "collector": "collectors/semscholar.py",
+   "consumers": [
+    "2nd paper source"
+   ],
+   "note": "429s; retry wrapper"
+  },
+  {
+   "id": "polymarket",
+   "category": "prediction",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/polymarket.py",
+   "consumers": [
+    "killfeed:pm-clock",
+    "E004",
+    "E020"
+   ],
+   "note": "best-book-wins"
+  },
+  {
+   "id": "clob",
+   "category": "prediction-depth",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/clob.py",
+   "consumers": [
+    "book quality upgrade path"
+   ],
+   "note": ""
+  },
+  {
+   "id": "polywhale",
+   "category": "whales",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/polywhale.py",
+   "consumers": [
+    "WHALE_CONSENSUS",
+    "E004"
+   ],
+   "note": "recipes ex-polytrack/polywhale"
+  },
+  {
+   "id": "snapshots",
+   "category": "prediction",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/snapshots.py",
+   "consumers": [
+    "immutable market reads for pure evaluation"
+   ],
+   "note": "IO boundary: enrich here"
+  },
+  {
+   "id": "kalshi",
+   "category": "prediction",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/kalshi.py",
+   "consumers": [
+    "killfeed:pm-clock",
+    "candles:pm-velocity"
+   ],
+   "note": "no per-trader data, ever"
+  },
+  {
+   "id": "manifold",
+   "category": "prediction",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/manifold.py",
+   "consumers": [
+    "triangulation"
+   ],
+   "note": ""
+  },
+  {
+   "id": "hn",
+   "category": "narrative",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/hn.py",
+   "consumers": [
+    "attack_narrative",
+    "panel:f_hn"
+   ],
+   "note": "saturation cross-check only"
+  },
+  {
+   "id": "hf",
+   "category": "implementation",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/hf.py",
+   "consumers": [
+    "implementation heat (wiring queued)"
+   ],
+   "note": "fetched, join queued"
+  },
+  {
+   "id": "bio",
+   "category": "bio-validation",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/bio.py",
+   "consumers": [
+    "trials queue",
+    "510k flow"
+   ],
+   "note": ""
+  },
+  {
+   "id": "fed",
+   "category": "federal-data",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/fed.py",
+   "consumers": [
+    "NSF velocity",
+    "FedRegister clock",
+    "BLS anchor",
+    "OSTI"
+   ],
+   "note": ""
+  },
+  {
+   "id": "jobs",
+   "category": "hiring",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/jobs.py",
+   "consumers": [
+    "revealed-preference hiring mix"
+   ],
+   "note": "1 board verified"
+  },
+  {
+   "id": "labs_rss",
+   "category": "lab-exhaust",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/labs_rss.py",
+   "consumers": [
+    "lab_node joins"
+   ],
+   "note": "2/6 feeds resolve"
+  },
+  {
+   "id": "treasury",
+   "category": "macro",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/treasury.py",
+   "consumers": [
+    "financing leg"
+   ],
+   "note": ""
+  },
+  {
+   "id": "worldbank",
+   "category": "macro-geo",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/worldbank.py",
+   "consumers": [
+    "geo layer seeds"
+   ],
+   "note": "Taiwan absent (non-member)"
+  },
+  {
+   "id": "house",
+   "category": "permissions",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/house.py",
+   "consumers": [
+    "filing counts"
+   ],
+   "note": "PDF parsing queued"
+  },
+  {
+   "id": "usaspending",
+   "category": "money-trails",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/usaspending.py",
+   "consumers": [
+    "award clock"
+   ],
+   "note": ""
+  },
+  {
+   "id": "grants",
+   "category": "money-trails",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "collectors/grants.py",
+   "consumers": [
+    "opp flow"
+   ],
+   "note": ""
+  },
+  {
+   "id": "prices",
+   "category": "prices",
+   "access": "keyless",
+   "status": "LIVE",
+   "collector": "bneck2/prices.py",
+   "consumers": [
+    "targets",
+    "momentum",
+    "event studies",
+    "backtest"
+   ],
+   "note": "Yahoo+CoinGecko+cache"
+  },
+  {
+   "id": "x",
+   "category": "social",
+   "access": "KEY",
+   "status": "PLANNED",
+   "collector": "stockify X-engine (other repo)",
+   "consumers": [
+    "scarcity shocks",
+    "corroboration"
+   ],
+   "note": "needs GetXAPI funding"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sec",
+   "to": "killfeed"
+  },
+  {
+   "from": "sec_facts",
+   "to": "experiments"
+  },
+  {
+   "from": "openinsider",
+   "to": "connect"
+  },
+  {
+   "from": "finra",
+   "to": "connect"
+  },
+  {
+   "from": "finra",
+   "to": "experiments"
+  },
+  {
+   "from": "github",
+   "to": "connect"
+  },
+  {
+   "from": "openalex",
+   "to": "killfeed"
+  },
+  {
+   "from": "openalex",
+   "to": "experiments"
+  },
+  {
+   "from": "crossref",
+   "to": "connect"
+  },
+  {
+   "from": "biorxiv",
+   "to": "connect"
+  },
+  {
+   "from": "semscholar",
+   "to": "killfeed-fallback"
+  },
+  {
+   "from": "polymarket",
+   "to": "killfeed"
+  },
+  {
+   "from": "clob",
+   "to": "killfeed"
+  },
+  {
+   "from": "polywhale",
+   "to": "killfeed"
+  },
+  {
+   "from": "kalshi",
+   "to": "killfeed"
+  },
+  {
+   "from": "manifold",
+   "to": "connect"
+  },
+  {
+   "from": "hn",
+   "to": "connect"
+  },
+  {
+   "from": "hn",
+   "to": "experiments"
+  },
+  {
+   "from": "hf",
+   "to": "connect"
+  },
+  {
+   "from": "bio",
+   "to": "connect"
+  },
+  {
+   "from": "fed",
+   "to": "connect"
+  },
+  {
+   "from": "jobs",
+   "to": "connect"
+  },
+  {
+   "from": "labs_rss",
+   "to": "connect"
+  },
+  {
+   "from": "treasury",
+   "to": "experiments"
+  },
+  {
+   "from": "worldbank",
+   "to": "experiments"
+  },
+  {
+   "from": "house",
+   "to": "connect"
+  },
+  {
+   "from": "usaspending",
+   "to": "connect"
+  },
+  {
+   "from": "grants",
+   "to": "connect"
+  },
+  {
+   "from": "prices",
+   "to": "experiments"
+  },
+  {
+   "from": "prices",
+   "to": "backtest"
+  },
+  {
+   "from": "x",
+   "to": "planned"
+  },
+  {
+   "from": "nasdaq",
+   "to": "connect"
+  },
+  {
+   "from": "cftc",
+   "to": "connect"
+  },
+  {
+   "from": "fx",
+   "to": "connect"
+  }
+ ]
+}

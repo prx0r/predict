@@ -1,0 +1,26 @@
+{
+ "hyp": "E034",
+ "ts": "2026-09-10T09:42:21Z",
+ "inputs_hash": "3ec27208101d",
+ "inputs": {
+  "fn": "E034"
+ },
+ "outputs": {
+  "n": 2,
+  "hits": 0,
+  "detail": [
+   {
+    "q": "Will a humanoid robot walk on Mars before a human ",
+    "hit": false
+   },
+   {
+    "q": "2028: Who will win the Presidency, House, and Sena",
+    "hit": false
+   }
+  ],
+  "note": "kalshi momentum 0/2 carry"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

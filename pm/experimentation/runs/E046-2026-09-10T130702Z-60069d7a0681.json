@@ -1,0 +1,33 @@
+{
+ "hyp": "E046",
+ "ts": "2026-09-10T13:07:02Z",
+ "inputs_hash": "60069d7a0681",
+ "inputs": {
+  "fn": "E046"
+ },
+ "outputs": {
+  "modes": {
+   "buyhold3x": {
+    "sharpe": 0.979,
+    "n": 2815
+   },
+   "buyhold1x": {
+    "sharpe": 0.979,
+    "n": 2815
+   },
+   "short_fade": {
+    "sharpe": 0.895,
+    "n": 2815
+   },
+   "burst_fade": {
+    "sharpe": 0.978,
+    "n": 2815
+   }
+  },
+  "rule": "short_fade",
+  "note": "short_fade 0.895 vs bh3x 0.979 (costs excluded)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

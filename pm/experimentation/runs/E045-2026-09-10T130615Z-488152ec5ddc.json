@@ -1,0 +1,65 @@
+{
+ "hyp": "E045",
+ "ts": "2026-09-10T13:06:15Z",
+ "inputs_hash": "488152ec5ddc",
+ "inputs": {
+  "fn": "E045"
+ },
+ "outputs": {
+  "modes": {
+   "buyhold3x": {
+    "total": 0.303,
+    "ann": 0.4945,
+    "sharpe": 0.415,
+    "maxdd": -0.5279,
+    "n": 166
+   },
+   "buyhold1x": {
+    "total": 0.2093,
+    "ann": 0.3345,
+    "sharpe": 0.843,
+    "maxdd": -0.194,
+    "n": 166
+   },
+   "mom": {
+    "total": -0.2536,
+    "ann": -0.3585,
+    "sharpe": -0.839,
+    "maxdd": -0.2989,
+    "n": 166
+   },
+   "burst_fade": {
+    "total": 0.4901,
+    "ann": 0.832,
+    "sharpe": 1.243,
+    "maxdd": -0.2636,
+    "n": 166
+   },
+   "short_fade": {
+    "total": 0.2245,
+    "ann": 0.3599,
+    "sharpe": 0.817,
+    "maxdd": -0.2209,
+    "n": 166
+   },
+   "combo": {
+    "total": -0.1176,
+    "ann": -0.173,
+    "sharpe": -0.558,
+    "maxdd": -0.189,
+    "n": 166
+   }
+  },
+  "best_alt": "short_fade",
+  "tune": {
+   "mom": -1.519,
+   "burst_fade": -0.466,
+   "short_fade": 0.653,
+   "combo": -1.412
+  },
+  "note": "tuned short_fade on train-tail, test: short_fade 0.817 vs bh3x 0.415"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

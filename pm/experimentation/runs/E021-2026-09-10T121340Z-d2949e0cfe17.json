@@ -1,0 +1,59 @@
+{
+ "hyp": "E021",
+ "ts": "2026-09-10T12:13:40Z",
+ "inputs_hash": "d2949e0cfe17",
+ "inputs": {
+  "fn": "E021",
+  "mode": "focus"
+ },
+ "outputs": {
+  "windows": 16,
+  "peak": {
+   "peak_lag": 4,
+   "peak_r": -0.317,
+   "n": 13,
+   "curve": [
+    [
+     -4,
+     0.206
+    ],
+    [
+     -3,
+     0.138
+    ],
+    [
+     -2,
+     0.014
+    ],
+    [
+     -1,
+     -0.198
+    ],
+    [
+     0,
+     -0.083
+    ],
+    [
+     1,
+     0.051
+    ],
+    [
+     2,
+     -0.068
+    ],
+    [
+     3,
+     -0.008
+    ],
+    [
+     4,
+     -0.317
+    ]
+   ],
+   "verdict": "X-leads@4w r=-0.317"
+  },
+  "comparisons": 9,
+  "note": "SEC->NVDA: X-leads@4w r=-0.317 (9-lag search: discovery-grade)"
+ },
+ "code_refs": {}
+}

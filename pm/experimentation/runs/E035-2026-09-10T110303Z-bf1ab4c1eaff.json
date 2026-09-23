@@ -1,0 +1,44 @@
+{
+ "hyp": "E035",
+ "ts": "2026-09-10T11:03:03Z",
+ "inputs_hash": "bf1ab4c1eaff",
+ "inputs": {
+  "fn": "E035"
+ },
+ "outputs": {
+  "base_excess": -0.0227,
+  "n_tickers": 30,
+  "worst_drops": [
+   [
+    "MU",
+    -0.0371
+   ],
+   [
+    "RGTI",
+    -0.0259
+   ],
+   [
+    "NVDA",
+    -0.0246
+   ]
+  ],
+  "best_drops": [
+   [
+    "ALAB",
+    -0.0135
+   ],
+   [
+    "MRVL",
+    -0.0131
+   ],
+   [
+    "ARM",
+    -0.013
+   ]
+  ],
+  "note": "base -0.0227; dropping changes outcomes, see extremes"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

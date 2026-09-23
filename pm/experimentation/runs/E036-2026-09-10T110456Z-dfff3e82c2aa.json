@@ -1,0 +1,29 @@
+{
+ "hyp": "E036",
+ "ts": "2026-09-10T11:04:56Z",
+ "inputs_hash": "dfff3e82c2aa",
+ "inputs": {
+  "fn": "E036"
+ },
+ "outputs": {
+  "top3": [
+   [
+    "MU",
+    0.0684
+   ],
+   [
+    "KEYS",
+    0.0388
+   ],
+   [
+    "AMD",
+    0.0335
+   ]
+  ],
+  "concentration": 0.344,
+  "note": "top-3 share of positive excess: 34%"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "hyp": "E047",
+ "ts": "2026-09-10T13:07:27Z",
+ "inputs_hash": "5b4aebd8f9b5",
+ "inputs": {
+  "fn": "E047"
+ },
+ "outputs": {
+  "rows": 1,
+  "last": {
+   "date": "2026-09-09",
+   "px": "223.67",
+   "w_short": "1.1475",
+   "w_burst": "0.2999999999999998",
+   "eq_short": "1.0",
+   "eq_burst": "1.0",
+   "eq_bh1x": "1.0"
+  },
+  "note": "1/90 days logged \u2014 resolves later"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

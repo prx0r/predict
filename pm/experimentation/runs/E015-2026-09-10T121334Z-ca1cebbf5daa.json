@@ -1,0 +1,68 @@
+{
+ "hyp": "E015",
+ "ts": "2026-09-10T12:13:34Z",
+ "inputs_hash": "ca1cebbf5daa",
+ "inputs": {
+  "fn": "E015",
+  "mode": "focus"
+ },
+ "outputs": {
+  "train_screen": [
+   {
+    "factor": "f_burst",
+    "IC": -0.145,
+    "n": 176,
+    "hit_lo": 0.312
+   },
+   {
+    "factor": "f_conv",
+    "IC": 0.129,
+    "n": 80,
+    "hit_lo": 0.605
+   },
+   {
+    "factor": "f_B",
+    "IC": -0.129,
+    "n": 80,
+    "hit_lo": 0.605
+   },
+   {
+    "factor": "f_mom_20",
+    "IC": 0.12,
+    "n": 480,
+    "hit_lo": 0.406
+   },
+   {
+    "factor": "f_attack",
+    "IC": -0.103,
+    "n": 480,
+    "hit_lo": 0.503
+   },
+   {
+    "factor": "f_short",
+    "IC": 0.099,
+    "n": 480,
+    "hit_lo": 0.615
+   },
+   {
+    "factor": "f_hn",
+    "IC": 0.06,
+    "n": 480,
+    "hit_lo": 0.585
+   }
+  ],
+  "winners": [
+   "f_burst",
+   "f_conv",
+   "f_B",
+   "f_mom_20",
+   "f_attack"
+  ],
+  "composite_sharpe": -1.6244,
+  "momentum_sharpe": -6.0442,
+  "holdout_n": 240,
+  "holdout_dates": 8,
+  "note": "composite -1.6244 vs momentum -6.0442 on biweekly holdout"
+ },
+ "code_refs": {}
+}

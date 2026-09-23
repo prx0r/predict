@@ -1,0 +1,25 @@
+{
+ "hyp": "E032",
+ "ts": "2026-09-10T08:38:36Z",
+ "inputs_hash": "adaef622e33a",
+ "inputs": {
+  "fn": "E032"
+ },
+ "outputs": {
+  "basket": {
+   "INTC": -0.2391,
+   "CRWV": -0.0462,
+   "COHR": -0.2307,
+   "NOK": -0.1898,
+   "SNPS": -0.1185,
+   "NBIS": -0.1297
+  },
+  "basket_mean": -0.159,
+  "spy": 0.0209,
+  "n": 6,
+  "note": "13F basket -0.159 vs SPY 0.0209 since 6/30 (n=6)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

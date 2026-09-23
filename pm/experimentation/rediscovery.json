@@ -1,0 +1,20 @@
+[
+ {
+  "id": "RD-01",
+  "claim": "NVDA revenue grew >50% YoY in FY2026 (XBRL)",
+  "check": "sec_facts NVDA revenue_growth_1y > 0.5",
+  "status": "surfaced 2026-09-10"
+ },
+ {
+  "id": "RD-02",
+  "claim": "CPO test names outperformed SOXX over 1Y (crowded-but-real)",
+  "check": "FORM/AEHR 1y return > SOXX 1y",
+  "status": "surfaced 2026-09-10"
+ },
+ {
+  "id": "RD-03",
+  "claim": "rich insider selling clusters at NVDA Sep-2026 (Form 4 burst observed)",
+  "check": "kill_observations accelerators:sec-burst TRIGGERED exists",
+  "status": "surfaced 2026-09-10"
+ }
+]

@@ -1,0 +1,34 @@
+{
+ "hyp": "E039",
+ "ts": "2026-09-10T12:27:27Z",
+ "inputs_hash": "3e1c989aae93",
+ "inputs": {
+  "fn": "E039"
+ },
+ "outputs": {
+  "n_equations": 2,
+  "n_unknowns": 6,
+  "ridge_from_placeholders": [
+   0.0101,
+   0.0101,
+   0.0101,
+   0.0101,
+   0.0101,
+   0.7997
+  ],
+  "ridge_from_flat": [
+   0.0102,
+   0.0102,
+   0.0102,
+   0.0102,
+   0.0102,
+   0.7992
+  ],
+  "prior_shift": 0.001,
+  "ill_conditioned": false,
+  "note": "2 eqs, 6 unknowns: prior shift 0.001 (large = unidentified); need >=6 independent instruments (pmxt/options/credit)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

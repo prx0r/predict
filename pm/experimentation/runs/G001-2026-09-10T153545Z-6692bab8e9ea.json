@@ -1,0 +1,20 @@
+{
+ "hyp": "G001",
+ "ts": "2026-09-10T15:35:45Z",
+ "inputs_hash": "6692bab8e9ea",
+ "inputs": {
+  "fn": "G001"
+ },
+ "outputs": {
+  "edges": 13,
+  "with_evidence": 1,
+  "quantified": 2,
+  "pct_evidence": 0.077,
+  "pct_quantified": 0.154,
+  "quarantined": 14,
+  "note": "13 edges, 8% evidenced, 15% quantified, 14 quarantined"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "id": "seed1.mom",
+  "factor": "f_mom_20"
+ },
+ {
+  "id": "seed1.burst",
+  "factor": "f_burst"
+ },
+ {
+  "id": "seed1.attack",
+  "factor": "f_attack"
+ },
+ {
+  "id": "seed1.hn",
+  "factor": "f_hn"
+ },
+ {
+  "id": "seed1.short",
+  "factor": "f_short"
+ },
+ {
+  "id": "seed1.conv",
+  "factor": "f_conv"
+ },
+ {
+  "id": "seed1.B",
+  "factor": "f_B"
+ }
+]

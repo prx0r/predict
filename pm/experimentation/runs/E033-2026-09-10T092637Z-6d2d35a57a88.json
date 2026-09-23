@@ -1,0 +1,34 @@
+{
+ "hyp": "E033",
+ "ts": "2026-09-10T09:26:37Z",
+ "inputs_hash": "6d2d35a57a88",
+ "inputs": {
+  "fn": "E033"
+ },
+ "outputs": {
+  "n": 76,
+  "mean_5d": 0.0033,
+  "by_handle": {
+   "InvestNorthwise": [
+    6,
+    -0.0352
+   ],
+   "SemiAnalysis_": [
+    4,
+    0.001
+   ],
+   "dnystedt": [
+    64,
+    0.0078
+   ],
+   "trendforce": [
+    2,
+    -0.0185
+   ]
+  },
+  "note": "X calls 5d mean +0.33% (n=76)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

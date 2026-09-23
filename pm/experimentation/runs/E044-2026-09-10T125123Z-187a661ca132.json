@@ -1,0 +1,19 @@
+{
+ "hyp": "E044",
+ "ts": "2026-09-10T12:51:23Z",
+ "inputs_hash": "187a661ca132",
+ "inputs": {
+  "fn": "E044"
+ },
+ "outputs": {
+  "sized_sharpe": -0.4582,
+  "sized_dd": -0.237776,
+  "full_sharpe": 0.8988,
+  "full_dd": -0.206607,
+  "bh_sharpe": -1.4251,
+  "note": "sized -0.4582/-0.237776 vs full 0.8988/-0.206607 vs bh -1.4251"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

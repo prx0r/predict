@@ -1,0 +1,21 @@
+{
+ "hyp": "E051",
+ "ts": "2026-09-10T16:51:27Z",
+ "inputs_hash": "d775ab83b3d4",
+ "inputs": {
+  "fn": "E051"
+ },
+ "outputs": {
+  "n": 122,
+  "rho_pastret_rd": -0.0,
+  "fwd_validated": 0.1701,
+  "n_val": 33,
+  "fwd_unvalidated": 0.5107,
+  "n_unv": 28,
+  "spread": -0.3406,
+  "note": "rho=-0.00; validated 17.0% (n=33) vs unvalidated 51.1% (n=28)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

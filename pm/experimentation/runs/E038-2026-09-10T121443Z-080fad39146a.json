@@ -1,0 +1,42 @@
+{
+ "hyp": "E038",
+ "ts": "2026-09-10T12:14:43Z",
+ "inputs_hash": "080fad39146a",
+ "inputs": {
+  "fn": "E038"
+ },
+ "outputs": {
+  "n": 96,
+  "top": [
+   [
+    "Healthcare & Digital Biology",
+    20
+   ],
+   [
+    "Robotics",
+    14
+   ],
+   [
+    "Industrial & Materials Discovery",
+    12
+   ],
+   [
+    "Foundation Models - Multimodal",
+    6
+   ],
+   [
+    "Quantum",
+    4
+   ],
+   [
+    "Foundation Models - Code Generation",
+    4
+   ]
+  ],
+  "chip_share": 0.042,
+  "note": "non-semi 96% (bio 20, robotics 14)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

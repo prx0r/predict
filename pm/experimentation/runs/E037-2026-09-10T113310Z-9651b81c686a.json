@@ -1,0 +1,22 @@
+{
+ "hyp": "E037",
+ "ts": "2026-09-10T11:33:10Z",
+ "inputs_hash": "9651b81c686a",
+ "inputs": {
+  "fn": "E037"
+ },
+ "outputs": {
+  "weekend": {
+   "n": 576,
+   "mean": 0.00525
+  },
+  "midweek": {
+   "n": 2424,
+   "mean": 0.00208
+  },
+  "note": "Monday 0.00525 vs midweek 0.00208"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

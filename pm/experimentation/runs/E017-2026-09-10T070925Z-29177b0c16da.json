@@ -1,0 +1,17 @@
+{
+ "hyp": "E017",
+ "ts": "2026-09-10T07:09:25Z",
+ "inputs_hash": "29177b0c16da",
+ "inputs": {
+  "fn": "E017"
+ },
+ "outputs": {
+  "winners": [],
+  "n_dates": 8,
+  "mean_excess_vs_universe": -0.0034,
+  "note": "top-tercile beats universe by -0.34% per window"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

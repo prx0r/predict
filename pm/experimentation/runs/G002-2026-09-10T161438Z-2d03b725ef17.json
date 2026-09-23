@@ -1,0 +1,17 @@
+{
+ "hyp": "G002",
+ "ts": "2026-09-10T16:14:38Z",
+ "inputs_hash": "2d03b725ef17",
+ "inputs": {
+  "fn": "G002"
+ },
+ "outputs": {
+  "pml_nodes": 27,
+  "tickers_linked": 83,
+  "nodes_total": 43,
+  "note": "27 layer nodes, 83 supplier links"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

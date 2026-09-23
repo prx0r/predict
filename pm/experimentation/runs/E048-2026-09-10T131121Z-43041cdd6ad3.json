@@ -1,0 +1,14 @@
+{
+ "hyp": "E048",
+ "ts": "2026-09-10T13:11:21Z",
+ "inputs_hash": "43041cdd6ad3",
+ "inputs": {
+  "fn": "E048"
+ },
+ "outputs": {
+  "error": "quantile must be in (0,.5)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

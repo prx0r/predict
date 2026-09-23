@@ -1,0 +1,4 @@
+{"var": "sec-burst", "target": "NVDA Sep-2026 Form-4 count >= 5", "direction": 1, "resolve_after": "2026-09-10", "resolved": 1, "note": "filings already logged", "hit": true}
+{"var": "openalex-mass", "target": "HBM total works > 5000", "direction": 1, "resolve_after": "2026-09-10", "resolved": 1, "note": "group_by count", "hit": true}
+{"var": "pm-exists", "target": "AGI-before-2027 market p < 0.5", "direction": 1, "resolve_after": "2026-09-10", "resolved": 1, "note": "best-book read", "hit": true}
+{"var": "optical-attack", "target": "optical_io attack tier HIGH holds next 3 passes", "direction": 1, "resolve_after": "2026-09-20", "resolved": null, "note": "openattack, resolves via cron"}

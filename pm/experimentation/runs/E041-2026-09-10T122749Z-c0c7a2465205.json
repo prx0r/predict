@@ -1,0 +1,22 @@
+{
+ "hyp": "E041",
+ "ts": "2026-09-10T12:27:49Z",
+ "inputs_hash": "c0c7a2465205",
+ "inputs": {
+  "fn": "E041"
+ },
+ "outputs": {
+  "up": {
+   "n": 480,
+   "IC": 0.138
+  },
+  "down": {
+   "n": 180,
+   "IC": -0.122
+  },
+  "note": "mom IC up-months 0.138 (n=480) vs down-months -0.122 (n=180)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}

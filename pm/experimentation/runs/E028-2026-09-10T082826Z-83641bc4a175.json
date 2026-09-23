@@ -1,0 +1,17 @@
+{
+ "hyp": "E028",
+ "ts": "2026-09-10T08:28:26Z",
+ "inputs_hash": "83641bc4a175",
+ "inputs": {
+  "fn": "E028"
+ },
+ "outputs": {
+  "n": 21,
+  "near_high": 0.0288,
+  "far_high": -0.0065,
+  "note": "near-high +2.9% vs far -0.6% (n=21)"
+ },
+ "code_refs": {
+  "suite": "tests"
+ }
+}
