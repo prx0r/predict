@@ -54,6 +54,37 @@
 7. **Context hygiene** (`fast-jev-compaction`, `winnow`): long
    monitoring sessions without context rot.
 
+## Prior art studied (`/home/box/pm-stack/`, 2026-09-23)
+
+- **Backtest harnesses:** `pm-backtest-sim` (10.8k markets, 18 YAML
+  strategies, spread/slippage/2% commission model), `pm-backtest-pit`
+  (point-in-time framework, no-lookahead engine, order-book replay
+  research), `pm-engine` (ROI/sharpe/Brier, V2-aware). Consensus:
+  no historical orderbooks exist, so micro-edge fills are optimistic
+  everywhere — our trentmkelly-book approach is the exception, keep it.
+- **V2 cutover (Apr 2026):** new fee formula, pUSD collateral, new
+  order struct. Every pre-Apr-2026 backtest needs re-testing under
+  current mechanics — including ours if extended backward.
+- **NegRisk live** (`pm-negrisk`): paper-first, persistent signals over
+  PnL, top-of-book WS. Complements our set-sum monitor.
+- **Deribit arb** (`pm-deribit-arb`): PM-vs-Deribit implied probability
+  — the crypto cross-venue leg we hadn't sourced.
+- **Executor staging** (`pm-executors`): paper → shadow → live with
+  real-book gating + risk engine. Adopt the staging discipline.
+- **Official agent skills** (`pm-agent-skills`, SKILL.md included):
+  4 data sources (Gamma/Data/CLOB/Subgraph) + WS endpoint
+  `wss://ws-subscriptions-clob.polymarket.com` — canonical reference.
+- **Book dataset** (`pm-histdata` + DineshKumar 237M quotes Jul–Aug 2026):
+  second book-history source alongside trentmkelly.
+
+## The cool finds
+
+1. Someone else independently concluded historical books don't exist
+   and built around it — validation of our whole data strategy.
+2. NegRisk basket mechanics + paper-first culture match our SYSTEM.md
+   almost clause-for-clause. Convergent evolution, good sign.
+3. Deribit cross-venue is an unsourced leg for us — one API away.
+
 ## Local references
 
 - `/home/box/pm-stack/pm-official` — official signing client (never implement EIP-712 ourselves)
