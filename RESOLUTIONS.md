@@ -39,13 +39,11 @@
 4. **Trump-endorses-Israeli-party set**: many 0.001 legs + "not endorse"
    0.445 — same set-sum structure, check completeness before math.
 
-## Monitor design (next build)
+## Monitor (live: `pm/monitor.py`)
 
-- 5-min poll: markets with live UMA proposals + set-sum drift on
-  tracked exclusive sets + empty-source new listings.
-- Alert on: any `proposed`/`disputed` status; set-sum past 0.985/1.015
-  on live books (not last-trade); new markets with missing source.
-- Paper log only. Disputing costs $750 a pop — no auto-disputes, ever.
+- 5-min poll: tracked UMA statuses, set-sum drift on hurricane/putin
+  sets, new high-divergence listings → `data/watch/alerts-<date>.jsonl`.
+- First run fired correctly (hurricane 0.986 → 0.966). Paper only.
 
 ## Valuation loop (live: `pm/resolution.py`)
 

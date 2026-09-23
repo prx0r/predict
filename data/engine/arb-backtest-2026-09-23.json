@@ -1,0 +1,58 @@
+{
+  "ran_at": "2026-09-23T17:35:29.897432+00:00",
+  "events": [
+    {
+      "day": "2026-08-30",
+      "run": "20260830T000356Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    },
+    {
+      "day": "2026-08-30",
+      "run": "20260830T035546Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    },
+    {
+      "day": "2026-08-30",
+      "run": "20260830T055110Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    },
+    {
+      "day": "2026-08-30",
+      "run": "20260830T075256Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    },
+    {
+      "day": "2026-08-30",
+      "run": "20260830T095540Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    },
+    {
+      "day": "2026-08-30",
+      "run": "20260830T115542Z.parquet",
+      "set": "how-many-fed-rate-cuts-in-2026",
+      "n_legs": 2,
+      "buy_sum": 1.001,
+      "sell_sum": 0.999
+    }
+  ],
+  "n_runs": 6,
+  "max_dev": 0.001,
+  "mean_dev": 0.001,
+  "past_015": 0,
+  "past_03": 0
+}
