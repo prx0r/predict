@@ -1,0 +1,52 @@
+{
+  "question": "Will the National Rally group hold 12 French Senate seats after the 2026 election?",
+  "slug": "will-the-national-rally-group-hold-12-french-senate-seats-after-the-2026-election",
+  "conditionId": "0xbdd902b77f2e112081326af65d58dbcd59d112d66c804c25c2265036b843c449",
+  "market_p": 0.255,
+  "bestBid": 0.24,
+  "bestAsk": 0.27,
+  "spread": 0.03,
+  "volume": 1712.06,
+  "liquidity": 905.322,
+  "endDate": "2026-10-12T14:00:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "A political group in the Senate requires a minimum of ten senators.",
+    "The political declaration forming a qualifying group must be published in the Official Journal of France on or before October 12, 2026, 4:00 PM CEST.",
+    "A mixed group containing both RN and other senators qualifies only if it meets at least one of the criteria above."
+  ],
+  "exclusions": [],
+  "timing": [],
+  "context": [
+    "The 2026 French Senate election is scheduled for September 27, 2026, renewing s\u00e9rie 2 \u2014 178 of the Senate's 348 seats.",
+    "The new senators are currently scheduled to take office on October 1, 2026, and the deadline for submitting new political-group membership lists and political declarations is currently set for October 5, 2026, at 4:00 PM CEST.",
+    "The National Rally (Rassemblement National, RN) has never had a political group in the French Senate.",
+    "This market will resolve according to the number of French Senate seats held by a political group representing the RN as of October 12, 2026, 4:00 PM CEST.",
+    "The seat count will be the group's total membership as published by the French Senate (senat.fr), counting members (membres), related (apparent\u00e9s), and affiliated (rattach\u00e9s).",
+    "A group will qualify as representing the RN if it satisfies at least one of the following:\n- Its official name includes \"Rassemblement National\" or a clear variant thereof;\n- Its political declaration published in the Journal Officiel explicitly identifies the group as representing the RN;\n- A majority of its full members are RN party members or were assigned an RN nuance politique by the French Ministry of the Interior at the election in which they won their seat; or\n- RN national leadership publicly recognizes the group as the party's group in the Senate, and this characterization is confirmed by a consensus of credible reporting.",
+    "A group which represents far-right, conservative, anti-immigrant, populist, or other RN-adjacent ideas without representing the party itself will not qualify.",
+    "The administrative meeting of senators not appearing on the list of any group (RASNAG) will not qualify as a group for the purposes of this market.",
+    "If no qualifying group exists, or group composition is not officially published as of October 12, 2026, 4:00 PM CEST, this market will resolve to the lowest bracket.",
+    "The resolution source for this market will be publications of the French Senate (senat.fr) and the Official Journal of France, and a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "Official",
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 11,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:42.925050+00:00",
+  "priority": 5
+}

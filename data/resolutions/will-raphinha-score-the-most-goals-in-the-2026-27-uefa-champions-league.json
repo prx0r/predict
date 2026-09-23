@@ -1,0 +1,46 @@
+{
+  "question": "Will Raphinha score the most goals in the 2026-27 UEFA Champions League?",
+  "slug": "will-raphinha-score-the-most-goals-in-the-2026-27-uefa-champions-league",
+  "conditionId": "0x927041904c0ccdd0870cb50e4f89b1d10f1c7a7f4cf582f332aaf0eb699c907a",
+  "market_p": 0.16,
+  "bestBid": 0.15,
+  "bestAsk": 0.17,
+  "spread": 0.02,
+  "volume": 8268.032691999999,
+  "liquidity": 13091.0164,
+  "endDate": "2027-06-19T23:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": "https://www.uefa.com/uefachampionsleague/statistics/players/goals/",
+  "requirements": [
+    "If the 2026-27 Champions League competition is cancelled, postponed after June 19, 2027, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to \"Other\"."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "This market will resolve to the player who scores the most goals through all main tournament rounds of the 2026-27 UEFA Champions League competition.",
+    "In the event of a tie, this market will resolve according to the official leader as determined by UEFA.",
+    "If multiple leaders are announced, this market will resolve to the player whose listed last name comes first alphabetically.",
+    "The resolution source for this market will be official information from UEFA (https://www.uefa.com/uefachampionsleague/statistics/players/goals/); however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "as determined by",
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 8,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:43.505108+00:00",
+  "priority": 5
+}

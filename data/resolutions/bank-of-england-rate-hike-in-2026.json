@@ -1,0 +1,45 @@
+{
+  "question": "Bank of England rate hike in 2026?",
+  "slug": "bank-of-england-rate-hike-in-2026",
+  "conditionId": "0xf41cdb3c4e9921acd070fa36fb567f4075284a2e3b89f06a1a23667aeecdc545",
+  "market_p": 0.905,
+  "bestBid": 0.89,
+  "bestAsk": 0.92,
+  "spread": 0.03,
+  "volume": 56644.30242500002,
+  "liquidity": 1038.9131,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if the Bank of England's Bank Rate is increased at any point between market creation and December 31, 2026, 11:59 PM ET.",
+    "This market may not resolve to \"No\" until December 31, 2026, 11:59 PM ET has passed."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "The primary resolution source for this market will be the official website of the Bank of England (https://www.bankofengland.co.uk/), however a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:44.168433+00:00",
+  "priority": 4
+}

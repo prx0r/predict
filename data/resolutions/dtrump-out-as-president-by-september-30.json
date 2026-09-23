@@ -2,12 +2,12 @@
   "question": "Trump out as President by September 30?",
   "slug": "dtrump-out-as-president-by-september-30",
   "conditionId": "0xc3794a8d3a34d04b9f39773e35c4cecdac89d32eab93e8589d9a6f03e04e9490",
-  "market_p": 0.003,
-  "bestBid": 0.002,
-  "bestAsk": 0.003,
+  "market_p": 0.002,
+  "bestBid": 0.001,
+  "bestAsk": 0.002,
   "spread": 0.001,
   "volume": 1713845.3327720005,
-  "liquidity": 355175.23518,
+  "liquidity": 361209.37959,
   "endDate": "2026-10-01T03:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -35,14 +35,20 @@
     "consensus",
     "credible"
   ],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ]
+  ],
+  "source_fallback": true,
   "complexity": 9,
+  "divergence": 7,
   "model_p": null,
   "model_rationale": null,
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:02:57.009624+00:00",
-  "priority": 67.11,
-  "complexity_v2": 2,
-  "weasel_non_template": []
+  "structured_at": "2026-09-23T16:18:42.869910+00:00",
+  "priority": 7
 }

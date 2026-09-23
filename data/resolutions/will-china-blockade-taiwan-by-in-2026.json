@@ -6,8 +6,8 @@
   "bestBid": 0.034,
   "bestAsk": 0.042,
   "spread": 0.008,
-  "volume": 370964.57035699993,
-  "liquidity": 43634.72599,
+  "volume": 370964.57035700005,
+  "liquidity": 45195.39155,
   "endDate": "2027-01-01T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -39,16 +39,24 @@
     "credible",
     "significant"
   ],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ],
+    [
+      "whether",
+      ""
+    ]
+  ],
+  "source_fallback": true,
   "complexity": 11,
+  "divergence": 11,
   "model_p": null,
   "model_rationale": null,
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:02:57.696218+00:00",
-  "priority": 74.26,
-  "complexity_v2": 4,
-  "weasel_non_template": [
-    "significant"
-  ]
+  "structured_at": "2026-09-23T16:18:44.167525+00:00",
+  "priority": 11
 }

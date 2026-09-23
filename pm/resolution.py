@@ -30,6 +30,8 @@ REQ_PAT = re.compile(r"\b(must|shall|will resolve to .yes. if|qualifies|requires
 EXC_PAT = re.compile(r"\b(does not count|do not count|excludes?|never counts|will not count|unless)\b", re.I)
 TIME_PAT = re.compile(r"\b(11:59 PM ET|by [A-Z][a-z]+ \d{1,2},? \d{4}|before \d{4}|December 31,? 202\d|September 30|within \d+ (days|hours))\b")
 WEASEL_PAT = re.compile(r"\b(credible|consensus|as determined by|at the discretion|significant|official|reasonable|clearly)\b", re.I)
+TEMPORAL_PAT = re.compile(r"\b(regardless of|whether|takes effect|stayed|enjoined|revoked|superseded|within a stated period|comes into (force|effect))\b", re.I)
+SOURCE_FALLBACK_PAT = re.compile(r"\b(consensus of|credible reporting|may also be used|however.*may)\b", re.I)
 
 
 def fetch_search(query: str, limit: int = 5) -> list:
@@ -81,9 +83,20 @@ def structure(m: dict) -> dict:
     except (ValueError, TypeError):
         market_p = None
     weasel = sorted(set(WEASEL_PAT.findall(desc)))
+    temporal = sorted(set(TEMPORAL_PAT.findall(desc)))
+    source_fallback = bool(SOURCE_FALLBACK_PAT.search(desc))
     complexity = (len(excs) * 2 + len(weasel) * 2
                   + (3 if not (m.get("resolutionSource") or "").strip() else 0)
                   + (2 if len(desc) < 150 else 0))
+    # Divergence: how much the conditions move win % away from the
+    # title's plain reading. THE ranking criterion. Exclusions carve
+    # title-plausible scenarios out; conjunctive requirements narrow;
+    # temporal clauses expand-or-shift (revoked-still-counts cuts both
+    # ways); source fallback adds a subjective layer under objective text.
+    divergence = (len(excs) * 2 + len(reqs) * 1 + len(temporal) * 2
+                  + len([t for t in weasel
+                         if t.lower() not in ('credible', 'official', 'consensus')]) * 2
+                  + (2 if source_fallback else 0))
     return {
         "question": m.get("question"),
         "slug": m.get("slug"),
@@ -101,7 +114,10 @@ def structure(m: dict) -> dict:
         "timing": sorted(set(t if isinstance(t, str) else t[0] for t in timing)),
         "context": other,
         "weasel_terms": weasel,
+        "temporal_clauses": temporal,
+        "source_fallback": source_fallback,
         "complexity": complexity,
+        "divergence": divergence,
         # Valuation (Jev/agent fills model_p + rationale; null = unassessed).
         "model_p": None, "model_rationale": None, "model_at": None,
         "edge": None,

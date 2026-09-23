@@ -1,49 +1,54 @@
 {
-  "swept_at": "2026-09-23T16:02:57.783108+00:00",
+  "swept_at": "2026-09-23T16:18:44.303158+00:00",
   "queries": 33,
-  "unique": 1677,
-  "structured": 1677,
+  "unique": 1736,
+  "structured": 1736,
+  "gated": {
+    "resolved": 847,
+    "past": 56,
+    "thin": 389
+  },
   "saved_top": 50,
   "top_scores": [
     [
-      118.95,
-      "Russia x Ukraine ceasefire by May 31, 2026?"
-    ],
-    [
-      114.18,
-      "Russia x Ukraine ceasefire by June 30, 2026?"
-    ],
-    [
-      106.68,
+      30,
       "Trump renames AI by September 30?"
     ],
     [
-      100.22,
-      "Trump x Greenland deal signed by December 31?"
+      11,
+      "Will China blockade Taiwan in 2026?"
     ],
     [
-      98.27,
-      "Trump x Greenland deal signed by September 23?"
+      9,
+      "Russia x Ukraine ceasefire agreement by April 30, 2027?"
     ],
     [
-      97.55,
-      "Russia x Ukraine ceasefire in 2025?"
+      9,
+      "Russia x Ukraine ceasefire agreement by December 31, 2026?"
     ],
     [
-      96.1,
-      "Trump x Greenland deal signed by September 25?"
+      9,
+      "Russia x Ukraine ceasefire agreement by December 31, 2027?"
     ],
     [
-      94.68,
-      "Will Trump and Machado share the Nobel Peace Prize?"
+      9,
+      "Russia x Ukraine ceasefire agreement by February 28, 2027?"
     ],
     [
-      92.05,
-      "Will Trump create Bitcoin reserve in first 100 days?"
+      9,
+      "Russia x Ukraine ceasefire agreement by January 31, 2027?"
     ],
     [
-      90.68,
-      "Russia x Ukraine ceasefire by December 31, 2026?"
+      9,
+      "Russia x Ukraine ceasefire agreement by July 31, 2027?"
+    ],
+    [
+      9,
+      "Russia x Ukraine ceasefire agreement by June 30, 2027?"
+    ],
+    [
+      9,
+      "Russia x Ukraine ceasefire agreement by March 31, 2027?"
     ]
   ]
 }

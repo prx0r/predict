@@ -1,0 +1,45 @@
+{
+  "question": "Bank of Canada Rate Hike in 2026?",
+  "slug": "bank-of-canada-rate-hike-in-2026",
+  "conditionId": "0x22679bf61a35842e34ce6ae5648949007960ee9c3f8bd3b7f06c531e8a7b7c14",
+  "market_p": 0.78,
+  "bestBid": 0.74,
+  "bestAsk": 0.82,
+  "spread": 0.08,
+  "volume": 24309.160521999995,
+  "liquidity": 1397.5221,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if the Bank of Canada's target for the overnight rate is increased at any point between market creation and December 31, 2026, 11:59 PM ET.",
+    "This market may not resolve to \"No\" until December 31, 2026, 11:59 PM ET has passed."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "The primary resolution source for this market will be official information from the Bank of Canada (https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/#target-dates); however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:44.168899+00:00",
+  "priority": 4
+}

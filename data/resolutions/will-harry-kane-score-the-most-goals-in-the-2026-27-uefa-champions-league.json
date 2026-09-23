@@ -1,0 +1,46 @@
+{
+  "question": "Will Harry Kane score the most goals in the 2026-27 UEFA Champions League?",
+  "slug": "will-harry-kane-score-the-most-goals-in-the-2026-27-uefa-champions-league",
+  "conditionId": "0xa5c3835f19c9a90cfc5df90719f73ad4e2c1df1e565f30eb25acbe5ef85a02e3",
+  "market_p": 0.155,
+  "bestBid": 0.15,
+  "bestAsk": 0.16,
+  "spread": 0.01,
+  "volume": 1140.120502,
+  "liquidity": 15481.5322,
+  "endDate": "2027-06-19T23:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": "https://www.uefa.com/uefachampionsleague/statistics/players/goals/",
+  "requirements": [
+    "If the 2026-27 Champions League competition is cancelled, postponed after June 19, 2027, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to \"Other\"."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "This market will resolve to the player who scores the most goals through all main tournament rounds of the 2026-27 UEFA Champions League competition.",
+    "In the event of a tie, this market will resolve according to the official leader as determined by UEFA.",
+    "If multiple leaders are announced, this market will resolve to the player whose listed last name comes first alphabetically.",
+    "The resolution source for this market will be official information from UEFA (https://www.uefa.com/uefachampionsleague/statistics/players/goals/); however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "as determined by",
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 8,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:43.508638+00:00",
+  "priority": 5
+}

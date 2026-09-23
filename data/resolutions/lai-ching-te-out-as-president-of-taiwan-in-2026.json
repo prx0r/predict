@@ -1,0 +1,48 @@
+{
+  "question": "Lai Ching-te out as President of Taiwan by December 31, 2026?",
+  "slug": "lai-ching-te-out-as-president-of-taiwan-in-2026",
+  "conditionId": "0x68e47e45601b8e7fff925490f419191126c0f87cdf978717881fd2efa18cfb5b",
+  "market_p": 0.036,
+  "bestBid": 0.035,
+  "bestAsk": 0.037,
+  "spread": 0.002,
+  "volume": 106017.26043799992,
+  "liquidity": 10954.26784,
+  "endDate": "2027-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if Lai Ching-te ceases to be President of Taiwan for any period of time between market creation and the specified date (ET)."
+  ],
+  "exclusions": [],
+  "timing": [],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "An announcement of Lai Ching-te's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.",
+    "If the specified individual is detained, effectively removed from the specified position, or otherwise permanently prevented from fulfilling the duties of the specified position within this market\u2019s timeframe, it will qualify for a \u201cYes\u201d resolution.",
+    "The resolution source for this market will be official information from Lai Ching-te and the government of Taiwan; however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ]
+  ],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:44.168099+00:00",
+  "priority": 5
+}

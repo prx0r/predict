@@ -1,0 +1,53 @@
+{
+  "question": "Will a hurricane make landfall in Hawaii before 2027?",
+  "slug": "will-a-hurricane-make-landfall-in-hawaii-before-2027-20260721182828397",
+  "conditionId": "0x594753f5921304616f36fecd01677e5bf2f6f42a1093fa65e2cdff7193b43ffc",
+  "market_p": 0.305,
+  "bestBid": 0.3,
+  "bestAsk": 0.31,
+  "spread": 0.01,
+  "volume": 46906.21416,
+  "liquidity": 759.6396,
+  "endDate": "2026-12-31T16:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "250",
+  "umaReward": "0.6",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if any storm makes landfall in the State of Hawaii at Category 1 strength or higher, as reported in official Central Pacific Hurricane Center advisories (https://www.nhc.noaa.gov/cphc/), between market creation and December 31, 2026, 11:59:59 PM ET.",
+    "A landfall counts toward this determination only if it occurs within this window; the time of the physical landfall governs, not the time any confirming advisory is issued.",
+    "A storm must hold hurricane strength (Category 1 or higher on the Saffir-Simpson scale) at the moment its surface center intersects the coastline for that landfall to qualify."
+  ],
+  "exclusions": [],
+  "timing": [
+    "December 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \"No\".",
+    "A hurricane is a tropical cyclone with maximum sustained winds of 74 mph or greater (Category 1 or higher on the Saffir-Simpson Hurricane Wind Scale), as described at https://www.nhc.noaa.gov/aboutsshws.php, and a hurricane landfall is said to occur when the hurricane's surface center intersects with the coastline, as described at https://www.nhc.noaa.gov/aboutgloss.shtml#LANDFALL.",
+    "\"Hawaii\" means the entire State of Hawaii as recognized under U.S.",
+    "law, including the main Hawaiian Islands (Hawai\u02bbi, Maui, O\u02bbahu, Kaua\u02bbi, Moloka\u02bbi, L\u0101na\u02bbi, Ni\u02bbihau, and Kaho\u02bbolawe) and the Northwestern Hawaiian Islands (including Midway Atoll and the Papah\u0101naumoku\u0101kea Marine National Monument).",
+    "The wind speed at the moment of landfall will be determined from the CPHC advisory or Special Advisory in effect at the time closest to the reported landfall time; where no advisory covers that exact moment, the most recent advisory issued prior to landfall governs.",
+    "This market may resolve based on the initial CPHC advisory reporting a qualifying landfall regardless of any later advisory, retraction, best-track revision, or reanalysis that revises that storm's intensity downward at the time of landfall.",
+    "However, if a subsequent advisory or correction identifies a qualifying landfall that was not reflected in initial reporting, this market will resolve to \"Yes\" based on that correction."
+  ],
+  "weasel_terms": [
+    "official"
+  ],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ]
+  ],
+  "source_fallback": false,
+  "complexity": 5,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:43.731825+00:00",
+  "priority": 5
+}

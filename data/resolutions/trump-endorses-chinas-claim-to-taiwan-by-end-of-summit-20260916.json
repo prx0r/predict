@@ -1,0 +1,56 @@
+{
+  "question": "Trump endorses China's claim to Taiwan by end of summit?",
+  "slug": "trump-endorses-chinas-claim-to-taiwan-by-end-of-summit-20260916",
+  "conditionId": "0x60d240298e0992b2920b7febefcd76ba79ee312045be583f64b859f7f7514f8c",
+  "market_p": 0.014,
+  "bestBid": 0.008,
+  "bestAsk": 0.02,
+  "spread": 0.012,
+  "volume": 25988.114304000002,
+  "liquidity": 26231.16504,
+  "endDate": "2026-10-08T03:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if Donald Trump publicly endorses the People's Republic of China's claim of sovereignty over Taiwan by the end of this summit.",
+    "To qualify, Trump must make an explicit public statement affirming that Taiwan is part of China, that China has sovereignty over Taiwan, or that the United States supports China's claim to Taiwan.",
+    "Any written, verbal, or recorded public statement by Trump qualifies.",
+    "If Xi Jinping does not physically enter the terrestrial or maritime territory of the United States by October 7, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "by October 7, 2026"
+  ],
+  "context": [
+    "Xi Jinping is scheduled to begin a state visit to the United States around September 24, 2026, where he will be received by Donald Trump at the White House.",
+    "Otherwise, this market will resolve to \"No\".",
+    "Restating the long-standing United States \"One China policy\", acknowledging that China holds such a position, noting that the United States does not support Taiwanese independence, or declining to say whether the United States would defend Taiwan will not qualify, as none of these constitutes an endorsement of China's claim.",
+    "A statement issued jointly by the United States and China will qualify if Trump personally endorses it.",
+    "The summit will be considered to have ended at the end of the calendar day (ET) on which Xi Jinping physically departs from United States territory.",
+    "No meetings, events, or statements which occur after this time will be considered.",
+    "The resolution source will be a consensus of credible reporting."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible"
+  ],
+  "temporal_clauses": [
+    [
+      "whether",
+      ""
+    ]
+  ],
+  "source_fallback": true,
+  "complexity": 7,
+  "divergence": 8,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:44.164832+00:00",
+  "priority": 8
+}

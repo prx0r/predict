@@ -1,0 +1,48 @@
+{
+  "question": "Will Apple release a foldable iPhone by October 31?",
+  "slug": "will-apple-release-a-foldable-iphone-by-october-31",
+  "conditionId": "0x25b2b277e671197e7b9ed3671bb2a51fe1aa0666bd729b57a70af19e0e0e265f",
+  "market_p": 0.985,
+  "bestBid": 0.98,
+  "bestAsk": 0.99,
+  "spread": 0.01,
+  "volume": 88737.48638299998,
+  "liquidity": 17596.45668,
+  "endDate": "2026-10-31T23:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "3.5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if Apple officially releases a foldable iPhone by October 31, 2026, 11:59 PM ET.",
+    "In order to be considered released, the product must be available for purchase by the general public within the specified timeframe."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "by October 31, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \"No\".",
+    "An announcement or unveiling alone is not sufficient.",
+    "A qualifying release of a foldable smartphone by Apple will count even if it is not explicitly branded an iPhone.",
+    "The primary resolution source for this market will be official statements from Apple.",
+    "However, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:44.014369+00:00",
+  "priority": 4
+}

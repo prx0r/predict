@@ -1,0 +1,52 @@
+{
+  "question": "Will Alibaba have the best AI model at the end of October 2026?",
+  "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841121",
+  "conditionId": "0x08fcceb9a490332da07f63af3fb65f5816e441794964f3bb3ffb64845854d393",
+  "market_p": 0.003,
+  "bestBid": 0.002,
+  "bestAsk": 0.003,
+  "spread": 0.001,
+  "volume": 22064.337492,
+  "liquidity": 21912.51358,
+  "endDate": "2026-10-31T16:00:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [],
+  "exclusions": [],
+  "timing": [],
+  "context": [
+    "This market will resolve according to the company which owns the model which has the highest arena rank based on the arena.ai Text Arena (Overall) when the table under the \"Leaderboard\" tab is checked on October 31, 2026, 12:00 PM ET.",
+    "Results from the \"Rank\" column under the \"Text Arena | Overall\" Leaderboard tab at https://arena.ai/leaderboard/text/overall-no-style-control with style control off (Adjustments: None) and filtered for \"Models\" will be used to resolve this market.",
+    "Note: Models marked \u201cAutoEval\u201d at the applicable check time will not be considered, regardless of whether they display a rank or score.",
+    "Models will be ordered primarily by their leaderboard rank at the market\u2019s check time.",
+    "If two or more models are tied on rank, they will be ordered by their Arena score, including any underlying, unrounded, granular values reflected in the data below the leaderboard.",
+    "If a tie still remains, alphabetical order of company names as listed in this market group will be used as a final tiebreaker (e.g., if the two models are tied by exact arena score, \u201cGoogle\u201d would be ranked ahead of \u201cSpaceXAI\u201d).",
+    "This market will resolve based on the company that occupies first place under this ranking.",
+    "The resolution source for this market is the arena.ai Text Arena (Overall).",
+    "If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available.",
+    "If it becomes permanently unavailable, this market will resolve to \"Other\"."
+  ],
+  "weasel_terms": [],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ],
+    [
+      "whether",
+      ""
+    ]
+  ],
+  "source_fallback": false,
+  "complexity": 3,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:43.885626+00:00",
+  "priority": 4
+}

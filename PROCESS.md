@@ -14,21 +14,23 @@
    timing / source / book snapshot).
 4. **Rank** → top 50 JSONs + `_sweep_stats.json`.
 
-## Scoring, v1 → v2 (the day's main lesson)
+## Scoring, v1 → v2 → v3 (user directive: divergence is the ONLY criterion)
 
 - **v1:** exclusions×2 + weasel×2 + missing-source+3 + thin-text+2.
   Result: `credible`/`official`/`consensus` hit ~50/54 records — they
   are UMA template boilerplate, not signal. v1 ranked template
   compliance, not ambiguity.
-- **v2:** template terms subtracted; score = exclusions×2 +
-  non-template-weasel×2. AI-rename still top (4 real exclusions);
-  volume leaders (ceasefire Dec $2.6M, Taiwan clash $3.4M) correctly
-  score ~0 — clean texts the market prices confidently.
-- **Missing `resolutionSource`: dead signal.** Empty on 54/54 — the
-  field is just never populated on Gamma. Removed from scoring;
-  still recorded.
-- Priority for the top-50 cut: `complexity × (1 + log10(volume+1))`
-  + live bonus. Complexity finds lawyers; volume finds anyone-cares.
+- **v2:** template terms subtracted. Better, but still mixed games and
+  let resolved $73M markets top the list on dead volume.
+- **v3 (current): hard gates + divergence only.** Gates — live,
+  unresolved, volume ≥ $1000 — delete the entire resolved/thin
+  embarrassment class; no score rescues a dead market. Rank =
+  2×exclusions + requirements + 2×temporal-clauses +
+  2×non-template-weasel + source-fallback. 1736 markets → gates →
+  top 50. Leader: AI-rename (30), Taiwan blockade (11), then a
+  ceasefire-date ladder at 9 — itself tradeable term structure.
+- **Missing `resolutionSource`: dead signal.** Empty nearly everywhere
+  on Gamma. Removed from scoring; still recorded.
 
 ## Findings (verified live)
 

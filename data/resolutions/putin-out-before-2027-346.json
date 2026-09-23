@@ -2,12 +2,12 @@
   "question": "Putin out as President of Russia by December 31, 2026?",
   "slug": "putin-out-before-2027-346",
   "conditionId": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-  "market_p": 0.042,
-  "bestBid": 0.041,
-  "bestAsk": 0.042,
+  "market_p": 0.041,
+  "bestBid": 0.04,
+  "bestAsk": 0.041,
   "spread": 0.001,
-  "volume": 22010134.810166974,
-  "liquidity": 807703.32486,
+  "volume": 22010134.810167003,
+  "liquidity": 801939.37011,
   "endDate": "2027-01-01T04:59:00Z",
   "umaResolutionStatus": null,
   "umaBond": "500",
@@ -29,14 +29,20 @@
     "credible",
     "official"
   ],
+  "temporal_clauses": [
+    [
+      "regardless of",
+      ""
+    ]
+  ],
+  "source_fallback": true,
   "complexity": 9,
+  "divergence": 5,
   "model_p": null,
   "model_rationale": null,
   "model_at": null,
   "edge": null,
   "status": "unassessed",
-  "structured_at": "2026-09-23T16:02:57.011638+00:00",
-  "priority": 77.08,
-  "complexity_v2": 0,
-  "weasel_non_template": []
+  "structured_at": "2026-09-23T16:18:42.881987+00:00",
+  "priority": 5
 }

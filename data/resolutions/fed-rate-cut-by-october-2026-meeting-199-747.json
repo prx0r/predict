@@ -1,0 +1,46 @@
+{
+  "question": "Fed rate cut by October 2026 meeting?",
+  "slug": "fed-rate-cut-by-october-2026-meeting-199-747",
+  "conditionId": "0x4092815fea8f91e60586882d45fa2f61bfca8a36d595f47fdea9eec5d2893025",
+  "market_p": 0.008,
+  "bestBid": 0.006,
+  "bestAsk": 0.01,
+  "spread": 0.004,
+  "volume": 174660.825189,
+  "liquidity": 69609.38717,
+  "endDate": "2027-01-29T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \u201cYes\u201d if the upper bound of the target federal funds rate is decreased at any point between December 16, 2025 and the completion of the Federal Open Market Committee (FOMC) meeting for October 2026, currently scheduled for October 27-28.",
+    "If no October meeting takes place by November 7, 2026, 11:59 PM ET, and no qualifying rate cut has been announced, this market will resolve to \"No\"."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET",
+    "by November 7, 2026"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \u201cNo\u201d.",
+    "Emergency rate cuts will qualify.",
+    "The primary resolution source for this market will be the official website of the Federal Reserve (https://www.federalreserve.gov/monetarypolicy/openmarket.htm), however a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 4,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:42.934974+00:00",
+  "priority": 4
+}

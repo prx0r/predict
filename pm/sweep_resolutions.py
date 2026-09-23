@@ -1,11 +1,13 @@
 """Resolution sweep — hundreds of markets in, top 50 structured records out.
 
 Pipeline: broad Gamma queries -> dedupe by conditionId -> structure all
--> priority rank -> save top 50 JSONs + sweep stats.
+-> hard gates (live, unresolved, volume>=1000) -> rank by DIVERGENCE
+(title-vs-conditions win-% movement) -> save top 50 JSONs + stats.
 
-Priority = complexity * (1 + log10(volume+1)) + live bonus. Complexity
-rewards lawyerly text; volume rewards anyone-cares; live bonus rewards
-resolvable-soon. Rationale logged in PROCESS.md, not hidden in code.
+Divergence = 2*exclusions + requirements + 2*temporal_clauses
++ 2*non-template-weasel + source_fallback?2:0. The ONLY ranking
+criterion: misleading conditions that move win % off the title reading.
+Rationale logged in PROCESS.md, not hidden in code.
 
 Usage:
     python3 pm/sweep_resolutions.py
@@ -74,16 +76,25 @@ def main() -> int:
             print(f"  [STRUCT ERR] {str(e)[:80]}")
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     ranked = []
+    gated = {"resolved": 0, "past": 0, "thin": 0}
     for r in recs:
-        live = 2 if ((r.get("endDate") or "")[:10] >= today
-                     and (r.get("umaResolutionStatus") or "") not in ("resolved", "finalized")) else 0
+        # HARD GATES (not score components): live, unresolved, tradable.
+        # A misleading condition on a dead or empty book has no win % to move.
+        if (r.get("umaResolutionStatus") or "") in ("resolved", "finalized"):
+            gated["resolved"] += 1
+            continue
+        if (r.get("endDate") or "")[:10] < today:
+            gated["past"] += 1
+            continue
         try:
             vol = float(r.get("volume") or 0)
         except (ValueError, TypeError):
             vol = 0.0
-        score = r.get("complexity", 0) * (1 + math.log10(vol + 1)) + live
-        ranked.append((round(score, 2), r))
-    ranked.sort(key=lambda t: -t[0])
+        if vol < 1000:
+            gated["thin"] += 1
+            continue
+        ranked.append((r.get("divergence", 0), r))
+    ranked.sort(key=lambda t: (-t[0], t[1].get("question") or ""))
 
     outdir = Path(args.out)
     outdir.mkdir(parents=True, exist_ok=True)
@@ -93,7 +104,8 @@ def main() -> int:
         (outdir / f"{slug}.json").write_text(json.dumps({**r, "priority": score}, indent=2))
     stats = {"swept_at": datetime.now(timezone.utc).isoformat(),
              "queries": len(queries), "unique": len(raw),
-             "structured": len(recs), "saved_top": min(args.top, len(ranked)),
+             "structured": len(recs), "gated": gated,
+             "saved_top": min(args.top, len(ranked)),
              "top_scores": [(s, (r.get("question") or "")[:70]) for s, r in ranked[:10]]}
     (outdir / "_sweep_stats.json").write_text(json.dumps(stats, indent=2))
     print(f"[SWEEP] saved top {min(args.top, len(ranked))} + stats")

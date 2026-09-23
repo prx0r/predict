@@ -1,0 +1,49 @@
+{
+  "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+  "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+  "conditionId": "0x80ae98ffc8aba2c15dbdc9efa0ed2188929daa6300720765f6337d60632f8e15",
+  "market_p": 0.815,
+  "bestBid": 0.81,
+  "bestAsk": 0.82,
+  "spread": 0.01,
+  "volume": 40612.060727000004,
+  "liquidity": 2648.614,
+  "endDate": "2028-01-01T04:59:00Z",
+  "umaResolutionStatus": null,
+  "umaBond": "500",
+  "umaReward": "5",
+  "resolution_source": null,
+  "requirements": [
+    "This market will resolve to \"Yes\" if OpenAI, or an official representative of OpenAI, announces that OpenAI has solved any of the qualifying Millennium Prize Problems between market creation and the specified date, 11:59 PM ET.",
+    "A qualifying announcement must express that the problem has been solved; announcements of partial results or progress toward a solution will not qualify.",
+    "The announcement must present the solution as the work of OpenAI, its researchers, or its models, alone or jointly with outside researchers."
+  ],
+  "exclusions": [],
+  "timing": [
+    "11:59 PM ET"
+  ],
+  "context": [
+    "Otherwise, this market will resolve to \"No\".",
+    "The qualifying problems are the Riemann Hypothesis, P versus NP, the Yang-Mills existence and mass gap problem, the Hodge Conjecture, and the Birch and Swinnerton-Dyer Conjecture (https://www.claymath.org/millennium-problems/).",
+    "Announcements concerning the Navier-Stokes existence and smoothness problem will not qualify.",
+    "An announcement that only credits or congratulates outside researchers, including researchers who used OpenAI's models, compute, or research credits, will not qualify.",
+    "No further confirmation from Clay Math Institute or any other organization is required.",
+    "The primary resolution source for this market will be official information from OpenAI and/or its official representatives; however, a consensus of credible reporting may also be used."
+  ],
+  "weasel_terms": [
+    "consensus",
+    "credible",
+    "official"
+  ],
+  "temporal_clauses": [],
+  "source_fallback": true,
+  "complexity": 9,
+  "divergence": 5,
+  "model_p": null,
+  "model_rationale": null,
+  "model_at": null,
+  "edge": null,
+  "status": "unassessed",
+  "structured_at": "2026-09-23T16:18:43.960329+00:00",
+  "priority": 5
+}
