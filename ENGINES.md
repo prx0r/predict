@@ -82,6 +82,47 @@ liquidity edge, not a confusion edge.
 Naive version KILLED by construction: family hit rate ~2%. Buying
 cheap Yes on names he "might" say loses 98c per dollar.
 
+### Incident: the bot fabricated 8 sure things (2026-09-23, fixed)
+
+First live run matched the **2025 inaugural transcript** to today's
+2026 Xi Jinping event (loose title-word overlap), counted words in the
+wrong speech, and paper-bought 8 legs — including "China 5+" YES at
+0.505 and "Melania" at 0.445. Every verdict was confidently wrong and
+none of it came from the contract.
+
+Three gates now, in order of how much each would have saved us:
+1. **Transcript identity**: URL must carry the event's own year/month
+   + ≥60% of distinctive title words. A wrong transcript fabricates
+   every count in the family — worse than no transcript.
+2. **Strict vs plural split** (already in): a verdict that depends on
+   a plural ("veterans", "winds") is `plural_only` → review, never
+   auto-traded. Homographs are unresolvable from text.
+3. **transcript_ok flag**: `paper` refuses any verdict without a
+   verified transcript source.
+
+8 paper entries purged, 8 verdict rows retracted in place (history
+kept, action cleared), incident logged here. The lesson generalizes:
+*mechanical verification is only as good as the identity of the thing
+verified.* Any bot that counts will eventually count the wrong thing.
+
+### Contract (Event Mentions DeFi PDF, read 2026-09-23)
+
+Implemented in `pm/speech_bot.py`: Q&A counts; aired clips count;
+plurals/possessives qualify; specified plural excludes singular;
+plural-spelled homographs excluded; tense/conjugation/derivation
+excluded; adjective-only words have no plural ("economics" ≠
+"economic"); compounds qualify across spaces/hyphens; digits spoken
+as words qualify as written, not inside a larger numeral ("five" ≠
+"five hundred"); cardinals ≠ ordinals ("one" ≠ "first"); on-screen
+text, muting, phonetic spelling never count; "-No Qualifying Event-"
+fallback.
+
+Live: 2 families armed, timer every 30 min (`pm-speech.timer`). Xi
+event (2026-09-24 10:00 ET, 21 legs, median 0.115) has 1 fade
+candidate: **"China" 5+ times at 0.505 vs 0.115 median** — a
+pre-speech narrative premium, 13 minutes old. Waiting for the
+date-matched transcript, then the counter decides.
+
 ## E9. Winner-take-all joint markets — SPECCED, one validation (2026-09-23)
 
 Nobel 2025 family: 39 markets, 5.1% Yes, mean Jev confusion 0.78,

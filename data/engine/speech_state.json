@@ -1,0 +1,591 @@
+{
+  "ran_at": "2026-09-23T22:49:45.613031+00:00",
+  "families": {
+    "What will Trump say during his remarks at Xi Jinping\u2019s state": {
+      "title": "What will Trump say during his remarks at Xi Jinping\u2019s state arrival?",
+      "legs": [
+        {
+          "terms": [
+            "Million",
+            "Billion",
+            "Trillion"
+          ],
+          "threshold": 10,
+          "mode": "count",
+          "q": "Will Trump say \"Million\" or \"Billion\" or \"Trillion\" 10+ times during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.19,
+          "bid": 0.08,
+          "ask": 0.3,
+          "end": "2026-09-24",
+          "vol": 3.225807,
+          "liq": 3469.4906,
+          "cid": "0xdd58172e10e8d9e26c7c9545caa0c6e44fd892ae5cd29fd86c794402a3edd56d",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "China"
+          ],
+          "threshold": 5,
+          "mode": "count",
+          "q": "Will Trump say \"China\" 5+ times during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.505,
+          "bid": 0.45,
+          "ask": 0.56,
+          "end": "2026-09-24",
+          "vol": 2949.092590999999,
+          "liq": 836.0165,
+          "cid": "0x179b82cf1113ca3121fbc217cb386c2b8201421ab7530800452c261b34977d87",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": true
+        },
+        {
+          "terms": [
+            "Boeing"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Boeing\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.085,
+          "bid": 0.03,
+          "ask": 0.14,
+          "end": "2026-09-24",
+          "vol": 1038.5383940000002,
+          "liq": 1392.5997,
+          "cid": "0xd8919b07c2ab76dc5c181ee78a3e5028df4fbf7dfc1b7509e4dd7244a0470a9b",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Comrade"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Comrade\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.065,
+          "bid": 0.02,
+          "ask": 0.11,
+          "end": "2026-09-24",
+          "vol": 510.95716,
+          "liq": 2564.448,
+          "cid": "0xda3a898d9d8bfc802cac7a2956f568036456fbe7d9f958956ab061f05a30f8e0",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Ballroom"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Ballroom\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.3,
+          "bid": 0.26,
+          "ask": 0.34,
+          "end": "2026-09-24",
+          "vol": 424.9477130000001,
+          "liq": 1691.7264,
+          "cid": "0x2926b6ee5b7bcdf41b11ec1e258079284027b99dff824531f874abfecdd74c9a",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Board of Trade"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Board of Trade\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.21,
+          "bid": 0.02,
+          "ask": 0.4,
+          "end": "2026-09-24",
+          "vol": 2.0,
+          "liq": 1072.2945,
+          "cid": "0x97485edb6668e2d6244aac798a6ff92764336b08be089daeceb86df9083ca1a6",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Genius"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Genius\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.125,
+          "bid": 0.1,
+          "ask": 0.15,
+          "end": "2026-09-24",
+          "vol": 56.803903000000005,
+          "liq": 1970.4758,
+          "cid": "0x0295453407f759b08ecf99c0e791f52659e71d17b07e925c79f0eab2d5542cac",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Drone"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Drone\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.1,
+          "bid": 0.07,
+          "ask": 0.13,
+          "end": "2026-09-24",
+          "vol": 98.29207000000001,
+          "liq": 1818.8749,
+          "cid": "0xaefbf2a30e6174e2eebebac5a299ac596f1ccda41fe76d49ed6aaa20a1e3e895",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Garden"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Garden\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.31,
+          "bid": 0.27,
+          "ask": 0.35,
+          "end": "2026-09-24",
+          "vol": 179.01070800000002,
+          "liq": 1101.3453,
+          "cid": "0x1562ed500856153c35598621a2d56bfc4eb34e483edc04c441856f6478d94a22",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Mineral"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Mineral\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.245,
+          "bid": 0.04,
+          "ask": 0.45,
+          "end": "2026-09-24",
+          "vol": 917.9107300000001,
+          "liq": 490.6076,
+          "cid": "0x45a6a1d0fea4b0fbee1a3faced96fc0361d1f3c9604935d6904ead5785c016bd",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Trump"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Trump\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.1,
+          "bid": 0.03,
+          "ask": 0.17,
+          "end": "2026-09-24",
+          "vol": 149.76471700000002,
+          "liq": 1549.8443,
+          "cid": "0x3729565378b66a3e7e63c48f09329a6be21746b6f71465f86b0a03151724b91b",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Economy",
+            "Economic"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Economy\" or \"Economic\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.35,
+          "bid": 0.3,
+          "ask": 0.4,
+          "end": "2026-09-24",
+          "vol": 1789.4122859999998,
+          "liq": 638.9054,
+          "cid": "0x64de25418ef65a62535b6439d17a176958e1500a9f712c10be14716ff0b9db33",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Fake News"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Fake News\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.095,
+          "bid": 0.07,
+          "ask": 0.12,
+          "end": "2026-09-24",
+          "vol": 417.884277,
+          "liq": 2982.3991,
+          "cid": "0xf74ab705d57b29902c569798aa67919e4378f17a98b386345015414ca8cfc921",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Oil",
+            "Gas",
+            "Gasoline"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Oil\" or \"Gas\" or \"Gasoline\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.115,
+          "bid": 0.08,
+          "ask": 0.15,
+          "end": "2026-09-24",
+          "vol": 256.268184,
+          "liq": 1691.6306,
+          "cid": "0x946503459f4de3af77752a8b8270f1cd17876dbf7c6f6df26d64440d9c47a780",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Stock Market"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Stock Market\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.085,
+          "bid": 0.06,
+          "ask": 0.11,
+          "end": "2026-09-24",
+          "vol": 602.224066,
+          "liq": 2283.6561,
+          "cid": "0x0588a4c1ba06a9c5c1a52dcc5bf12f7d9aa05034154aa17e388f54313361352c",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "AI",
+            "Artificial Intelligence"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"AI\" or \"Artificial Intelligence\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.36,
+          "bid": 0.27,
+          "ask": 0.45,
+          "end": "2026-09-24",
+          "vol": 3645.0351610000002,
+          "liq": 577.6718,
+          "cid": "0xc6008a4b95d41a1ee712eff1fa06d2d378aec7e9463f8ecb64d503f479c6ea9f",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Communist",
+            "Communism"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Communist\" or \"Communism\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.08,
+          "bid": 0.04,
+          "ask": 0.12,
+          "end": "2026-09-24",
+          "vol": 163.416668,
+          "liq": 2715.7361,
+          "cid": "0x443c4af651096ade768f146d09982b3425f425fe1918e76c97eb1515091b6303",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Bitcoin",
+            "Crypto",
+            "Cryptocurrency"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Bitcoin\" or \"Crypto\" or \"Cryptocurrency\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.0425,
+          "bid": 0.024,
+          "ask": 0.061,
+          "end": "2026-09-24",
+          "vol": 3176.915016,
+          "liq": 21034.60239,
+          "cid": "0x9a12c75cef0c1beb705b6f645c0a24efb14da5af12ddeb202a9da33d9aa57821",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Six Seven"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Six Seven\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.028,
+          "bid": 0.007,
+          "ask": 0.049,
+          "end": "2026-09-24",
+          "vol": 543.627347,
+          "liq": 4440.18419,
+          "cid": "0xbc967bb444f0f5bba21fe010b48e7707195a2cb4174d9a3cc7593947832aff8c",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Melania"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Melania\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.445,
+          "bid": 0.36,
+          "ask": 0.53,
+          "end": "2026-09-24",
+          "vol": 1425.555415,
+          "liq": 759.1125,
+          "cid": "0x5b47a31c1c75d797fd719028723134863b83b61295eeadee898e44510f2a1aa1",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Taiwan"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Taiwan\" during his remarks at Xi Jinping's State Arrival?",
+          "p_yes": 0.0365,
+          "bid": 0.026,
+          "ask": 0.047,
+          "end": "2026-09-24",
+          "vol": 3850.066231,
+          "liq": 6079.9829,
+          "cid": "0x6a97b50476154a4b53e856ba87880acd47fd32b1b8fad04f50f4b1e1a1b886dd",
+          "fade_thr": 0.46,
+          "family_med": 0.115,
+          "fade_candidate": false
+        }
+      ],
+      "median": 0.115,
+      "threshold": 0.46,
+      "n": 21
+    },
+    "What will Trump say this week? (September 21 - September 27)": {
+      "title": "What will Trump say this week? (September 21 - September 27)",
+      "legs": [
+        {
+          "terms": [
+            "Pearl Harbor"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Pearl Harbor\" this week?",
+          "p_yes": 0.615,
+          "bid": 0.28,
+          "ask": 0.95,
+          "end": "2026-09-27",
+          "vol": 781.501037,
+          "liq": 21.4271,
+          "cid": "0x67d972395b528a16a73e47f89f19a993eb1c2267a0c295165b0b3840b3e6db19",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Tiger"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Tiger\" this week?",
+          "p_yes": 0.355,
+          "bid": 0.15,
+          "ask": 0.56,
+          "end": "2026-09-27",
+          "vol": 809.227436,
+          "liq": 58.4485,
+          "cid": "0xba311e81899e135d92c851401db673f6382680b07814f7a78e49c26910cd6498",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Heaven"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Heaven\" this week?",
+          "p_yes": 0.38,
+          "bid": 0.18,
+          "ask": 0.58,
+          "end": "2026-09-27",
+          "vol": 635.051263,
+          "liq": 99.1166,
+          "cid": "0x7bee6ad8f771cbae9fe66e257943edc2eab1bf528203f0645a3525a160e9ddcb",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Cloud"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Cloud\" this week?",
+          "p_yes": 0.285,
+          "bid": 0.17,
+          "ask": 0.4,
+          "end": "2026-09-27",
+          "vol": 368.0,
+          "liq": 86.7087,
+          "cid": "0x76e069559aac9649a965d5ca1518e1a7ce4a3cf8b0f287869e902d71729fb1e9",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Granite"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Granite\" this week?",
+          "p_yes": 0.29,
+          "bid": 0.2,
+          "ask": 0.38,
+          "end": "2026-09-27",
+          "vol": 888.928568,
+          "liq": 228.0203,
+          "cid": "0xd36b90b4b372da50ef1bca230f00b612153737e99a10c57cb8990d69fadb70e9",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Eisenhower"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Eisenhower\" this week?",
+          "p_yes": 0.21,
+          "bid": 0.16,
+          "ask": 0.26,
+          "end": "2026-09-27",
+          "vol": 1000.184741,
+          "liq": 49.8768,
+          "cid": "0x792b646a7bf47c78b156504d3047ff4a50d044709c4783ab8b2a99c7f329bca8",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Cheat",
+            "Cheater"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Cheat\" or \"Cheater\" this week?",
+          "p_yes": 0.265,
+          "bid": 0.03,
+          "ask": 0.5,
+          "end": "2026-09-27",
+          "vol": 324.0,
+          "liq": 12.8484,
+          "cid": "0xf23a8c0c044a0a33a1757a6295a28d4da32b5a659749083ff5f23d57799864c3",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Elon",
+            "Musk"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Elon\" or \"Musk\" this week?",
+          "p_yes": 0.7,
+          "bid": 0.42,
+          "ask": 0.98,
+          "end": "2026-09-27",
+          "vol": 367.103,
+          "liq": 5.6553,
+          "cid": "0xd1fbc742585da5bc2f23b625f7cb91aa86fca0e4eff2e6cc098b8e24d3419857",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Cook",
+            "Cooked"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Cook\" or \"Cooked\" this week?",
+          "p_yes": 0.58,
+          "bid": 0.5,
+          "ask": 0.66,
+          "end": "2026-09-27",
+          "vol": 659.4506349999999,
+          "liq": 108.2049,
+          "cid": "0x3820500fc8519ac3e38b6c86b5efcf5af5d869a16e9b44c44c88c11809997fd3",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        },
+        {
+          "terms": [
+            "Six Seven"
+          ],
+          "threshold": 1,
+          "mode": "presence",
+          "q": "Will Trump say \"Six Seven\" this week?",
+          "p_yes": 0.13,
+          "bid": 0.02,
+          "ask": 0.24,
+          "end": "2026-09-27",
+          "vol": 257.684996,
+          "liq": 76.8487,
+          "cid": "0x69fac801bede5d66b404ca26835203bf95e7d964c19a6ba26d906359e591e09d",
+          "fade_thr": 1.29,
+          "family_med": 0.3225,
+          "fade_candidate": false
+        }
+      ],
+      "median": 0.3225,
+      "threshold": 1.29,
+      "n": 10
+    }
+  }
+}
