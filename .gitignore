@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .env
+
+# backtest scratch (re-downloadable)
+data/_tmp_backtest/

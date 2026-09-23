@@ -69,5 +69,13 @@
     "crux": "Market says BLOCKADE with single-vessel carve-out. Ongoing gray-zone/quarantine activity likely does NOT satisfy it (else p would not be 0.038). The trigger is a qualitative jump to enforced denial \u2014 which historically comes with invasion-level signaling, not 2026 timelines.",
     "misreading": "Headlines about incursions/quarantine-underway suggest action; conditions require blockade-scale denial. Title readers overpay Yes on gray-zone news.",
     "assessed_at": "2026-09-23T16:29:05.186769+00:00"
-  }
+  },
+  "jev_assessment": {
+    "model": "typesafe/jev-1.13",
+    "via": "openrouter-decisions-api",
+    "resolves_yes_noul": 0.14,
+    "conditions_misleading_noul": 0.8,
+    "assessed_at": "2026-09-23T18:06:37.048456+00:00"
+  },
+  "edge_jev": 0.102
 }
