@@ -47,6 +47,9 @@ def state_of(rec: dict) -> str:
 
 
 QUESTIONS = {
+    # Fan-out: all questions ride one call (parallel eval, ~zero marginal
+    # time; batching is ~12x cheaper/faster per TypeSafe cookbook).
+    # Pinned version (never jev-latest alias: answers drift on move).
     "resolves_yes": {
         "type": "noul",
         "instructions": "Will this market resolve Yes?",
@@ -63,23 +66,45 @@ QUESTIONS = {
             "false": "Title and conditions align",
         },
     },
+    "game_type": {
+        "type": "choice",
+        "instructions": "Which game does this market belong to?",
+        "criteria": {
+            "arb": "mechanical mispricing vs related markets",
+            "decay": "time-decay toward a knowable outcome",
+            "judgment": "genuinely uncertain event, research wins",
+            "noise": "resolved, thin, or unplayable",
+        },
+    },
+    "attention": {
+        "type": "score",
+        "instructions": "How urgently does this deserve human review?",
+        "criteria": ["ignore", "watch", "review soon", "review now"],
+    },
 }
+
+JEV_MODEL_PIN = "typesafe/jev-1.13"
 
 
 def assess_file(fp: Path) -> dict | None:
     rec = json.loads(fp.read_text())
     try:
-        ans = jev_decide(state_of(rec), QUESTIONS, model="typesafe/jev-1.13")
+        ans = jev_decide(state_of(rec), QUESTIONS, model=JEV_MODEL_PIN)
     except Exception as e:
         print(f"  [{fp.stem[:40]}] JUDGE ERR {str(e)[:100]}")
         return None
     rj = ans.get("resolves_yes", {})
     cm = ans.get("conditions_misleading", {})
+    gt = ans.get("game_type", {})
+    at = ans.get("attention", {})
     rec["jev_assessment"] = {
-        "model": "typesafe/jev-1.13",
+        "model": JEV_MODEL_PIN,
         "via": "openrouter-decisions-api",
         "resolves_yes_noul": rj.get("noul"),
         "conditions_misleading_noul": cm.get("noul"),
+        "game_type": gt.get("choice"),
+        "game_probs": gt.get("probabilities"),
+        "attention": at.get("score"),
         "assessed_at": datetime.now(timezone.utc).isoformat(),
     }
     mp = rec.get("market_p")
